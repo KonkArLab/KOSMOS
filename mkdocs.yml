@@ -1,3 +1,25 @@
 site_name: My Docs
 theme:
     name: readthedocs
+version: 2
+
+build:
+  os: "ubuntu-20.04"
+  tools:
+    python: "3.8"
+
+sphinx:
+  configuration: docs/conf.py
+
+python:
+  install:
+    - requirements: docs/requirements.txt
+name: docs
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - sphinx==4.2.0
+  - nbsphinx==0.8.1
+  - pip:
+    - sphinx_rtd_theme==1.0.0
