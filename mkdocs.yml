@@ -3,11 +3,11 @@ nav:
     - Setup:
        
     - Assembly:
-        - Assembly guide: assembly_guide.md
+        - Assembly guide: index.md
     - Usage:
-        -
+        - Circuit PCB: 
     - Hardware:
-        
+        - 
     - Under the hood:
         
     - Changelog:
