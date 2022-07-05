@@ -1,7 +1,9 @@
 # KOSMOS
 An underwater observation tool
+django-webp-converter is a Django app which straightforwardly converts static images to WebP images, falling back to the original static image for unsupported browsers.
 
-![kosmos](photos/inte3D_legende.png)
+
+![kosmos](docs/photos/inte3D_legende.png)
 
 Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International.](https://creativecommons.org/licenses/by-nc-sa/4.0/) L'auteur à mentionner est Konk Ar Lab et Ifremer
 
