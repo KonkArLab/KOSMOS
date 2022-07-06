@@ -4,7 +4,7 @@ nav:
         - Fournitures: materials_fr.md
         - Matériel: tools_fr.md
         - Guide d'assemblage: assembly-guide_fr.md
-        - Annexes: annexe_fr.md 
+        - Annexes: annex_fr.md 
     - Dummy:
         - Dummy: dummy.md
    
