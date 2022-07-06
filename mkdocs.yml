@@ -13,7 +13,17 @@ nav:
         
     
 theme:
-    name: readthedocs
+    name: material
+  palette:
+    primary: blue
+
+plugins:
+  - search
+  - i18n:
+      default_language: fr
+      languages:
+        fr: Français
+        en: English
 
 markdown_extensions:
     - smarty
