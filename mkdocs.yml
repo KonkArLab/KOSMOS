@@ -1,10 +1,16 @@
 site_name: KOSMOS
 nav:
-    - Assembly:
-        - Assembly guide: index.md
-    - Dummy:
-        - Dummy: dummy.md
-   
+    - Fabrication :
+        - Fournitures: materials_fr.md
+        - Matériel: tools_fr.md
+        - Guide d'assemblage: assembly-guide_fr.md
+        - Annexes: annex_fr.md 
+        
+    - Utilisation en mer :
+        - Check-list: check-list_fr.md
+        - Guide de déploiement: deployment.md
+        - Retour à terre: landing.md
+        
     
 theme:
     name: readthedocs
