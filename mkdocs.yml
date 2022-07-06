@@ -11,11 +11,10 @@ nav:
         - Guide de déploiement: deployment.md
         - Retour à terre: landing.md
         
-    
 theme:
     name: material
     palette:
-      primary: green
+      primary: blue
 
 plugins:
   - search
