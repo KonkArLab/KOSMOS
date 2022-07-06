@@ -2,6 +2,8 @@ site_name: KOSMOS
 nav:
     - Assembly:
         - Assembly guide: index.md
+    - Dummy:
+        - Dummy: dummy.md
    
     
 theme:
