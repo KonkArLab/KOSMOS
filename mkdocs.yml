@@ -1,15 +1,15 @@
 site_name: KOSMOS
 nav:
-    - Fabrication :
-        - Fournitures: materials_fr.md
-        - Matériel: tools_fr.md
-        - Guide d'assemblage: assembly-guide_fr.md
-        - Annexes: annex_fr.md 
+    - I/ Fabrication :
+        - 1. Fournitures: materials_fr.md
+        - 2. Matériel: tools_fr.md
+        - 3. Guide d'assemblage: assembly-guide_fr.md
+        - 4. Annexes: annex_fr.md 
         
-    - Utilisation en mer :
-        - Check-list: check-list_fr.md
-        - Guide de déploiement: deployment.md
-        - Retour à terre: landing.md
+    - II/ Utilisation en mer :
+        - 1. Check-list: check-list_fr.md
+        - 2. Guide de déploiement: deployment.md
+        - 3. Retour à terre: landing.md
         
 theme:
     name: material
