@@ -196,34 +196,35 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 * Le bouton rotatif est livré démonté par Blue robotics. Rassembler le passe-coque, le bouton, les trois joints thoriques, le poussoir, les deux fils et l'écrou.
 
-![AG2-1-A](pictures/assembly_guide/)!
+![AG2-1-A](pictures/assembly_guide/AG2-1.JPG)
 
 * Placer le plus grand des trois joint thorique dans la gorge du passe-coque.
 
-[View DSC_0147.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0147.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-2.JPG)
 
 ​
 
 * Au doigt, graisser les deux joints restants. Puis insérer les dans les deux gorges du bouton noir.
 
-[View DSC_0149.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0149.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-3.JPG)
 
 ​
 
 * Visser le bouton noir dans le passe-coque. Le vissage doit être facile. Si ce n'est pas le cas, il sera peut-être nécéssaire de graisser d'avantage.
 
-[View DSC_0150.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0150.JPG)
+
+![AG2-1-A](pictures/assembly_guide/AG2-4.JPG)
 
 * Visser l'écrou sur le passe-coque.
 
-[View DSC_0153.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0153.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-5.JPG)
 
 ​
 
 * A l'extrémité opposé au bouton noir, visser le bouton poussoir. Dévisser légèrement le bouton noir de manière à ce que le poussoir soit ouvert \(surveiller à l'aide d'un multimètre sur le mode continuité\).
 * Pour finir connecter les fils sur les broches du bouton poussoir.
 
-[View DSC_0163.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0163.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-6.JPG)
 
 ​
 
@@ -235,25 +236,25 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 * Le bouchon vent est livré démonté par Blue robotics. Rassemblez le passe-coque, le bouchon, les trois joints thoriques, le poussoir, les deux fils et l'écrou.
 
-[View DSC_0164.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0164.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-7.JPG)
 
 ​
 
 * Placer le plus grand des trois joint thorique dans la gorge du passe-coque. Puis visser l'écrou.
 
-[View DSC_0165.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0165.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-8.JPG)
 
 ​
 
 * Insérer les deux petits joints thoriques dans les deux gorges du bouchon.
 
-[View DSC_0166.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0166.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-9.JPG)
 
 ​
 
-* Visser le bouchon sur le passe-coque.
+* Visser le bouchon sur le passe-coque en graissant légèrement à la graisse silicone les joints.
 
-[View DSC_0167.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0167.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-10.JPG)
 
 ​
 
@@ -263,14 +264,13 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 * Le capteur de pression est livré démonté par Blue robotics. Rassembler le capteur dans son passe-coque, le joint thorique et l'écrou.
 
-[View DSC_0168.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0168.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-11.JPG)
 
 ​
 
 * Insérer le joint thorique dans la gorge et engager l'écrou sur le capteur.
 
-[View DSC_0170.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0170.JPG)
-
+![AG2-1-A](pictures/assembly_guide/AG2-12.JPG)
 ​
 
 ​
@@ -281,21 +281,19 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 * Rassembler, le end cap en aluminium à 5 trous, les deux connecteurs cobalts femelles, ainsi que les trois passes-coques précédamment assemblés \(bouton rotatif, bouchon vent, et capteur de pression\).
 
-[View DSC_0175.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0175.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-13.JPG)
 
 ​
 
 * Visser les des connecteurs cobalt sur deux trous voisins. Attention à veiller à positionner le joint du côté externe.
 
-[View DSC_0179.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0179.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-14.JPG)
 
 ​
 
 * Visser et serrer les 3 autres passe-coques. Serrer fort les 5 passes-coques.
 
-[View DSC_0216.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0216.JPG)
-
-​
+![AG2-1-A](pictures/assembly_guide/AG2-15.JPG)
 
 ​
 
@@ -305,26 +303,26 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 * Rassembler, le end-cap et ses passes-coques, une flange ainsi que les pièces fournies avec la flange \(3 joints thoriques, et un 6 vis M3\).
 
-[View DSC_0222.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0222.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-16.JPG)
 
 ​
 
 * Au doigts graisser légèrement les deux joints les plus épais.
 * Insérer ses derniers dans les gorges prévues à cet effet.
 
-[View DSC_0172.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0172.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-17.JPG)
 
 ​
 
 * Insérer sans graisser le plus fin des joint thorique dans la dernière gorge de la flange.
 
-[View DSC_0173.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0173.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-18.JPG)
 
 ​
 
 * Visser le end-cap sur la flange à l'aide des 6 vis M3.
 
-[View DSC_0229.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0229.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-19.JPG)
 
 ​
 
@@ -336,15 +334,14 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 * Rassembler la seconde flange, ses 3 joints thoriques, le hublot \(end-cap clear\) et les 6 vis M3.
 
-[View DSC_0232.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0232.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-20.JPG)
 
 ​
 
 * Exactemment comme à l'étape précédente installer les 3 joints sur la seconde flange. Ne pas oublier le graissage des deux gros joints.
 * Visser le hublot à l'aide des 6 vis M3.
 
-[View DSC_0233.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0233.JPG)
-
+![AG2-1-A](pictures/assembly_guide/AG2-21.JPG)
 ​
 
 ### 2.7 Assemblage du détrompeur
@@ -355,13 +352,13 @@ Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sen
 
 * Rassembler le bouchon hublot, le détrompeur \(I4\), et 4 vis M3\*20mm.
 
-[View DSC_0234.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0234.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-22.JPG)
 
 ​
 
 * Visser le détrompeur sur l'arrière du bouchon hublot.
 
-[View DSC_0235.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0235.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-23.JPG)
 
 ​
 
@@ -373,7 +370,7 @@ Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sen
 
 * Rassembler les deux bouchons et le tube acrylique.
 
-[View DSC_0238.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0238.JPG)
+![AG2-1-A](pictures/assembly_guide/AG2-24.JPG)
 
 ​
 
@@ -381,8 +378,7 @@ Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sen
 * Insérer chaque bouchon à une extrémité du tube. Il doivent s'insérer facilement \(dans le cas contraire ajouter de la graisse.
 * Refermer le bouchon du vent.
 
-[View DSC_0239.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0239.JPG)
-
+![AG2-1-A](pictures/assembly_guide/AG2-25.JPG)
 ​
 
 * Pour ouvrir le caisson dans les étapes suivantes, commencer par ouvrir le vent, puis tirer bien dans l'axe le bouchon des passes-coques. Il n'est pas nécéssaire de regresser à chaque fois. Cependant il faudra veiller à ne pas salir les parties graissées.
