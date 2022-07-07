@@ -96,7 +96,7 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 * A ces mêmes emplacements, souder des broches duponts mâles.  /!\ Attention on soude les composants de manière a ce qu'ils soient sur la face opposé au circuit. Seule les pattes traversent et sont soudés du coté du circuit.
 
 ​
-![POP3-1](pictures/assembly_guide/POP3-1.PNG)
+![POP3-1](pictures/productions_of_parts/POP3-1.PNG)
 
 ​
 
@@ -106,7 +106,7 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 
 ​
 
-![POP3-2](pictures/assembly_guide/POP3-2.PNG)
+![POP3-2](pictures/productions_of_parts/POP3-2.PNG)
 
 ​
 
@@ -116,7 +116,7 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 
 ​
 
-![POP3-3](pictures/assembly_guide/POP3-3.PNG)
+![POP3-3](pictures/productions_of_parts/POP3-3.PNG)
 
 
 ​
@@ -127,14 +127,14 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 
 ​
 
-![POP3-4](pictures/assembly_guide/POP3-4.PNG)
+![POP3-4](pictures/productions_of_parts/POP3-4.PNG)
 
 ​
 
 * Souder sur les broches duponts, dans le sens indiqué les 3 modules RTC \(Horloge\), l'indicateur de niveau de batterie et le relai. 
 
 ​
-![POP3-5](pictures/assembly_guide/POP3-5.PNG)
+![POP3-5](pictures/productions_of_parts/POP3-5.PNG)
 
 ​
 
@@ -143,4 +143,4 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 * Souder 3 ILS sur les emplacements indiqués \(en orange cf. dessin ci dessous\). \(PCB\_step3-6.png\)
 
 ​
-![POP3-6](pictures/assembly_guide/POP3-6.PNG)
+![POP3-6](pictures/productions_of_parts/POP3-6.PNG)
