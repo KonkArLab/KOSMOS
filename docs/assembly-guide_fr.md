@@ -1,90 +1,6 @@
 # KOSMOS_3.0
-## 1/ Impression des pièces en 3D
 
-Imprimer toutes les pièces nécessaires. [Les fichiers STL sont disponibles ici](https://wikifactory.com/@konkarlab/kosmos30/files/KOSMOS_3-0_beta1/3Dmodels_KOSMOS_3-0) .
-
-​
-
-**1.1 Pour l'intérieur du caisson :**
-
-* 1 x I1 qui va supporter la carte Rapsberry
-* 1x I2, qui va faire le lien entre la structure Raspberry et la plaque sur laquelle va se positionner les batteries.
-* 1x I3,qui va supporter la PiCam
-* 1x I4, qui va se visser à une flange du tube pour empécher les structures internes du KOSMOS de pouvoir tourner dans le tube.
-
-[View inte3D_legende.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Captions/inte3D_legende.png)
-
-​
-
-​
-
-**1.2 Pour l'extérieur du caisson :**
-
-​
-
-Toutes ces pièces doivent êtres impérativement imprimés en PET. En effet, cette matière est la plus résistante à l'eau de mer parmi les matériaux disponibles en impression 3D FDM. Si vous disposez d'autres technologies, ne pas hésiter à essayer et nous faire part du résultat. Cependant, nous savons que la résine par SLA ne convient pas pour une raison de dureté. Il peut-être intéressant également de travailler à un réducteur sans impression 3D à la fraiseuse uniquement pour rendre la plongée possible à de plus grandes profondeurs.
-
-Nous recommandons un taux de remplissage des pièces qui ne soit inférieur à 30%. Toutes nos pièces ont un taux de remplissage à 100%.
-
-* 1x R3 qui permet de transmettre l'effort de la croix de malte à la tige fileté.
-* 1x R5, permets de guider l'arbre secondaire et de ne pas serrer les flasques avec les engrenages de cet arbre.
-* 1x R6, une entretoise sur l'arbre primaire
-* 1x R4, l'entretoise pour le support moteur
-* 1x Reducteur3D n°5 SupMag, permets de placer le capteur magnétique
-* 2x R1 et 2x R1.2 , permet de maintenir le caisson solidaire au
-
-[View PHOTO_20220317_182010_petit.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Captions/PHOTO_20220317_182010_petit.png)
-
-​
-
-​
-
-_Note  : Toutes les pièces devront être netoyées de leurs supports et au cours du montage, elles nécéssiteront peut-être d'être limées \(papier de verre ou lime à main\) afin de supprimer toutes traces de fils d'anges._
-
-## 2/ Découpe des pièces planes au laser
-
-Le KOSMOS 2.3 est composé en plus de pièces imprimés en 3D et de visserie Inox de pièces à découper au laser dans des plaques de PMMA et de POM. Ainsi on peut immerger ses pièces dans l'eau sans craindre la pression. Les pièces de l'intérieur du caisson peuvent être aussi imprimés en 3D.  [Les trois fichiers vectoriels évoqués ci-dessous sont disponibles ici. ](https://wikifactory.com/@konkarlab/kosmos30/files/KOSMOS_3-0_beta1/Laser-cuts_KOSMOS_3-0_beta1)
-
-​
-
-**2.1 Pour l'intérieur du caisson :**
-
-* Télécharger le fichier PMMA-5mm\_A5\_laser-cut.svg
-* Découper les pièces S1 S2 dans du PMMA de 5mm d'éppaisseur \(prévoir l'équivalent de la surface d'une feuille A5\) ;
-
-[View legende_str_int_PMMA_5mm_A5.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Captions/legende_str_int_PMMA_5mm_A5.png)
-
-​
-
-​
-
-**2.2 Pour l'extérieur du caisson :**
-
-Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réaliser en PMMA 5mm si on veut voir à travers ou un autre plastique de 5mm comme des plaques de plastique recyclé.
-
-* Il est nécéssaire de sélectionner une plaque de PMMA bien plane de 5mm d'épaisseur \(prévoir l'équivalent de la surface d'une feuille A3\) ;
-* Télécharger le fichier PMMA-5mm\_A3\_Laser-cut.svg pour lancer une découpe au laser ou à la fraiseuse numérique ;
-* Toutes les pièces sont disposées ici de manière à rentrer dans un format A3 \(42\*29,7 cm\).
-
-[View legende_decoupePMMAA3.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Captions/legende_decoupePMMAA3.png)
-
-​
-
-​
-
-**2.3 Les pièces en mouvements \(engrenages...\) seront usinés de préférence en POM.**
-
-* Il est nécéssaire de sélectionner une plaque  de POM bien plane de 5mm d'épaisseur ;
-* Utiliser le fichier POM-5mm\_A4\_laser-cut.svg pour lancer une découpe ;
-* Toutes les pièces sont disposées ici de manière à rentrer dans un format A4 \(21\*29,7 cm\) ;
-
-​
-
-​
-
-[View legende_decoupePOMA4.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Captions/legende_decoupePOMA4.png)
-
-## 3/ Assemblage des composants intérieurs au caisson
+## 1/ Assemblage des composants intérieurs au caisson
 
 
 
@@ -103,7 +19,7 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 
 
 
-3.1 **Assemblage de la caméra :**
+### 1.1 Assemblage de la caméra :
 
 * Rassembler, la Picam HQ, sa nappe \(câble plat\), la stucture caméra n°3, 3 vis M2,5\*5mm, 4 entretoises en laiton M2,5\*5+5mm et 4 rondelles M2,5.
 
@@ -125,7 +41,7 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 
 ​
 
-**3.2 Assemblage de la Raspberry :**
+### 1.2 Assemblage de la Raspberry :
 
 ​
 
@@ -149,7 +65,7 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 
 ​
 
-**3.3 Assembler le circuit d'alimentation :**
+### 1.3 Assembler le circuit d'alimentation :
 
 ​
 
@@ -174,7 +90,7 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 
 ​
 
-**3.4 Finalisation de l'assemblage interne :**
+### 1.4 Finalisation de l'assemblage interne :
 
 ​
 
@@ -232,7 +148,7 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 
 ​
 
-**3.5 Installation de la Batterie**
+**1.5 Installation de la Batterie**
 
 ​
 
@@ -270,13 +186,13 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 
 
 
-## 4/ Assemblage du caisson
+## 2/ Assemblage du caisson
 
 Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de plongée\) certaines pièces pour à la fois assurer l'étanchéité et faciliter le démontage du tube étanche. Attention, il ne faut graisser que les pièces qui coulissent \(ex : Flange, bouchons, interrupteurs rotatifs\). Le graissage se fait au doigt et consiste à simplement huiler les surfaces qui doivent coulisser ou tourner tout en restant étanche.
 
 ​
 
-**4.1 Assemblage du bouton rotatif :**
+### 2.1 Assemblage du bouton rotatif :
 
 * Le bouton rotatif est livré démonté par Blue robotics. Rassembler le passe-coque, le bouton, les trois joints thoriques, le poussoir, les deux fils et l'écrou.
 
@@ -313,7 +229,7 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 ​
 
-**4.2 Assemblage du bouchon vent :**
+### 2.2 Assemblage du bouchon vent :
 
 ​
 
@@ -343,7 +259,7 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 ​
 
-**4.3 Assemblage du capteur de pression**
+### 2.3 Assemblage du capteur de pression
 
 * Le capteur de pression est livré démonté par Blue robotics. Rassembler le capteur dans son passe-coque, le joint thorique et l'écrou.
 
@@ -359,7 +275,7 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 ​
 
-**4.4 Serrage des passes-coques sur le end cap aluminium**
+### 2.4 Serrage des passes-coques sur le end cap aluminium
 
 ​
 
@@ -383,7 +299,7 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 ​
 
-**4.5 Assemblage du end-cap sur la flange**
+### 2.5 Assemblage du end-cap sur la flange
 
 ​
 
@@ -414,7 +330,7 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 ​
 
-**4.6 Assemblage du bouchon hublot**
+### 2.6 Assemblage du bouchon hublot
 
 ​
 
@@ -431,7 +347,7 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 ​
 
-**4.7 Assemblage du détrompeur**
+### 2.7 Assemblage du détrompeur
 
 Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sens défini dans le tube. Il est imprimé en 3D et se vis sur le bouchon hublot du caisson.
 
@@ -451,7 +367,7 @@ Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sen
 
 ​
 
-**4.7 Assemblage final du tube**
+### 2.7 Assemblage final du tube
 
 ​
 
@@ -471,9 +387,9 @@ Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sen
 
 * Pour ouvrir le caisson dans les étapes suivantes, commencer par ouvrir le vent, puis tirer bien dans l'axe le bouchon des passes-coques. Il n'est pas nécéssaire de regresser à chaque fois. Cependant il faudra veiller à ne pas salir les parties graissées.
 
-## 5/ Electroniques et câblages
+## 3/ Electroniques et câblages
 
-**5.1 Perçage du PCB et soudure**
+### 3.1 Perçage du PCB et soudure
 
 ​
 
@@ -535,75 +451,8 @@ Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sen
 
 [View PCB_step3-6.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-6.png)
 
-## Paramétrer la Raspberry
 
-La raspberry pi 4 n'est autre que le cerveau du KOSMOS. Pour configurer la raspberry, il faudra brancher la raspberry à un écran, et connecter par les USB un clavier et une souris. On peut aussi alimenter la carte par son alimentation 220v plutôt que d'utiliser la batterie.
-
-​
-
-Si votre carte SD ne contient pas le système d'exploitation raspbian,  il faudra l'installer pour cela l[es tutoriels extérieurs sont efficaces.](https://raspberry-pi.fr/creer-carte-sd-windows-mac-linux-raspberry-pi-imager/#:~:text=Installer%20Raspberry%20Pi%20Imager%2C%20rien%20de%20plus%20simple%20!&text=Il%20vous%20suffit%20de%20t%C3%A9l%C3%A9charger,base%20Debian%2C%20par%20exemple%20Ubuntu)
-
-​
-
-* Une fois l'OS de la raspberry installé, connecter cette dernière au wifi.
-* Ouvrir un terminal de commande en pressant \(ctrl + alt +t\)
-* Lancer une mise à jour par les commandes suivantes \(pour lancer une commande, ecrire son contenu sans en changer ni la forme ni l'orthographe et taper sur entrer. Attendre que la ligne commançant par le $ revienne avant de lancer la seconde\).
-  * `sudo apt update`
-  * Puis `sudo apt upgrade`
-* Puis lancer commande `sudo raspi-config`. Cette commande va ouvrir un menu dans lequel on ne peut se déplacer qu'avec le clavier.
-  * activer la caméra
-  * activer l'I2C
-  * activer le serial port
-* Puis sortir de raspi config
-* Redémarrer la raspberry
-* Installer désormais des librairies  avec les commandes suivantes sur le terminal
-  * Python smbus `sudo apt install python-Smbus`
-  * `wget`https://github.com/joan2937/pigpio/archive/master.zip``
-    `unzip master.zip`
-    `cd pigpio-master`
-    `make`
-    `sudo make install` Cela permets d'installer la librairie pour commander le moteur
-* Enfin toujours sur le terminal de commande, après avoir branché la clé USB sur un port USB3 \(bleu\), attribuer tous les droits d'exécution à la clé.
-  * Pour cela rendez-vous dans le dossier contenant la clé `cd /media/pi`
-  * Une fois ici on peut lancer la commende `ls -l` qui permets de lister les fichiers présents dans le dossier.
-  * Retrouver la clé USB par son nom.
-  * Puis attribuer les droits d’exécution à cette clé `sudo chmod a+x LeNomdeLaCle`
-* **A compléter pour le GPS ou RTC**
-
-## Calibrer l'ESC
-
-
-
-
-
-
-
-
-
-
-
-
-* A l'aide de la clé USB pro-Tronik PROG, brancher la prise BEC sur le PC. \(Veiller au sens de la prise BEC sur le port du connecteur.
-* Télécharger le logicile BHeli correspondant à votre OS : https://drive.google.com/drive/folders/1Y1bUMnRRolmMD_lezL0FYd3aMBrNzCig
-* Une fois téléchargé, décomprésser et ouvrir le programme.
-* En bas, de la fenêtre qui s'ouvre, sélectionner le bon port com.
-* Puis choisir la vitesse de communication 19200.
-* Appuyer sur "connect"
-* Si cela ne fonctionne pas dans les menu en haut cliquer sur "Select BLHeli\_32 interface" et séléctionner "\(USB/com\)" Puis essayer à nouveau la connexion.
-* Brancher la batterie à l'ESC.
-
-
-
-
-
-
-
-
-
-
-
-
-## Assemblage du réducteur
+## 4/ Assemblage du réducteur
 
 Le KOSMOS est une caméra sous-marine capable de pivoter dans un sens unique par pas de 60°. Ainsi elle observera un panoramique en sous-échantillonant par 6 plans vidéos  de 60° et 30s chacun.
 
@@ -613,7 +462,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-**Préparation des engrenages**
+### 4.1 Préparation des engrenages
 
 ​
 
@@ -628,7 +477,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-**Assembler la croix de Malte**
+### 4.2 Assembler la croix de Malte
 
 ​
 
@@ -642,7 +491,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-**Découpe des entretoises et tiges filetés :**
+### 4.3 Découpe des entretoises et tiges filetés
 
 * Couper 4 morceaux de tube inox à des longueurs différentes \(1\*42,5mm ; 1\* 49,2mm et 2\* 51,3mm\). On peut effectuer une première coupe au coupe tube puis finir au tour à métal. Veiller à bien ébarber les extrémités afin que la tige fileté s'incère facilement à l'intérieur du tube ;
 
@@ -656,7 +505,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-**Assemblage de l'arbre primaire :**
+### 4.4 Assemblage de l'arbre primaire
 
 * Rassemblerla croix de malte précédamment montée, deux pignons, deux rondelles M8\_18mm, deux rondelles M10\_22mm, 2 écrous freins M8, la pièce R5, le morceau de tube d'inox de longueur 42,5mm et de la tige fileté M8 de longueur 160mm.
 
@@ -712,7 +561,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-**Assemblage du bras de malte :**
+### 4.5 Assemblage du bras de malte
 
 ​
 
@@ -746,7 +595,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-**Assemblage de l'arbre secondaire :**
+### 4.6 Assemblage de l'arbre secondaire
 
 ​
 
@@ -823,7 +672,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-**Fixation du moteur :**
+### 4.7 Fixation du moteur
 
 ​
 
@@ -853,7 +702,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-**Installation du capteur magnétique :**
+### 4.8 Installation du capteur magnétique
 
 ​
 
@@ -871,7 +720,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-**Montage des bers \(supports du caisson\) :**
+### 4.9 Montage des bers (supports du caisson)
 
 ​
 
@@ -891,7 +740,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-**Installation des Bers sur le réducteur :**
+### 4.10 Installation des Bers sur le réducteur
 
 ​
 
@@ -909,7 +758,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-**Installation des parois du réducteur :**
+### 4.11 Installation des parois du réducteur
 
 ​
 
@@ -935,72 +784,4 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 * Installer Les plaques C1 sur les deux côtés longs du réducteur. Comme à l'étape précédente, veiller à ce que les écrous viennent bloquer la plaque. Attention à serrer à tâtons pour éviter de fendre le PMMA.
 
 [View DSC_0269.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0269.JPG)
-
-## Ajout du mode MICADO
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Le principe du mode MICADO est de pouvoir laisser le KOSMOS en position pendant plusieurs jours. L'objectif n'est pas de le faire tourner pendant toute la durée d'immersion comme pour le mode STAVIRO. Le but du mode MICADO est d'activer le système sur des horaires bien précis rentré par l'utilisateur auparavant et de faire tourner le KOSMOS pendant une durée rentrée au préalable par l'utilisateur \( en général 15 minutes \).  Ce système permet de faire plusieurs prélèvements de vidéos au même endroit sur des plages horaires précises sans à avoir à remonter le KOSMOS entre chaque prise.
-
-Pour réaliser ceci, nous utilisons une carte Adafruit Trinket 1501 reliée à un module RTC. Celle-ci permettra de contrôler l’alimentation du système grâce à un relais. Elle allumera la carte RaspBerry sur les plages horaires rentréesconso par l’utilisateur. Nous sommes obligé d'utiliser une carte auxiliaire car le mode veille de la carte Raspberry consomme énormément. Le gros avantage de cette carte est sa très faible consommation.
-
-Un autre avantage de cette carte est sa toute petite taille : elle mesure 31mm x 15.5mm x 5mm. Elle dispose des ports I2C nécessaires pout être connectée au module RTC et d’une sortie GPIO permettant de contrôler le relais.
-
-​
-
-![image](https://wikifactory.com/files/RmlsZTo2MjY3MDM=)
-
-​
-
-​
-
-Pour réaliser le mode MICADO il faut tout simplement que l’alimentation de la RaspBerry ne soit pas directement reliée à la batterie mais au relais qui lui est relié à la batterie. Grâce à l’ajout d’un domino nous pouvons passer du mode MICADO au mode STAVIRO en changeant seulement de câble.
-
-Voici le montage entre le module RTC, l’Adafruit et le relais :
-
-​
-
-Le montage est fixé sur une plaque imprimée en 3D \( vous pouvez la retrouver dans "Files -&gt; KOSMOS\_2-0\_beta1  -&gt; Montage MICADO" \). Celle-ci est fixé par dessus la RaspBerry grâce à du colson et les composants sont fixés grâce à des vis ou des goupilles. La complexité est de tout faire rentrer dans le tube étanche, c'est pour cela qu'on accorde beaucoup d'importance à la disposition des composants.
-
-​
-
-Pour clarifier ce montage, voici le schéma correspondant :
-
-​
-
-![image](https://wikifactory.com/files/RmlsZTo2MjU4MTg=)
-
-​
-
-​
-
-La carte Adafruit est assez particulière à programmer. Elle n'est pas 100% compatible avec l'IDE Arduino : Il faut donc opérer quelques astuces. Nous avons rencontré quelques difficultés pour la programmer ; programmer avec Arduino, lancer le téléversement. Vous retrouverez un TUTO très détaillé de ces étapes dans "Files -&gt; KOSMOS\_2-0\_beta1  -&gt; Montage MICADO" du Wiki.
-
-Vous y trouverez aussi le code Arduino expliqué permettant de programmer la carte Adafruit sur des plages horaires précises. Ces horaires devant être rentrer par l'utilisateur.
-
-Une fois ces horaires rentrer, l'utilsateur n'a qu'à activer l'alimentation du KOSMOS et le poser au fond. Le KOSMOS va ainsi filmer pendant une période définie par l'utilisateur aux mêmes heures pendant quelques jours. Cela permettra d'avoir une analyse plus étendue d'un même endroit.
-
-
-
-
-
-
-
 
