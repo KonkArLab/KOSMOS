@@ -383,72 +383,9 @@ Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sen
 
 * Pour ouvrir le caisson dans les étapes suivantes, commencer par ouvrir le vent, puis tirer bien dans l'axe le bouchon des passes-coques. Il n'est pas nécéssaire de regresser à chaque fois. Cependant il faudra veiller à ne pas salir les parties graissées.
 
-## 3/ Electroniques et câblages
-
-### 3.1 Perçage du PCB et soudure
-
-​
-
-* A l'aide d'une dremel sur colonne ou d'une dremel à la main percer les trous du circuit imprimé avec un foret de 0,8mm.
-* Élargir les trous dans lesquelles on soudera des pins duponts males \(Encadrés en vert cf. visuels ci dessous\) à l'aide d'un foret de 0,9mm ou 1mm.
-* A ces mêmes emplacements, souder des broches duponts mâles.  /!\ Attention on soude les composants de manière a ce qu'ils soient sur la face opposé au circuit. Seule les pattes traversent et sont soudés du coté du circuit.
-
-​
-
-[View PCB_step3-1.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-1.png)
-
-​
-
-​
-
-* Souder 2 résistances de 220ohm et 6 résistances de 1Kohm \(cf. photo ci dessous, 220ohm en bleu et 1kohm en orange\). \(PCB\_step3-2.png\).
-
-​
-
-[View PCB_step3-2.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-2.png)
-
-​
-
-​
-
-* Souder les deux diodes en veillant à respecter la polarité. Sur une diode le plus est matérialisé par la patte la plus longue. \(Une LED rouge et une LED verte cf.photo ci dessous\).
-
-​
-
-[View PCB_step3-3.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-3.png)
-
-​
-
-​
-
-* Souder 4 fils qui servirons de pont \(en vert cf. dessin ci dessous\).
-
-​
-
-[View PCB_step3-4.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-4.png)
-
-​
-
-​
-
-* Souder sur les broches duponts, dans le sens indiqué les 3 modules RTC \(Horloge\), l'indicateur de niveau de batterie et le relai. 
-
-​
-
-[View PCB_step3-5.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-5.png)
-
-​
-
-​
-
-* Souder 3 ILS sur les emplacements indiqués \(en orange cf. dessin ci dessous\). \(PCB\_step3-6.png\)
-
-​
-
-[View PCB_step3-6.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-6.png)
 
 
-## 4/ Assemblage du réducteur
+## 3/ Assemblage du réducteur
 
 Le KOSMOS est une caméra sous-marine capable de pivoter dans un sens unique par pas de 60°. Ainsi elle observera un panoramique en sous-échantillonant par 6 plans vidéos  de 60° et 30s chacun.
 
@@ -458,7 +395,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-### 4.1 Préparation des engrenages
+### 3.1 Préparation des engrenages
 
 ​
 
@@ -473,7 +410,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-### 4.2 Assembler la croix de Malte
+### 3.2 Assembler la croix de Malte
 
 ​
 
@@ -487,7 +424,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-### 4.3 Découpe des entretoises et tiges filetés
+### 3.3 Découpe des entretoises et tiges filetés
 
 * Couper 4 morceaux de tube inox à des longueurs différentes \(1\*42,5mm ; 1\* 49,2mm et 2\* 51,3mm\). On peut effectuer une première coupe au coupe tube puis finir au tour à métal. Veiller à bien ébarber les extrémités afin que la tige fileté s'incère facilement à l'intérieur du tube ;
 
@@ -501,7 +438,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-### 4.4 Assemblage de l'arbre primaire
+### 3.4 Assemblage de l'arbre primaire
 
 * Rassemblerla croix de malte précédamment montée, deux pignons, deux rondelles M8\_18mm, deux rondelles M10\_22mm, 2 écrous freins M8, la pièce R5, le morceau de tube d'inox de longueur 42,5mm et de la tige fileté M8 de longueur 160mm.
 
@@ -557,7 +494,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-### 4.5 Assemblage du bras de malte
+### 3.5 Assemblage du bras de malte
 
 ​
 
@@ -591,7 +528,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-### 4.6 Assemblage de l'arbre secondaire
+### 3.6 Assemblage de l'arbre secondaire
 
 ​
 
@@ -668,7 +605,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-### 4.7 Fixation du moteur
+### 3.7 Fixation du moteur
 
 ​
 
@@ -698,7 +635,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-### 4.8 Installation du capteur magnétique
+### 3.8 Installation du capteur magnétique
 
 ​
 
@@ -716,7 +653,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-### 4.9 Montage des bers (supports du caisson)
+### 3.9 Montage des bers (supports du caisson)
 
 ​
 
@@ -736,7 +673,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-### 4.10 Installation des Bers sur le réducteur
+### 3.10 Installation des Bers sur le réducteur
 
 ​
 
@@ -754,7 +691,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-### 4.11 Installation des parois du réducteur
+### 3.11 Installation des parois du réducteur
 
 ​
 
