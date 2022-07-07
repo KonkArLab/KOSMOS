@@ -96,8 +96,7 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 * A ces mêmes emplacements, souder des broches duponts mâles.  /!\ Attention on soude les composants de manière a ce qu'ils soient sur la face opposé au circuit. Seule les pattes traversent et sont soudés du coté du circuit.
 
 ​
-
-[View PCB_step3-1.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-1.png)
+![POP3-1](pictures/assembly_guide/POP3-1.PNG)
 
 ​
 
@@ -107,7 +106,7 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 
 ​
 
-[View PCB_step3-2.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-2.png)
+![POP3-2](pictures/assembly_guide/POP3-2.PNG)
 
 ​
 
@@ -117,7 +116,8 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 
 ​
 
-[View PCB_step3-3.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-3.png)
+![POP3-3](pictures/assembly_guide/POP3-3.PNG)
+
 
 ​
 
@@ -127,17 +127,14 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 
 ​
 
-[View PCB_step3-4.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-4.png)
-
-​
+![POP3-4](pictures/assembly_guide/POP3-4.PNG)
 
 ​
 
 * Souder sur les broches duponts, dans le sens indiqué les 3 modules RTC \(Horloge\), l'indicateur de niveau de batterie et le relai. 
 
 ​
-
-[View PCB_step3-5.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-5.png)
+![POP3-5](pictures/assembly_guide/POP3-5.PNG)
 
 ​
 
@@ -146,5 +143,4 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 * Souder 3 ILS sur les emplacements indiqués \(en orange cf. dessin ci dessous\). \(PCB\_step3-6.png\)
 
 ​
-
-[View PCB_step3-6.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-6.png)
+![POP3-6](pictures/assembly_guide/POP3-6.PNG)
