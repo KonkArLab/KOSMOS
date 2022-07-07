@@ -82,3 +82,69 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 ​
 
 [View legende_decoupePOMA4.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Captions/legende_decoupePOMA4.png)
+
+
+
+## 3/ Electroniques et câblages
+
+### 3.1 Perçage du PCB et soudure
+
+​
+
+* A l'aide d'une dremel sur colonne ou d'une dremel à la main percer les trous du circuit imprimé avec un foret de 0,8mm.
+* Élargir les trous dans lesquelles on soudera des pins duponts males \(Encadrés en vert cf. visuels ci dessous\) à l'aide d'un foret de 0,9mm ou 1mm.
+* A ces mêmes emplacements, souder des broches duponts mâles.  /!\ Attention on soude les composants de manière a ce qu'ils soient sur la face opposé au circuit. Seule les pattes traversent et sont soudés du coté du circuit.
+
+​
+
+[View PCB_step3-1.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-1.png)
+
+​
+
+​
+
+* Souder 2 résistances de 220ohm et 6 résistances de 1Kohm \(cf. photo ci dessous, 220ohm en bleu et 1kohm en orange\). \(PCB\_step3-2.png\).
+
+​
+
+[View PCB_step3-2.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-2.png)
+
+​
+
+​
+
+* Souder les deux diodes en veillant à respecter la polarité. Sur une diode le plus est matérialisé par la patte la plus longue. \(Une LED rouge et une LED verte cf.photo ci dessous\).
+
+​
+
+[View PCB_step3-3.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-3.png)
+
+​
+
+​
+
+* Souder 4 fils qui servirons de pont \(en vert cf. dessin ci dessous\).
+
+​
+
+[View PCB_step3-4.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-4.png)
+
+​
+
+​
+
+* Souder sur les broches duponts, dans le sens indiqué les 3 modules RTC \(Horloge\), l'indicateur de niveau de batterie et le relai. 
+
+​
+
+[View PCB_step3-5.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-5.png)
+
+​
+
+​
+
+* Souder 3 ILS sur les emplacements indiqués \(en orange cf. dessin ci dessous\). \(PCB\_step3-6.png\)
+
+​
+
+[View PCB_step3-6.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/PCB/PCB_step3-6.png)
