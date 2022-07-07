@@ -6,7 +6,7 @@ nav:
         - 3. Fabrications des piéces: productions_of_parts_fr.md
         - 4. Guide d'assemblage: assembly-guide_fr.md
         - 5. Annexes: make_a_PCB_fr.md
-        - Fabrication d'un PCB: make_a_PCB_fr.md 
+          - Fabrication d'un PCB: make_a_PCB_fr.md 
         
     - II/ Utilisation en mer :
         - 1. Check-list: check-list_fr.md
