@@ -196,7 +196,7 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 * Le bouton rotatif est livré démonté par Blue robotics. Rassembler le passe-coque, le bouton, les trois joints thoriques, le poussoir, les deux fils et l'écrou.
 
-[View DSC_0142.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Camera_case/DSC_0142.JPG)
+![AG2-1-A](pictures/assembly_guide/)!
 
 * Placer le plus grand des trois joint thorique dans la gorge du passe-coque.
 
