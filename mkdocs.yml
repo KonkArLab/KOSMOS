@@ -19,7 +19,7 @@ nav:
 theme:
     name: material
     palette:
-      primary: #058651
+      primary: cyan
 
 plugins:
   - search
