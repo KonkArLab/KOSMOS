@@ -11,8 +11,7 @@ Imprimer toutes les pièces nécessaires. [Les fichiers STL sont disponibles ici
 * 1x I3,qui va supporter la PiCam
 * 1x I4, qui va se visser à une flange du tube pour empécher les structures internes du KOSMOS de pouvoir tourner dans le tube.
 
-[View inte3D_legende.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Captions/inte3D_legende.png)
-
+![POP1-1](pictures/productions_of_parts/POP1-1.PNG)
 ​
 
 ​
@@ -32,7 +31,7 @@ Nous recommandons un taux de remplissage des pièces qui ne soit inférieur à 3
 * 1x Reducteur3D n°5 SupMag, permets de placer le capteur magnétique
 * 2x R1 et 2x R1.2 , permet de maintenir le caisson solidaire au
 
-[View PHOTO_20220317_182010_petit.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Captions/PHOTO_20220317_182010_petit.png)
+![POP1-2](pictures/productions_of_parts/POP1-2.PNG)
 
 ​
 
