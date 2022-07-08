@@ -64,7 +64,7 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 * Télécharger le fichier PMMA-5mm\_A3\_Laser-cut.svg pour lancer une découpe au laser ou à la fraiseuse numérique ;
 * Toutes les pièces sont disposées ici de manière à rentrer dans un format A3 \(42\*29,7 cm\).
 
-![POP1-1](pictures/productions_of_parts/POP2-2.png)
+![POP2-2](pictures/productions_of_parts/POP2-2.png)
 
 ​
 
@@ -80,7 +80,7 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 
 ​
 
-[View legende_decoupePOMA4.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Captions/legende_decoupePOMA4.png)
+![POP2-3](pictures/productions_of_parts/POP2-3.PNG)
 
 
 
