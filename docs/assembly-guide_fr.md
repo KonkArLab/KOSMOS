@@ -29,7 +29,7 @@
 
 * A l'aide d'une pince plate, visser les 4 entretoises en laiton dans les trous prévus à cet effet dans la structure de la caméra n°3.
 
-![AG1-2](AG1-2.JPG)
+![AG1-2](pictures/assembly_guide/AG1-2.JPG)
 
 ​
 
