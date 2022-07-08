@@ -23,19 +23,19 @@
 
 * Rassembler, la Picam HQ, sa nappe \(câble plat\), la stucture caméra n°3, 3 vis M2,5\*5mm, 4 entretoises en laiton M2,5\*5+5mm et 4 rondelles M2,5.
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyMzg=)
+![AG1-1](AG1-1.JPG)
 
 ​
 
 * A l'aide d'une pince plate, visser les 4 entretoises en laiton dans les trous prévus à cet effet dans la structure de la caméra n°3.
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyMzk=)
+![AG1-2](AG1-2.JPG)
 
 ​
 
 * Puis, à l'aide d'une clé alen de 2mm, visser la caméra sur ses 4 entretoises à l'aides des 4 vis M2,5 et 4 rondelles. La caméra doit être positionné comme présenté sur la photo ci dessous. La sortie de la nappe du coté opposé aux fixations.
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyNDA=)
+![AG1-3](AG1-3.JPG)
 
 ​
 
@@ -47,19 +47,19 @@
 
 * Rassembler, le support de la Raspberry, structure n°6, la Raspberry Pi 4 modèle B, 4 entretoises en laiton M2,5\*10, 4 vis M2,5 6mm et 4 rondelles M2,5.
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyNDI=)
+![AG1-4](AG1-4.JPG)
 
 ​
 
 * A l'aide d'une pince plate, visser les 4 entretoises sur les trous R1, R2, R3 et R4 \(cf photo ci dessous\).
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyNDM=)
+![AG1-5](AG1-5.JPG)
 
 ​
 
 * Enfin, à l'aide d'une clé alen 2mm, visser la raspberry sur son support \(cf photo ci-dessous\). Veiller au sens, l'encode de la structure 6 doit être en face de l'emplacement de la carte SD de la Raspberry.
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyNDQ=)
+![AG1-6](AG1-6.JPG)
 
 ​
 
@@ -71,20 +71,20 @@
 
 * Rassembler, le circuit d'alimentation \(cf etape Câblage\), la Raspberry sur son support, 2 entretoises laiton de 5mm, 2 vis M3\*5mm, 2 vis M2,5\*5mm et 2 rondelles.
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyNDU=)
+![AG1-7](AG1-7.JPG)
 
 ​
 
 * A l'aide d'une pince plate, visser les deux entretoises sur deux trous diagonalement opposés au dos de la Raspberry sur le pièce en PMMA. \(Si vous possédez plus d'entretoise que nous, n'hésitez pas à en disposer 4\).
 * Visser avec les deux vis M3 le transformateur 12 to 5v et le relai sur les entretoises à l'aide des vis M2,5.
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyNDY=)
+![AG1-8](AG1-8.JPG)
 
 ​
 
 * Passer le câble avec le connecteur USB-C par l'encoche de la structure n°6 de manière à pouvoir le brancher sur le port d'alimentation de la Raspberry. Positionner l'ESC sur le dessus du transformateur au moyen d'un scotdh double face. Maintenez les câbles à l'aide de colsons.
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyNDc=)
+![AG1-9](AG1-9.JPG)
 
 ​
 
@@ -96,7 +96,7 @@
 
 * Rassembler la Raspberry et son support \(Str n°6\), la caméra et sa structue n°3, la structure n°1, N°2 et n°5, 8 ecrous M3, 6 vis M3\*10mm, et 2 vis M3\*15mm, 2 vis M4\*30mm, 2 écrous M4.
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyNDg=)
+![AG1-10](AG1-10.JPG)
 
 ​
 
@@ -104,45 +104,45 @@
 
 * Insérer 4 écrous M3 dans les fentes prévus à cet éffet sur la structure n°1 \(cf photo ci dessous\)
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyNDk=)
+![AG1-11](AG1-11.JPG)
 
 ​
 
 * Visser la carte Raspberry pi 4 et sonsupport \(Str n°6\) sur le structure n°1 à l'aide de deux vis M3\*15mm en haut et deux vis M3\*10mm en bas. Attention au sens de la Raspberry \(cf photo ci-dessous\).
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyNTA=)
+![AG1-12](AG1-12.JPG)
 
 ​
 
 * Brancher le connecteur USB-C sur le port d'alimentation de la raspberry. Veiller à bien couder la câble afin qu'il ne gène pas à l'avenir l'insertion dans le tube.
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyNTE=)
+![AG1-13](AG1-13.JPG)
 
 ​
 
 * Insérer 2 écrous sur la structure batterie \(n°2\) et 2 autres sur la structure caméra \(n°3\).
 * Visser la plaque en PMMA \(Str n°5\) à l'aide de 2 vis M3\*10mm sur la structure batterie \(n°2\).
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyNTI=)
+![AG1-14](AG1-14.JPG)
 
 ​
 
 * Visser l'autre extrémité de la plaque de PMMA \(Str n°5\) sur la structure caméra \(n°3\).
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyNTM=)
+![AG1-15](AG1-15.JPG)
 
 ​
 
 * Assembler les deux partie composé l'une de la raspberry et de sa structure et de l'autre le support de la batterie et de la caméra. Veiller à passer les câbles au travers des pièces et à ne pas les abimer.
 * Visser ces deux parties au moyen de deux vis M4\*30mm et de deux écrous M4. Serrer de manière à ce que la tête de vis ne puisse géner l'insertion du KOSMOS dans le Tube.
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyNTQ=)
+![AG1-16](AG1-16.JPG)
 
 ​
 
 * Brancher la nappe de la PiCam à la carte Raspberry. La carte porte une inscription "CAMERA" au dessus de ce connecteur , il est à proximité des connecteurs USB. Pour la connexion, lever \(sans ôter\) la partie grise du connecteur et placer le côté bleu de l'’extrémité de la nappe face aux connecteurs USB. Refermer la pièce de serrage grise. \(cf photos ci dessous\)
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyNTU=)
+![AG1-17](AG1-17.JPG)
 
 ​
 
@@ -154,20 +154,20 @@
 
 * Rassembler la partie interne du KOSMOS, une batterie lipo 3s 2200mAh une rallonge de câble de recharge Lipo 3s et 2 colsons.
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyNTY=)
+![AG1-18](AG1-18.JPG)
 
 ​
 
 * Positionner la batterie sur son support sur un des deux flancs.  Maintenir en place la batterie à l'aide de colsons.
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyNTc=)
+![AG1-19](AG1-19.JPG)
 
 ​
 
 * Brancher le connecteur XT60 avec celui du circuit d'alimentation.
 * Brancher la rallonge de rechargement au connecteur de la batterie. Ce câble circulera vers l'arrière en passant devant la Raspberry.
 
-![image](https://wikifactory.com/files/RmlsZTo2NTAyNTg=)
+![AG1-20](AG1-20.JPG)
 
 
 
@@ -196,35 +196,35 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 * Le bouton rotatif est livré démonté par Blue robotics. Rassembler le passe-coque, le bouton, les trois joints thoriques, le poussoir, les deux fils et l'écrou.
 
-![AG2-1-A](pictures/assembly_guide/AG2-1.JPG)
+![AG2-1](pictures/assembly_guide/AG2-1.JPG)
 
 * Placer le plus grand des trois joint thorique dans la gorge du passe-coque.
 
-![AG2-1-A](pictures/assembly_guide/AG2-2.JPG)
+![AG2-2](pictures/assembly_guide/AG2-2.JPG)
 
 ​
 
 * Au doigt, graisser les deux joints restants. Puis insérer les dans les deux gorges du bouton noir.
 
-![AG2-1-A](pictures/assembly_guide/AG2-3.JPG)
+![AG2-3](pictures/assembly_guide/AG2-3.JPG)
 
 ​
 
 * Visser le bouton noir dans le passe-coque. Le vissage doit être facile. Si ce n'est pas le cas, il sera peut-être nécéssaire de graisser d'avantage.
 
 
-![AG2-1-A](pictures/assembly_guide/AG2-4.JPG)
+![AG2-4](pictures/assembly_guide/AG2-4.JPG)
 
 * Visser l'écrou sur le passe-coque.
 
-![AG2-1-A](pictures/assembly_guide/AG2-5.JPG)
+![AG2-5](pictures/assembly_guide/AG2-5.JPG)
 
 ​
 
 * A l'extrémité opposé au bouton noir, visser le bouton poussoir. Dévisser légèrement le bouton noir de manière à ce que le poussoir soit ouvert \(surveiller à l'aide d'un multimètre sur le mode continuité\).
 * Pour finir connecter les fils sur les broches du bouton poussoir.
 
-![AG2-1-A](pictures/assembly_guide/AG2-6.JPG)
+![AG2-6](pictures/assembly_guide/AG2-6.JPG)
 
 ​
 
@@ -236,25 +236,25 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 * Le bouchon vent est livré démonté par Blue robotics. Rassemblez le passe-coque, le bouchon, les trois joints thoriques, le poussoir, les deux fils et l'écrou.
 
-![AG2-1-A](pictures/assembly_guide/AG2-7.JPG)
+![AG2-7](pictures/assembly_guide/AG2-7.JPG)
 
 ​
 
 * Placer le plus grand des trois joint thorique dans la gorge du passe-coque. Puis visser l'écrou.
 
-![AG2-1-A](pictures/assembly_guide/AG2-8.JPG)
+![AG2-8](pictures/assembly_guide/AG2-8.JPG)
 
 ​
 
 * Insérer les deux petits joints thoriques dans les deux gorges du bouchon.
 
-![AG2-1-A](pictures/assembly_guide/AG2-9.JPG)
+![AG2-9](pictures/assembly_guide/AG2-9.JPG)
 
 ​
 
 * Visser le bouchon sur le passe-coque en graissant légèrement à la graisse silicone les joints.
 
-![AG2-1-A](pictures/assembly_guide/AG2-10.JPG)
+![AG2-10](pictures/assembly_guide/AG2-10.JPG)
 
 ​
 
@@ -264,13 +264,13 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 * Le capteur de pression est livré démonté par Blue robotics. Rassembler le capteur dans son passe-coque, le joint thorique et l'écrou.
 
-![AG2-1-A](pictures/assembly_guide/AG2-11.JPG)
+![AG2-11](pictures/assembly_guide/AG2-11.JPG)
 
 ​
 
 * Insérer le joint thorique dans la gorge et engager l'écrou sur le capteur.
 
-![AG2-1-A](pictures/assembly_guide/AG2-12.JPG)
+![AG2-12](pictures/assembly_guide/AG2-12.JPG)
 ​
 
 ​
@@ -281,19 +281,19 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 * Rassembler, le end cap en aluminium à 5 trous, les deux connecteurs cobalts femelles, ainsi que les trois passes-coques précédamment assemblés \(bouton rotatif, bouchon vent, et capteur de pression\).
 
-![AG2-1-A](pictures/assembly_guide/AG2-13.JPG)
+![AG2-13](pictures/assembly_guide/AG2-13.JPG)
 
 ​
 
 * Visser les des connecteurs cobalt sur deux trous voisins. Attention à veiller à positionner le joint du côté externe.
 
-![AG2-1-A](pictures/assembly_guide/AG2-14.JPG)
+![AG2-14](pictures/assembly_guide/AG2-14.JPG)
 
 ​
 
 * Visser et serrer les 3 autres passe-coques. Serrer fort les 5 passes-coques.
 
-![AG2-1-A](pictures/assembly_guide/AG2-15.JPG)
+![AG2-15](pictures/assembly_guide/AG2-15.JPG)
 
 ​
 
@@ -303,26 +303,26 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 * Rassembler, le end-cap et ses passes-coques, une flange ainsi que les pièces fournies avec la flange \(3 joints thoriques, et un 6 vis M3\).
 
-![AG2-1-A](pictures/assembly_guide/AG2-16.JPG)
+![AG2-16](pictures/assembly_guide/AG2-16.JPG)
 
 ​
 
 * Au doigts graisser légèrement les deux joints les plus épais.
 * Insérer ses derniers dans les gorges prévues à cet effet.
 
-![AG2-1-A](pictures/assembly_guide/AG2-17.JPG)
+![AG2-17](pictures/assembly_guide/AG2-17.JPG)
 
 ​
 
 * Insérer sans graisser le plus fin des joint thorique dans la dernière gorge de la flange.
 
-![AG2-1-A](pictures/assembly_guide/AG2-18.JPG)
+![AG2-18](pictures/assembly_guide/AG2-18.JPG)
 
 ​
 
 * Visser le end-cap sur la flange à l'aide des 6 vis M3.
 
-![AG2-1-A](pictures/assembly_guide/AG2-19.JPG)
+![AG2-19](pictures/assembly_guide/AG2-19.JPG)
 
 ​
 
@@ -334,14 +334,14 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 * Rassembler la seconde flange, ses 3 joints thoriques, le hublot \(end-cap clear\) et les 6 vis M3.
 
-![AG2-1-A](pictures/assembly_guide/AG2-20.JPG)
+![AG2-20](pictures/assembly_guide/AG2-20.JPG)
 
 ​
 
 * Exactemment comme à l'étape précédente installer les 3 joints sur la seconde flange. Ne pas oublier le graissage des deux gros joints.
 * Visser le hublot à l'aide des 6 vis M3.
 
-![AG2-1-A](pictures/assembly_guide/AG2-21.JPG)
+![AG2-21](pictures/assembly_guide/AG2-21.JPG)
 ​
 
 ### 2.7 Assemblage du détrompeur
@@ -352,13 +352,13 @@ Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sen
 
 * Rassembler le bouchon hublot, le détrompeur \(I4\), et 4 vis M3\*20mm.
 
-![AG2-1-A](pictures/assembly_guide/AG2-22.JPG)
+![AG2-22](pictures/assembly_guide/AG2-22.JPG)
 
 ​
 
 * Visser le détrompeur sur l'arrière du bouchon hublot.
 
-![AG2-1-A](pictures/assembly_guide/AG2-23.JPG)
+![AG2-23](pictures/assembly_guide/AG2-23.JPG)
 
 ​
 
@@ -370,7 +370,7 @@ Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sen
 
 * Rassembler les deux bouchons et le tube acrylique.
 
-![AG2-1-A](pictures/assembly_guide/AG2-24.JPG)
+![AG2-24](pictures/assembly_guide/AG2-24.JPG)
 
 ​
 
@@ -378,7 +378,7 @@ Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sen
 * Insérer chaque bouchon à une extrémité du tube. Il doivent s'insérer facilement \(dans le cas contraire ajouter de la graisse.
 * Refermer le bouchon du vent.
 
-![AG2-1-A](pictures/assembly_guide/AG2-25.JPG)
+![AG2-25](pictures/assembly_guide/AG2-25.JPG)
 ​
 
 * Pour ouvrir le caisson dans les étapes suivantes, commencer par ouvrir le vent, puis tirer bien dans l'axe le bouchon des passes-coques. Il n'est pas nécéssaire de regresser à chaque fois. Cependant il faudra veiller à ne pas salir les parties graissées.
