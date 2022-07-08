@@ -23,7 +23,7 @@
 
 * Rassembler, la Picam HQ, sa nappe \(câble plat\), la stucture caméra n°3, 3 vis M2,5\*5mm, 4 entretoises en laiton M2,5\*5+5mm et 4 rondelles M2,5.
 
-![AG1-1](AG1-1.JPG)
+![AG1-1](pictures/assembly_guide/AG1-1.JPG)
 
 ​
 
@@ -35,7 +35,7 @@
 
 * Puis, à l'aide d'une clé alen de 2mm, visser la caméra sur ses 4 entretoises à l'aides des 4 vis M2,5 et 4 rondelles. La caméra doit être positionné comme présenté sur la photo ci dessous. La sortie de la nappe du coté opposé aux fixations.
 
-![AG1-3](AG1-3.JPG)
+![AG1-3](pictures/assembly_guide/AG1-3.JPG)
 
 ​
 
@@ -47,19 +47,19 @@
 
 * Rassembler, le support de la Raspberry, structure n°6, la Raspberry Pi 4 modèle B, 4 entretoises en laiton M2,5\*10, 4 vis M2,5 6mm et 4 rondelles M2,5.
 
-![AG1-4](AG1-4.JPG)
+![AG1-4](pictures/assembly_guide/AG1-4.JPG)
 
 ​
 
 * A l'aide d'une pince plate, visser les 4 entretoises sur les trous R1, R2, R3 et R4 \(cf photo ci dessous\).
 
-![AG1-5](AG1-5.JPG)
+![AG1-5](pictures/assembly_guide/AG1-5.JPG)
 
 ​
 
 * Enfin, à l'aide d'une clé alen 2mm, visser la raspberry sur son support \(cf photo ci-dessous\). Veiller au sens, l'encode de la structure 6 doit être en face de l'emplacement de la carte SD de la Raspberry.
 
-![AG1-6](AG1-6.JPG)
+![AG1-6](pictures/assembly_guide/AG1-6.JPG)
 
 ​
 
@@ -71,20 +71,20 @@
 
 * Rassembler, le circuit d'alimentation \(cf etape Câblage\), la Raspberry sur son support, 2 entretoises laiton de 5mm, 2 vis M3\*5mm, 2 vis M2,5\*5mm et 2 rondelles.
 
-![AG1-7](AG1-7.JPG)
+![AG1-7](pictures/assembly_guide/AG1-7.JPG)
 
 ​
 
 * A l'aide d'une pince plate, visser les deux entretoises sur deux trous diagonalement opposés au dos de la Raspberry sur le pièce en PMMA. \(Si vous possédez plus d'entretoise que nous, n'hésitez pas à en disposer 4\).
 * Visser avec les deux vis M3 le transformateur 12 to 5v et le relai sur les entretoises à l'aide des vis M2,5.
 
-![AG1-8](AG1-8.JPG)
+![AG1-8](pictures/assembly_guide/AG1-8.JPG)
 
 ​
 
 * Passer le câble avec le connecteur USB-C par l'encoche de la structure n°6 de manière à pouvoir le brancher sur le port d'alimentation de la Raspberry. Positionner l'ESC sur le dessus du transformateur au moyen d'un scotdh double face. Maintenez les câbles à l'aide de colsons.
 
-![AG1-9](AG1-9.JPG)
+![AG1-9](pictures/assembly_guide/AG1-9.JPG)
 
 ​
 
@@ -96,7 +96,7 @@
 
 * Rassembler la Raspberry et son support \(Str n°6\), la caméra et sa structue n°3, la structure n°1, N°2 et n°5, 8 ecrous M3, 6 vis M3\*10mm, et 2 vis M3\*15mm, 2 vis M4\*30mm, 2 écrous M4.
 
-![AG1-10](AG1-10.JPG)
+![AG1-10](pictures/assembly_guide/AG1-10.JPG)
 
 ​
 
@@ -104,45 +104,45 @@
 
 * Insérer 4 écrous M3 dans les fentes prévus à cet éffet sur la structure n°1 \(cf photo ci dessous\)
 
-![AG1-11](AG1-11.JPG)
+![AG1-11](pictures/assembly_guide/AG1-11.JPG)
 
 ​
 
 * Visser la carte Raspberry pi 4 et sonsupport \(Str n°6\) sur le structure n°1 à l'aide de deux vis M3\*15mm en haut et deux vis M3\*10mm en bas. Attention au sens de la Raspberry \(cf photo ci-dessous\).
 
-![AG1-12](AG1-12.JPG)
+![AG1-12](pictures/assembly_guide/AG1-12.JPG)
 
 ​
 
 * Brancher le connecteur USB-C sur le port d'alimentation de la raspberry. Veiller à bien couder la câble afin qu'il ne gène pas à l'avenir l'insertion dans le tube.
 
-![AG1-13](AG1-13.JPG)
+![AG1-13](pictures/assembly_guide/AG1-13.JPG)
 
 ​
 
 * Insérer 2 écrous sur la structure batterie \(n°2\) et 2 autres sur la structure caméra \(n°3\).
 * Visser la plaque en PMMA \(Str n°5\) à l'aide de 2 vis M3\*10mm sur la structure batterie \(n°2\).
 
-![AG1-14](AG1-14.JPG)
+![AG1-14](pictures/assembly_guide/AG1-14.JPG)
 
 ​
 
 * Visser l'autre extrémité de la plaque de PMMA \(Str n°5\) sur la structure caméra \(n°3\).
 
-![AG1-15](AG1-15.JPG)
+![AG1-15](pictures/assembly_guide/AG1-15.JPG)
 
 ​
 
 * Assembler les deux partie composé l'une de la raspberry et de sa structure et de l'autre le support de la batterie et de la caméra. Veiller à passer les câbles au travers des pièces et à ne pas les abimer.
 * Visser ces deux parties au moyen de deux vis M4\*30mm et de deux écrous M4. Serrer de manière à ce que la tête de vis ne puisse géner l'insertion du KOSMOS dans le Tube.
 
-![AG1-16](AG1-16.JPG)
+![AG1-16](pictures/assembly_guide/AG1-16.JPG)
 
 ​
 
 * Brancher la nappe de la PiCam à la carte Raspberry. La carte porte une inscription "CAMERA" au dessus de ce connecteur , il est à proximité des connecteurs USB. Pour la connexion, lever \(sans ôter\) la partie grise du connecteur et placer le côté bleu de l'’extrémité de la nappe face aux connecteurs USB. Refermer la pièce de serrage grise. \(cf photos ci dessous\)
 
-![AG1-17](AG1-17.JPG)
+![AG1-17](pictures/assembly_guide/AG1-17.JPG)
 
 ​
 
@@ -154,20 +154,20 @@
 
 * Rassembler la partie interne du KOSMOS, une batterie lipo 3s 2200mAh une rallonge de câble de recharge Lipo 3s et 2 colsons.
 
-![AG1-18](AG1-18.JPG)
+![AG1-18](pictures/assembly_guide/AG1-18.JPG)
 
 ​
 
 * Positionner la batterie sur son support sur un des deux flancs.  Maintenir en place la batterie à l'aide de colsons.
 
-![AG1-19](AG1-19.JPG)
+![AG1-19](pictures/assembly_guide/AG1-19.JPG)
 
 ​
 
 * Brancher le connecteur XT60 avec celui du circuit d'alimentation.
 * Brancher la rallonge de rechargement au connecteur de la batterie. Ce câble circulera vers l'arrière en passant devant la Raspberry.
 
-![AG1-20](AG1-20.JPG)
+![AG1-20](pictures/assembly_guide/AG1-20.JPG)
 
 
 
