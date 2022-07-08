@@ -401,7 +401,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 * Préparer les pièces pour monter les 3 premiers pignons. Pour cela, rassemblez les P2 , P3 et P3.2, et 9 vis M2,5 \* 12mm.
 
-[View DSC_0017_petit.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0017_petit.jpg)
+![AG1-1](pictures/assembly_guide/AG3-1.JPG)
 
 ​
 
@@ -416,11 +416,11 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 * Rassembler  la croix de malte P4, une rondelle inox M8\*22mm, 4 vis M3\*18mm et la pièce R3.
 
-[View DSC_0043.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0043.JPG)
+![AG1-2](pictures/assembly_guide/AG3-2.JPG)
 
 * Assembler la croix de Malte en insérant la rondelle dans l'emplacement prévu à cet effet, entre la croix de Malte et la pièce R3. Visser avec les 4 vis à l'aide d'une clé alen de 2,5mm.
 
-[View DSC_0216.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0216.JPG)
+![AG1-3](pictures/assembly_guide/AG3-3.JPG)
 
 ​
 
@@ -442,49 +442,49 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 * Rassemblerla croix de malte précédamment montée, deux pignons, deux rondelles M8\_18mm, deux rondelles M10\_22mm, 2 écrous freins M8, la pièce R5, le morceau de tube d'inox de longueur 42,5mm et de la tige fileté M8 de longueur 160mm.
 
-[View DSC_0045.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0045.JPG)
+![AG1-4](pictures/assembly_guide/AG3-4.JPG)
 
 ​
 
 * Installer le tube dans la croix de malte, cette dernière viendra s'épauler sur la rondelle prise dans la croix de malte. Puis insérer une rondelle M10 ;
 
-[View DSC_0047.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0047.JPG)
+![AG1-5](pictures/assembly_guide/AG3-5.JPG)
 
 ​
 
 * Insérer un pignon \(petit pignon vers le bas\) puis une rondelle M10, puis le deuxième pignon \(petit pignon vers le bas\). L'entretoise doit dépasser de moins d'un milimètre.
 
-[View DSC_0049.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0049.JPG)
+![AG1-6](pictures/assembly_guide/AG3-6.JPG)
 
 ​
 
 * Visser un écrou frein sur la tige fileté à 85mm \(Ajouter de l'huile sur la tige pour faciliter le vissage\). Ajouter une rondelle M8 sur le coté opposé au frein de l'écrou.
 
-[View DSC_0050_petit.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0050_petit.jpg)
+![AG1-7](pictures/assembly_guide/AG3-7.JPG)
 
 ​
 
 * Insérer cette tige fileté à travers l'assemblage précédamment fait. L'écrou pré-vissé sera en buté sous la croix de malte séparé d'une rondelle M8.
 
-[View DSC_0051.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0051.JPG)
+![AG1-8](pictures/assembly_guide/AG3-8.JPG)
 
 ​
 
 * A l'opposé de la croix de Malte \(au dessus des pignons\) insérer une rondelle M8.
 
-[View DSC_0052.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0052.JPG)
+![AG1-9](pictures/assembly_guide/AG3-9.JPG)
 
 ​
 
 * Au dessus de la rondelle insérer la pièce R5.
 
-[View DSC_0053.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0053.JPG)
+![AG1-10](pictures/assembly_guide/AG3-10.JPG)
 
 ​
 
 * Serrer le tout par un écrou frein que l'on place au dessus du tout. Serrer fermement à l'aide de clés plates.  On pourra s'aider d'un écrou et contre-écrou pour visser correctement les écrous freins.
 
-[View DSC_0057.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0057.JPG)
+![AG1-11](pictures/assembly_guide/AG3-11.JPG)
 
 ​
 
@@ -500,7 +500,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 * Rassembler les pièces 2\* P5.2 , P5 et la P2.2 ainsi que un aiment en néodyme carrée, 3 vis M2,5\*18mm et une vis M5\*20mm à tête fraisée ;
 
-[View DSC_0006_petit_b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0006_petit_b.jpg)
+![AG1-12](pictures/assembly_guide/AG3-12.JPG)
 
 ​
 
@@ -508,13 +508,13 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 * A l'aide d'un foret de 10mm, percer la pièce P5 sur 2,5mm de profondeur pour loger la tête de la vis M5 ;
 * Insérer 3 vis M2,5 dans les trois petits trous de la pièce P2.2. Insérer par dessus les deux P5.2 l'une sur l'autre. La tête de chaque vis M2,5 doit se loger dans la P2.2 et ne pas dépasser de cette dernière ;
 
-[View DSC_0006_petit-3.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0006_petit-3.jpg)
+![AG1-13](pictures/assembly_guide/AG3-13.JPG)
 
 ​
 
 * Visser par dessus la P5 qui sert de serrage, en veillant à ce que le logement de la tête de vis M5 soit à l'extérieur. A la colle chaude insérer l'aiment carrée dans son logement. Veiller à ce qu'il ne dépasse pas dutout du coté intérieur ;
 
-[View DSC_0006_petit-b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0006_petit-b.jpg)
+![AG1-14](pictures/assembly_guide/AG3-14.JPG)
 
 ​
 
@@ -522,7 +522,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 * Couper au coupe tube un bout de paille inox de 9mm de long et veiller à ce que la vis M5 s'y insère sans acros ;
 * Visser la vis M5 en insérant entre la P2.2 et la P5 le tube inox 5mm. La tête doit se loger dans la pièce P5 et se visse dans la P2.2 ;
 
-[View DSC_0019_petit-b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0019_petit-b.jpg)
+![AG1-15](pictures/assembly_guide/AG3-15.JPG)
 
 ​
 
@@ -534,50 +534,50 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 * Rassembler, le bras de malte précédamment assemblé, le tube inox 10mm\*49,2mm,  une tige filetée M8\*85mm, 4 rondelles M8\_18mm, 2 rondelles M10\_22mm, 2 écrous freins M8, la pièces R6, F1, F2, le dernier pignon et l'abre primaire ;
 
-[View DSC_0023_petit-b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0023_petit-b.jpg)
+![AG1-16](pictures/assembly_guide/AG3-16.JPG)
 
 ​
 
 * Positionner l'arbre primaire sur F2 comme présenté ci-dessous. L'assemblage qui suis nécéssite de faire jouer les deux arbres pour pouvoir enfiler les engrenages correctement ; \(Ajouter annotation des plaques + photos pas à jour \)
 
-[View DSC_0027_petit-b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0027_petit-b.jpg)
+![AG1-17](pictures/assembly_guide/AG3-17.JPG)
 
 ​
 
 * Visser un  écrou neel stop M8 sur le bout de la tige filetée en laissant dépasser quelques milimètres. Insérer une rondelle M8 ;
 * Passer la tige fileté à travers la pièce F2 par le trou indiqué en veillant au sens ;
 
-[View DSC_0028_petit-b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0028_petit-b.jpg)
+![AG1-18](pictures/assembly_guide/AG3-18.JPG)
 
 ​
 
 * Passer une rondelle M8, l'entretoise inox 10\*49,2mm, l'entretoise en plastique R6  et enfin une rondelle M10 ; \(Ajout d'une étape pour détailler l'ajout du tube puis de R6\)
 
-[View DSC_0030_petit-b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0030_petit-b.jpg)
+![AG1-19](pictures/assembly_guide/AG3-19.JPG)
 
 ​
 
 * Enfiler le pignon \(petit pignon vers le haut \) puis une rondelle M10 ;
 
-[View DSC_0033_petit_b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0033_petit_b.jpg)
+![AG1-20](pictures/assembly_guide/AG3-20.JPG)
 
 ​
 
 * Enfiler le bras de Malte \(grand engranage vers le bas\), et pour finir une rondelle M8,
 
-[View DSC_0035_petit_b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0035_petit_b.jpg)
+![AG1-21](pictures/assembly_guide/AG3-21.JPG)
 
 ​
 
 * Refermer par la flasque F1  ;
 
-[View DSC_0036_petit_b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0036_petit_b.jpg)
+![AG1-22](pictures/assembly_guide/AG3-22.JPG)
 
 ​
 
 * Sur l'arbre secondaire, on ajoute à la sortie une rondelle M8 puis on sert généreusement à l'aide de deux clés de 13 les deux écrous de l'arbre secondaire de manière à ce que les deux flasques soient maitenues en parallèle ;
 
-[View DSC_0038_petit_b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0038_petit_b.jpg)
+![AG1-23](pictures/assembly_guide/AG3-23.JPG)
 
 ​
 
@@ -587,19 +587,19 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 * Rassembler, les deux tubes inox 10\*51,3mm, deux tiges filetées de M8\*85mm, 2 écrous freins M8 et 2 écrous M8 ;
 
-[View DSC_0048_petit_b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0048_petit_b.jpg)
+![AG1-24](pictures/assembly_guide/AG3-24.JPG)
 
 ​
 
 * Visser un écrou frein à l'éxtrémité de chaque tige filetée. Liasser la tige fileter dépasser de l'écrou de quelques milimètres ;
 
-[View DSC_0051_petit_b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0051_petit_b.jpg)
+![AG1-25](pictures/assembly_guide/AG3-25.JPG)
 
 ​
 
 * Insérer ses tiges à travers la flasque F1, insérer sur chaque tige entre les deux flasques un tube inox \(entretoise\), puis serrer au moyen des écrous M8.
 
-[View DSC_0058_petit_b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0058_petit_b.jpg)
+![AG1-26](pictures/assembly_guide/AG3-26.JPG)
 
 ​
 
@@ -611,25 +611,25 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 * Rassembler le moteur auquel on aura otté l'hélice \(si livré avec\) en plastique au moyen d'une dremel, 6 vis M3\*8mm, 3 vis M3\*40mm, les pièces C3, P1 et R4 ;
 
-[View DSC_0074_petit_b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0074_petit_b.jpg)
+![AG1-27](pictures/assembly_guide/AG3-27.JPG)
 
 ​
 
 * Visser la plaque C3 sur le moteur \(du coté où sortent les fils\). Attention à verifier qu'en positionnant les fils du moteur dans l'encoche de R4, les trous destinés à passer les vis M3\*40 s'alignent entre C3 et R4 ;
 
-[View DSC_0077_petit_b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0077_petit_b.jpg)
+![AG1-28](pictures/assembly_guide/AG3-28.JPG)
 
 ​
 
 * Visser le moteur au réducteur sur F2 avec les vis M3\*40mm.  Les vis traverssent C3 et R4 pour se serrer dans F2 ;
 
-[View DSC_0080_petit_b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0080_petit_b.jpg)
+![AG1-29](pictures/assembly_guide/AG3-29.JPG)
 
 ​
 
 * Visser le pignon P1 au bout du moteur au moyen de deux vis M3\*8mm ;
 
-[View DSC_0082_petit_b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0082_petit_b.jpg)
+![AG1-30](pictures/assembly_guide/AG3-30.JPG)
 
 ​
 
@@ -641,13 +641,13 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 * Rassembler le capteur magnétique contact reed étanche, la pièce R7, une vis M3\*18mm, une rondelle M3 et un écrou M3.
 
-[View DSC_0083_petit_b.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0083_petit_b.jpg)
+![AG1-31](pictures/assembly_guide/AG3-31.JPG)
 
 ​
 
 * Insérer le capteur dans R7 puis visser R7 sur F1 dans le trou oblond. Le capteur doit être positionné à l'extérieur du réducteur. On avancera le capteur pour qu'il soit au plus près de l'aiment collé sur le bras de Malte ;
 
-[View DSC_0084_petit.jpg @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0084_petit.jpg)
+![AG1-32](pictures/assembly_guide/AG3-32.JPG)
 
 ​
 
@@ -659,7 +659,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 * Rassembler les pièces du ber 2\*R1 et 2\*R1.2. Ainsi que 2 vis M5\*30mm,  2 vis à tête hexagonale M5\*20mm et 4 écrous à frein filet M5.
 
-[View DSC_0241_petit.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0241_petit.JPG)
+![AG1-33](pictures/assembly_guide/AG3-33.JPG)
 
 ​
 
@@ -667,7 +667,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 * Installer la vis M5\*20mm à tête hexagonale de manière à former une charnière entre R1 et 1.2. Serrer à l'aide d'un écrou frein juste sufissament pour empêcher l'écrou de se désolidariser de la vis sans gêner l'ouverture du ber.
 * Installer la vis CHC sur la fermeture du ber. On bloquera à l'aide de l'écrou frein M5.
 
-[View DSC_0243.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0243.JPG)
+![AG1-34](pictures/assembly_guide/AG3-34.JPG)
 
 ​
 
@@ -679,13 +679,13 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 * Rassembler le réducteur, les deux bers précédemment montées, 4 vis à tête fraisée M5\*20mm et 4 écrous M5 de préférence à frein filet.
 
-[View DSC_0247.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0247.JPG)
+![AG1-35](pictures/assembly_guide/AG3-35.JPG)
 
 ​
 
 * A l'aide des vis et des écrous M5, fixer les deux bers sur le dessus du réducteur. Veiller à ce que l'ouverture se fasse dans le même sens sur les deux bers.
 
-[View DSC_0249.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0249.JPG)
+![AG1-36](pictures/assembly_guide/AG3-36.JPG)
 
 ​
 
@@ -697,24 +697,24 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 * Rassembler le réducteur, 19 vis M3\*14mm 19 écrous M3 ainsi que les 4 plaques C1 et C2.
 
-[View DSC_0260.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0260.JPG)
+![AG1-37](pictures/assembly_guide/AG3-37.JPG)
 
 ​
 
 * Positionner 4 vis M3\*14mm dans chaque trou des deux plaques C2. Engager pour chaque vis un écrou sur chacune des vis sans la serrer.
 * Positionner Les 17 autres vis et écrous de la même manière sur le tour complet du réducteur \(les deux plaques en PMMA parallèles\). Positionner les écrous vers l'intérieur du réducteur.
 
-[View DSC_0251.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0251.JPG)
+![AG1-38](pictures/assembly_guide/AG3-38.JPG)
 
 ​
 
 * Installer les plaques C2 sur les deux côtés les plus court du réducteur. Serrer les vis une à une en veillant à ce que les écrous viennent bloquer la plaque. Attention à serrer à tâton pour éviter de fendre le PMMA.
 
-[View DSC_0265.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0265.JPG)
+![AG1-39](pictures/assembly_guide/AG3-39.JPG)
 
 ​
 
 * Installer Les plaques C1 sur les deux côtés longs du réducteur. Comme à l'étape précédente, veiller à ce que les écrous viennent bloquer la plaque. Attention à serrer à tâtons pour éviter de fendre le PMMA.
 
-[View DSC_0269.JPG @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Reducer/DSC_0269.JPG)
+![AG1-40](pictures/assembly_guide/AG3-40.JPG)
 
