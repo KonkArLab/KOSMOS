@@ -13,10 +13,13 @@ nav:
         - 2. Guide de déploiement: deployment.md
         - 3. Retour à terre: landing.md
         
+    - A propos :
+        - Licence : license.md
+        
 theme:
     name: material
     palette:
-      primary: blue
+      primary: #058651
 
 plugins:
   - search
