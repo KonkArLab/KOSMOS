@@ -50,7 +50,7 @@ Le KOSMOS 2.3 est composé en plus de pièces imprimés en 3D et de visserie Ino
 * Télécharger le fichier PMMA-5mm\_A5\_laser-cut.svg
 * Découper les pièces S1 S2 dans du PMMA de 5mm d'éppaisseur \(prévoir l'équivalent de la surface d'une feuille A5\) ;
 
-[View legende_str_int_PMMA_5mm_A5.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Captions/legende_str_int_PMMA_5mm_A5.png)
+![POP2-1](pictures/productions_of_parts/POP2-1.PNG)
 
 ​
 
@@ -64,7 +64,7 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 * Télécharger le fichier PMMA-5mm\_A3\_Laser-cut.svg pour lancer une découpe au laser ou à la fraiseuse numérique ;
 * Toutes les pièces sont disposées ici de manière à rentrer dans un format A3 \(42\*29,7 cm\).
 
-[View legende_decoupePMMAA3.png @ Wikifactory](https://wikifactory.com/@konkarlab/kosmos30/file/pictures_assembly_process/Captions/legende_decoupePMMAA3.png)
+![POP1-1](pictures/productions_of_parts/POP2-2.png)
 
 ​
 
