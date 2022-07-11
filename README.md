@@ -1,7 +1,7 @@
 # KOSMOS
 An underwater observation tool
 
-![kosmos](docs/photos/inte3D_legende.png)
+![Kosmos](docs/pictures/Kosmos3-0.webp) 
 
 Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International.](https://creativecommons.org/licenses/by-nc-sa/4.0/) L'auteur à mentionner est Konk Ar Lab et Ifremer
 
