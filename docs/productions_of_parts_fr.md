@@ -6,10 +6,10 @@ Imprimer toutes les pièces nécessaires. [Les fichiers STL sont disponibles ici
 
 **1.1 Pour l'intérieur du caisson :**
 
-* <a href="https://github.com/gheleguen/KOSMOS_tech/blob/main/hardware/3Dprint_files/I1_KOSMOS_V3-0.stl" target="_blank">1 x I1 qui va supporter la carte Rapsberry</a> 
-* 1x I2, qui va faire le lien entre la structure Raspberry et la plaque sur laquelle va se positionner les batteries.
-* 1x I3,qui va supporter la PiCam
-* 1x I4, qui va se visser à une flange du tube pour empécher les structures internes du KOSMOS de pouvoir tourner dans le tube.
+* [1 x I1 qui va supporter la carte Rapsberry](hardware/3Dprint_files/I1_KOSMOS_V3-0.stl)
+* [1x I2, qui va faire le lien entre la structure Raspberry et la plaque sur laquelle va se positionner les batteries.](hardware/3Dprint_files/I2_KOSMOS_V3-0.stl)
+* [1x I3,qui va supporter la PiCam](hardware/3Dprint_files/I3_KOSMOS_V3-0.stl)
+* [1x I4, qui va se visser à une flange du tube pour empécher les structures internes du KOSMOS de pouvoir tourner dans le tube.](hardware/3Dprint_files/I4_KOSMOS_V3-0.stl)
 
 ![POP1-1](pictures/productions_of_parts/POP1-1.PNG)
 ​
@@ -24,12 +24,13 @@ Toutes ces pièces doivent êtres impérativement imprimés en PET. En effet, ce
 
 Nous recommandons un taux de remplissage des pièces qui ne soit inférieur à 30%. Toutes nos pièces ont un taux de remplissage à 100%.
 
-* 1x R3 qui permet de transmettre l'effort de la croix de malte à la tige fileté.
-* 1x R5, permets de guider l'arbre secondaire et de ne pas serrer les flasques avec les engrenages de cet arbre.
-* 1x R6, une entretoise sur l'arbre primaire
-* 1x R4, l'entretoise pour le support moteur
-* 1x Reducteur3D n°5 SupMag, permets de placer le capteur magnétique
-* 2x R1 et 2x R1.2 , permet de maintenir le caisson solidaire au
+* [1x R3 qui permet de transmettre l'effort de la croix de malte à la tige fileté.](hardware/3Dprint_files/R3_KOSMOS_V3-0.stl)
+* [1x R5, permets de guider l'arbre secondaire et de ne pas serrer les flasques avec les engrenages de cet arbre.](hardware/3Dprint_files/R5_KOSMOS_V3-0.stl)
+* [1x R6, une entretoise sur l'arbre primaire](hardware/3Dprint_files/R6_KOSMOS_V3-0.stl)
+* [1x R4, l'entretoise pour le support moteur](hardware/3Dprint_files/R4_KOSMOS_V3-0.stl)
+* [1x R2, permets de placer le capteur magnétique](hardware/3Dprint_files/R2_KOSMOS_V3-0.stl)
+* [2x R1 ](hardware/3Dprint_files/R1_KOSMOS_V3-0.stl)
+* [et 2x R1.2 , permet de maintenir le caisson solidaire au réducteur](hardware/3Dprint_files/R1.2_KOSMOS_V3-0.stl)
 
 ![POP1-2](pictures/productions_of_parts/POP1-2.PNG)
 
