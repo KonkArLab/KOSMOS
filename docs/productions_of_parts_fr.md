@@ -6,10 +6,10 @@ Imprimer toutes les pièces nécessaires. [Les fichiers STL sont disponibles ici
 
 **1.1 Pour l'intérieur du caisson :**
 
-* [1 x I1 qui va supporter la carte Rapsberry](hardware/3Dprint_files/I1_KOSMOS_V3-0.stl)
-* [1x I2, qui va faire le lien entre la structure Raspberry et la plaque sur laquelle va se positionner les batteries.](hardware/3Dprint_files/I2_KOSMOS_V3-0.stl)
-* [1x I3,qui va supporter la PiCam](hardware/3Dprint_files/I3_KOSMOS_V3-0.stl)
-* [1x I4, qui va se visser à une flange du tube pour empécher les structures internes du KOSMOS de pouvoir tourner dans le tube.](hardware/3Dprint_files/I4_KOSMOS_V3-0.stl)
+* [1 x I1 qui va supporter la carte Rapsberry](../hardware/3Dprint_files/I1_KOSMOS_V3-0.stl)
+* [1x I2, qui va faire le lien entre la structure Raspberry et la plaque sur laquelle va se positionner les batteries.](../hardware/3Dprint_files/I2_KOSMOS_V3-0.stl)
+* [1x I3,qui va supporter la PiCam](../hardware/3Dprint_files/I3_KOSMOS_V3-0.stl)
+* [1x I4, qui va se visser à une flange du tube pour empécher les structures internes du KOSMOS de pouvoir tourner dans le tube.](../hardware/3Dprint_files/I4_KOSMOS_V3-0.stl)
 
 ![POP1-1](pictures/productions_of_parts/POP1-1.PNG)
 ​
@@ -24,13 +24,13 @@ Toutes ces pièces doivent êtres impérativement imprimés en PET. En effet, ce
 
 Nous recommandons un taux de remplissage des pièces qui ne soit inférieur à 30%. Toutes nos pièces ont un taux de remplissage à 100%.
 
-* [1x R3 qui permet de transmettre l'effort de la croix de malte à la tige fileté.](hardware/3Dprint_files/R3_KOSMOS_V3-0.stl)
-* [1x R5, permets de guider l'arbre secondaire et de ne pas serrer les flasques avec les engrenages de cet arbre.](hardware/3Dprint_files/R5_KOSMOS_V3-0.stl)
-* [1x R6, une entretoise sur l'arbre primaire](hardware/3Dprint_files/R6_KOSMOS_V3-0.stl)
-* [1x R4, l'entretoise pour le support moteur](hardware/3Dprint_files/R4_KOSMOS_V3-0.stl)
-* [1x R2, permets de placer le capteur magnétique](hardware/3Dprint_files/R2_KOSMOS_V3-0.stl)
-* [2x R1 ](hardware/3Dprint_files/R1_KOSMOS_V3-0.stl)
-* [et 2x R1.2 , permet de maintenir le caisson solidaire au réducteur](hardware/3Dprint_files/R1.2_KOSMOS_V3-0.stl)
+* [1x R3 qui permet de transmettre l'effort de la croix de malte à la tige fileté.](../hardware/3Dprint_files/R3_KOSMOS_V3-0.stl)
+* [1x R5, permets de guider l'arbre secondaire et de ne pas serrer les flasques avec les engrenages de cet arbre.](../hardware/3Dprint_files/R5_KOSMOS_V3-0.stl)
+* [1x R6, une entretoise sur l'arbre primaire](../hardware/3Dprint_files/R6_KOSMOS_V3-0.stl)
+* [1x R4, l'entretoise pour le support moteur](../hardware/3Dprint_files/R4_KOSMOS_V3-0.stl)
+* [1x R2, permets de placer le capteur magnétique](../hardware/3Dprint_files/R2_KOSMOS_V3-0.stl)
+* [2x R1 ](../hardware/3Dprint_files/R1_KOSMOS_V3-0.stl)
+* [et 2x R1.2 , permet de maintenir le caisson solidaire au réducteur](../hardware/3Dprint_files/R1.2_KOSMOS_V3-0.stl)
 
 ![POP1-2](pictures/productions_of_parts/POP1-2.PNG)
 
@@ -42,13 +42,13 @@ _Note  : Toutes les pièces devront être netoyées de leurs supports et au cour
 
 ## 2/ Découpe des pièces planes au laser
 
-Le KOSMOS 2.3 est composé en plus de pièces imprimés en 3D et de visserie Inox de pièces à découper au laser dans des plaques de PMMA et de POM. Ainsi on peut immerger ses pièces dans l'eau sans craindre la pression. Les pièces de l'intérieur du caisson peuvent être aussi imprimés en 3D.  [Les trois fichiers vectoriels évoqués ci-dessous sont disponibles ici. ](https://wikifactory.com/@konkarlab/kosmos30/files/KOSMOS_3-0_beta1/Laser-cuts_KOSMOS_3-0_beta1)
+Le KOSMOS 2.3 est composé en plus de pièces imprimés en 3D et de visserie Inox de pièces à découper au laser dans des plaques de PMMA et de POM. Ainsi on peut immerger ses pièces dans l'eau sans craindre la pression. Les pièces de l'intérieur du caisson peuvent être aussi imprimés en 3D.  [Les trois fichiers vectoriels évoqués ci-dessous sont disponibles ici. ](../hardware/Laser_cut/)
 
 ​
 
 **2.1 Pour l'intérieur du caisson :**
 
-* [Télécharger le fichier de découpe](hardware/Laser_cut/PMMA-5mm_A5_laser-cut.svg )
+* [Télécharger le fichier de découpe](../hardware/Laser_cut/PMMA-5mm_A5_laser-cut.svg )
 * Découper les pièces S1 S2 dans du PMMA de 5mm d'éppaisseur \(prévoir l'équivalent de la surface d'une feuille A5\) ;
 
 ![POP2-1](pictures/productions_of_parts/POP2-1.PNG)
@@ -89,7 +89,7 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 
 ### 3.1 Fabrication du PCB
  - Sur une plaque de circuit imprimé cuivré graver le PCB.
- - Fabriquer le PCB en suivant la documentation en annexe. [Utiliser le fichier pdf](hardware/electronics/PCB_forprint_KOSMOS_v3-0.pdf) 
+ - Fabriquer le PCB en suivant la documentation en annexe. [Utiliser le fichier pdf](../hardware/electronics/PCB_forprint_KOSMOS_v3-0.pdf) 
 
 ### 3.1 Perçage du PCB et soudure
 
