@@ -1,6 +1,6 @@
 ## 1/ Impression des pièces en 3D
 
-Imprimer toutes les pièces nécessaires. [Les fichiers STL sont disponibles ici](hardware/3Dprint_files/) .
+Imprimer toutes les pièces nécessaires. [Les fichiers STL sont disponibles ici](../hardware/3Dprint_files/) .
 
 ​
 
