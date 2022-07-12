@@ -86,6 +86,10 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 
 ## 3/ Electroniques et câblages
 
+### 3.1 Fabrication du PCB
+ - Sur une plaque de circuit imprimé cuivré graver le PCB.
+ - Fabriquer le PCB en suivant la documentation en annexe. [Utiliser le fichier pdf](hardware/electronics/PCB_forprint_KOSMOS_v3-0.pdf) 
+
 ### 3.1 Perçage du PCB et soudure
 
 ​
