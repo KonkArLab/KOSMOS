@@ -6,7 +6,7 @@ Imprimer toutes les pièces nécessaires. [Les fichiers STL sont disponibles ici
 
 **1.1 Pour l'intérieur du caisson :**
 
-* 1 x I1 qui va supporter la carte Rapsberry
+* [1 x I1 qui va supporter la carte Rapsberry](hardware/3Dprint_files/I1_KOSMOS_v3-0.stl)
 * 1x I2, qui va faire le lien entre la structure Raspberry et la plaque sur laquelle va se positionner les batteries.
 * 1x I3,qui va supporter la PiCam
 * 1x I4, qui va se visser à une flange du tube pour empécher les structures internes du KOSMOS de pouvoir tourner dans le tube.
