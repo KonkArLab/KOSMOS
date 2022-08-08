@@ -46,9 +46,9 @@ Il est également possible de ne traiter qu'une frames en définissant fin_min e
 
 ## Exemples d'une image traitée avec les 2 codes 
 <center>
-<img src="./exemples/image_originale.png"  height = "400" alt="Image originale" />
-<img src="./exemples/image_HE.png"  height = "400" alt="Image traitée avec HE et le débrumage" />
-<img src="./exemples/image_retinex.png"   height = "400" alt="Image traitée avec le rétinex" />
+<img src="./Exemples/image_originale.png"  height = "400" alt="Image originale" />
+<img src="./Exemples/image_HE.png"  height = "400" alt="Image traitée avec HE et le débrumage" />
+<img src="./Exemples/image_retinex.png"   height = "400" alt="Image traitée avec le rétinex" />
 </center>
 
 
