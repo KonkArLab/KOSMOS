@@ -71,7 +71,7 @@
 
 * Rassembler, le convertisseur 12v vers 5v, la Raspberry sur son support, 2 vis M3\*5mm et 2 colsons. 
 
-![AG1-7](pictures/assembly_guide/AG1-7.JPG) (/changer photo/)
+![AG1-7](pictures/assembly_guide/AG1-7.JPG)
 
 ​
 
@@ -81,7 +81,7 @@
 
 * Installer l'ESC sous le convertisseur à l'aide des deux colsons. On veillera à positionner les câbles du BEC et d'alimentation du coté de l'encoche de S1. 
 
-![AG1-8](pictures/assembly_guide/AG1-8.JPG) (/changer photo/)
+![AG1-8](pictures/assembly_guide/AG1-8.JPG)
 
 ​
 
@@ -93,8 +93,7 @@
 
 * Rassembler la Raspberry et son support, la caméra et sa structure, la structure I1 et I2, 8 ecrous M3, 6 vis M3\*10mm, et 2 vis M3\*15mm, 2 vis M4\*30mm, 2 écrous M4.
 
-![AG1-10](pictures/assembly_guide/AG1-10.JPG) (/A changer/)
-
+![AG1-10](pictures/assembly_guide/AG1-10.JPG)
 ​
 
 ​
@@ -107,7 +106,7 @@
 
 * Visser la carte Raspberry pi 4 et son support S1 sur le structure I1 à l'aide de deux vis M3\*15mm en haut (Côté opposé aux connecteurs USB) et deux vis M3\*10mm en bas (côté des connecteurs USB). Attention au sens de la Raspberry \(cf photo ci-dessous\).
 
-![AG1-12](pictures/assembly_guide/AG1-12.JPG) (/A changer/)
+![AG1-12](pictures/assembly_guide/AG1-12.JPG)
 
 ​
 
@@ -120,14 +119,14 @@
 
 * Visser l'autre extrémité de la plaque de PMMA S2 sur la structure caméra I3.
 
-![AG1-15](pictures/assembly_guide/AG1-15.JPG) (/A changer/)
+![AG1-15](pictures/assembly_guide/AG1-15.JPG)
 
 ​
 
 * Assembler les deux parties précédemment assemblées. Veiller à passer les câbles au travers des pièces et à ne pas les abimer.
 * Visser ces deux parties au moyen de deux vis M4\*30mm et de deux écrous M4. Serrer de manière à ce que la tête de vis ne puisse géner l'insertion du KOSMOS dans le tube.
 
-![AG1-16](pictures/assembly_guide/AG1-16.JPG) (/A changer/)
+![AG1-16](pictures/assembly_guide/AG1-16.JPG)
 
 ​
 
@@ -149,7 +148,7 @@
 
 ​
 
-* Positionner la batterie sur son support sur un des deux flancs.  Maintenir en place la batterie à l'aide de colsons.
+* Positionner la batterie sur S2 sur un des deux flanc étroit.  Maintenir en place la batterie à l'aide de colsons. On préférera positionner les câbles du côté de la raspberry et de veiller à mettre la batterie en buttée sur la structure où est vissée la Picam. 
 
 ![AG1-19](pictures/assembly_guide/AG1-19.JPG)
 
