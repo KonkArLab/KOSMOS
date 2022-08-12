@@ -398,6 +398,9 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 * A l'aide d'un foret à métaux de 4mm et d'une perceuse \(à colonne de préférence\), élargir les 3 trous des trois pignons n°1 sur une profondeur permettant à la tête de vis de ne pas dépasser.
 * A l'aide d'une clé alen de 2mm, assembler les trois trio de pignons comme présenté ci-dessous. On place un pignon P3.2 entre un P2 et un P3. La vis viendra tarauder le pignon P3.  Avant de serrer veillez à bien aligner la denture entre les pignons P3 et P3.2.
 
+![AG1-1bis](pictures/assembly_guide/AG3-1bis.JPG)
+![AG1-1ter](pictures/assembly_guide/AG3-1ter.JPG)
+
 ​
 
 ### 3.2 Assembler la croix de Malte
@@ -411,6 +414,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 * Assembler la croix de Malte en insérant la rondelle dans l'emplacement prévu à cet effet, entre la croix de Malte et la pièce R3. Visser avec les 4 vis à l'aide d'une clé alen de 2,5mm.
 
 ![AG1-3](pictures/assembly_guide/AG3-3.JPG)
+![AG1-3bis](pictures/assembly_guide/AG3-3bis.JPG)
 
 ​
 
@@ -438,13 +442,14 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 * Installer le tube dans la croix de malte, cette dernière viendra s'épauler sur la rondelle prise dans la croix de malte. Puis insérer une rondelle M10 ;
 
-![AG1-5](pictures/assembly_guide/AG3-5.JPG)
+![AG1-5](pictures/assembly_guide/AG3-5.png)
+![AG1-5bis](pictures/assembly_guide/AG3-5bis.png)
 
 ​
 
 * Insérer un pignon \(petit pignon vers le bas\) puis une rondelle M10, puis le deuxième pignon \(petit pignon vers le bas\). L'entretoise doit dépasser de moins d'un milimètre.
 
-![AG1-6](pictures/assembly_guide/AG3-6.JPG)
+![AG1-6](pictures/assembly_guide/AG3-6.png)
 
 ​
 
@@ -456,7 +461,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 * Insérer cette tige fileté à travers l'assemblage précédamment fait. L'écrou pré-vissé sera en buté sous la croix de malte séparé d'une rondelle M8.
 
-![AG1-8](pictures/assembly_guide/AG3-8.JPG)
+![AG1-8](pictures/assembly_guide/AG3-8.png)
 
 ​
 
@@ -531,6 +536,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 * Positionner l'arbre primaire sur F2 comme présenté ci-dessous. L'assemblage qui suis nécéssite de faire jouer les deux arbres pour pouvoir enfiler les engrenages correctement ; \(Ajouter annotation des plaques + photos pas à jour \)
 
 ![AG1-17](pictures/assembly_guide/AG3-17.JPG)
+![AG1-17bis](pictures/assembly_guide/AG3-17bis.JPG)
 
 ​
 
