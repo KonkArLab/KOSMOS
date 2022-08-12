@@ -1,12 +1,12 @@
 # Traitement des vidéos issues du système KOSMOS <img width="50" alt="image kosmos" src="https://user-images.githubusercontent.com/108416242/182578775-55f881ab-6064-4b50-8c58-42cfca3f6113.PNG">
 
 
-Le but de ces algorithmes est d'améliorer les vidéos sous-marines en traitant la turbidité et en corrigeant les couleurs (en python) 
+Le but de cet algorithme est d'améliorer les vidéos sous-marines en traitant la turbidité et en corrigeant les couleurs (en python) 
 
 ## Prérequis 
 
 Python : 
-  Libraries: 
+  Librairies: 
     - OpenCV
     - Numpy
     - Math
@@ -15,18 +15,19 @@ Python :
     - Imageio 
     - OS
     - multiprocessing & concurrent.futures
+    
+ Pour installer les librairies, tapez dans la console spyder : pip install *nom de la librairie*
  
 ## Lancer l'algorithme 
 
-L'arborescence de fichier doit se présenter comme celui-ci : ![fichier](https://user-images.githubusercontent.com/108416242/182579384-d89315d0-6ace-4c36-b664-69f7bbeefd04.PNG)
+L'arborescence de fichier doit se présenter comme celui-ci : <img width="700" height = "100" alt="image" src="https://user-images.githubusercontent.com/108416242/184326324-4a4936d7-cb4e-425e-9281-87b72b8c7ff5.PNG">
 
-Avec les vidéos à traitées dans le dossier "Vidéos" et les vidéos traitées dans le dossier "Vidéos traitées". Le dossier "Frames" contiendra toutes les images
-des videos et ces images seront traitées directement dans ce dossier. ⚠️ Pensez à vérifier que les chemins de dossier, présents dans le code, sont exacts.
+Avec les vidéos à traiter dans le dossier "Vidéos" et les vidéos traitées dans le dossier "Vidéos traitées". Le dossier "Frames" contiendra toutes les images
+des videos et ces images seront traitées directement dans ce dossier. ⚠️ Pensez à vérifier que les chemins des différents dossiers, présents dans le code, sont exacts.
 
-- Dehaze_HE.py : contient le code qui va traiter une vidéo/image avec les méthodes d’égalisation d’histogramme et de débrumage.
-- Dehaze_retinex.py : contient le code qui va traiter une vidéo/image avec les méthodes rétinex et débrumage.
+- Processing.py : contient le code qui va traiter une vidéo/image avec les méthodes d’égalisation d’histogramme, de débrumage et le rétinex.
 
-Dans chacun des deux fichiers python il y a une partie pour modifier certains paramètres : 
+Dans le fichier python il y a une partie pour modifier certains paramètres (ligne 311): 
 
 ``` 
 ### PARAMETRES A RENSEIGNER ### 
@@ -38,13 +39,17 @@ db_s =44
 fin_min = 13
 fin_s= 54
 
+method = "HE"
+
 filename_video_a_traiter = "./Vidéos/video.mp4"
 ###############################
 ```
 C'est ici que l'on rentre la durée (db_min, db_s, fin_min, fin_s) de la vidéo que l'on souhaite traiter avec un temps de début et de fin. 
-Il est également possible de ne traiter qu'une frames en définissant fin_min et fin_s à 0. 
+Il est également possible de ne traiter qu'une frame en définissant fin_min et fin_s à 0. 
 
-## Exemples d'une image traitée avec les 2 codes 
+La variable "method" va indiquer quelle méthode de traitement on souhaite utiliser, il est possible de rentrer soit "HE" ou "retinex".
+
+## Exemples d'une image traitée avec les deux méthodes
 <center>
 Image originale: <img src="./Exemples/image_originale.png"  height = "400" alt="Image originale" />
 Image traitée avec HE et le débrumage : <img src="./Exemples/image_HE.png"  height = "400"/>
