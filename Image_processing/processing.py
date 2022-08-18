@@ -7,7 +7,8 @@ Created on Tue Aug  2 13:13:31 2022
 
 import moviepy.editor
 import cv2
-import math
+import math 
+from math import floor
 import numpy as np
 import shutil
 import imageio
@@ -40,11 +41,9 @@ def Video2Images (filename):
             imageio.imwrite('./Frames/{:03d}'.format(int(frame_number/3)) + '.png', im) # Ecriture des images dans le dossier Frames
             
 
-def decoup_video(db_min, db_s,fin_min,fin_s,filename, filename2):
+def decoup_video(a,b,filename, filename2):
 #Fonction qui va en fonction du temps rentré en paramètre récupérer une partie de la vidéo 
     #Calcul du nombre de secondes 
-    a = 60*db_min + db_s #début 
-    b = 60*fin_min + fin_s #fin 
     
     clip = moviepy.editor.VideoFileClip(filename_video)
     if fin_min == 0 and fin_s == 0:
@@ -58,8 +57,10 @@ def generate_video(image_folder, method):
 #Génération de la vidéo à partir d'images
     if method == "retinex" :  
         video_name = 'video_retinex.mp4'
-    else :
+    elif method == "HE" :
         video_name = 'video_HE.mp4'
+    else :
+        video_name = 'video_UDCP.mp4'
     os.chdir("./") 
     images = [img for img in os.listdir(image_folder)] #Récupération des images dans une liste 
    
@@ -74,7 +75,7 @@ def generate_video(image_folder, method):
     #Délocalisation de la mémoire prise pour la création de fenêtre 
     cv2.destroyAllWindows() 
     video.release()  # "Libération" de la vidéo 
-    shutil.move('./'+ video_name, './Vidéos_traitees/'+video_name)
+    shutil.move('./'+ video_name, './Videos_traitees/'+video_name)
 
 ###############################################################################
 
@@ -187,7 +188,18 @@ def Dehaze(fn):
     t = TransmissionRefine(srcc,te)
     III = Recover(II,t,A,0.1) 
     cv2.imwrite(fn,III*255) 
-    
+
+def process_image_dehaze(img_names):
+#Fonction qui appelle toutes les fonctions pour réaliser le débrumage en multiprocessing
+    im = cv2.imread(img_names)
+    II = im.astype('float64')/255
+    srcc= Float2BGR(II)
+    dark = DarkChannel(II,15)
+    A = AtmLight(II,dark)
+    te = TransmissionEstimate(II,A,15)
+    t = TransmissionRefine(srcc,te)
+    III = Recover(II,t,A,0.1) 
+    cv2.imwrite(img_names,III*255) 
 ###############################################################################    
 
 
@@ -302,32 +314,54 @@ def process_image(img_names):
     cv2.imwrite(img_names, img_retinex)#Ecriture de l'image   
     
 ###############################################################################
-            
-#%%
 
+################### Temps de traitement estimé ################################
+            
+def temps (method, a, b):
+#Fonction qui calcul le temps de traitement estimé en fonction de la méthode utilisé 
+#et qui l'affiche dans la console 
+    duree = b-a
+    if method == "retinex":
+        temps = 8.3*duree*16+(duree*23/60)
+        print(f"Le temps de traitement est estimé à {floor(temps/60)}min et {floor(temps%60)}s")
+    elif method == "HE" :
+        temps = 8.3*duree*5+(duree*23/60)
+        print(f"Le temps de traitement est estimé à {floor(temps/60)}min et {floor(temps%60)}s")
+    else :
+        temps = 8.3*duree*4+(duree*23/60)
+        print(f"Le temps de traitement est estimé à {floor(temps/60)}min et {floor(temps%60)}s")
+
+#%%
+t1 = time.perf_counter()
 ################## PARAMETRES A RENSEIGNER ###############################
 
-filename_video = './Vidéos/kosmos_2022-07-19-19-09-16.mp4' 
+filename_video = './Videos/MOV_0008.mp4' 
 
-db_min = 13
-db_s =2
+db_min = 0
+db_s =0
 
 # Pour ne traiter qu'une frame il est possible de définir fin_min et fin_s à 0
-fin_min = 13
-fin_s= 3
+fin_min = 0
+fin_s= 4
 
-#variable pour choisir la méthode de traitement : "retinex" ou "HE"
-method = "retinex"
+#variable pour choisir la méthode de traitement : "retinex" / "HE" / "UDCP" 
+method = "UDCP"
 
-filename_video2 = "./Vidéos/video.mp4"
+filename_video2 = "./Videos/video.mp4"
 
 #########################################################################
 
 if __name__ == '__main__':
+    #Calcul du nombre de secondes
+    a = 60*db_min + db_s #début 
+    b = 60*fin_min + fin_s #fin 
+  
+    temps(method, a, b)
+    
     dossier_vide()
-    
-    decoup_video(db_min, db_s, fin_min, fin_s, filename_video,filename_video2) #Appel de la fonction qui découpe une partie de la vidéo et la divise en frames 
-    
+   
+    decoup_video(a,b, filename_video,filename_video2) #Appel de la fonction qui découpe une partie de la vidéo et la divise en frames 
+     
     image_folder = './Frames'
     
     nb_image = 0 
@@ -345,9 +379,12 @@ if __name__ == '__main__':
     #Le module concurrent.futures permet d'exécuter le code à l'aide de processus distincts
         if method == "HE":
             executor.map(process_image1,img_names)#Application de la méthode (He+ débrumage) en multitraitement aux frames dans la liste img_names
-        else : 
+        elif method == "retinex" : 
             executor.map(process_image,img_names)#Application de la méthode (retinex+ débrumage) en multitraitement aux frames dans la liste img_names
+        else :
+            executor.map(process_image_dehaze,img_names)#Application de la méthode de déburmage (UDCP) en multitraitement aux frames dans la liste img_names
     generate_video(image_folder, method)# Génération de la vidéo 
     
-        
+t2 = time.perf_counter()
+print(f'Finished in {t2-t1} secondsS')    
 
