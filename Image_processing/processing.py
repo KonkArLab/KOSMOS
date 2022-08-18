@@ -332,7 +332,7 @@ def temps (method, a, b):
         print(f"Le temps de traitement est estimé à {floor(temps/60)}min et {floor(temps%60)}s")
 
 #%%
-t1 = time.perf_counter()
+
 ################## PARAMETRES A RENSEIGNER ###############################
 
 filename_video = './Videos/MOV_0008.mp4' 
@@ -384,7 +384,5 @@ if __name__ == '__main__':
         else :
             executor.map(process_image_dehaze,img_names)#Application de la méthode de déburmage (UDCP) en multitraitement aux frames dans la liste img_names
     generate_video(image_folder, method)# Génération de la vidéo 
-    
-t2 = time.perf_counter()
-print(f'Finished in {t2-t1} secondsS')    
+  
 
