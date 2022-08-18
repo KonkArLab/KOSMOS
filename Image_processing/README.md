@@ -20,14 +20,15 @@ Python :
  
 ## Lancer l'algorithme 
 
-L'arborescence de fichier doit se présenter comme celui-ci : <img width="700" height = "100" alt="image" src="https://user-images.githubusercontent.com/108416242/184326324-4a4936d7-cb4e-425e-9281-87b72b8c7ff5.PNG">
+L'arborescence de fichier doit se présenter comme celui-ci : <img width="700" height = "100" alt="image" src="https://user-images.githubusercontent.com/108416242/185396899-de596b0b-9888-442c-8f05-f3d24f23c5ad.PNG">
 
-Avec les vidéos à traiter dans le dossier "Vidéos" et les vidéos traitées dans le dossier "Vidéos traitées". Le dossier "Frames" contiendra toutes les images
+
+Avec les vidéos à traiter dans le dossier "Videos" et les vidéos traitées dans le dossier "Videos traitées". Le dossier "Frames" contiendra toutes les images
 des videos et ces images seront traitées directement dans ce dossier. ⚠️ Pensez à vérifier que les chemins des différents dossiers, présents dans le code, sont exacts.
 
 - Processing.py : contient le code qui va traiter une vidéo/image avec les méthodes d’égalisation d’histogramme, de débrumage et le rétinex.
 
-Dans le fichier python il y a une partie pour modifier certains paramètres (ligne 311): 
+Dans le fichier python il y a une partie pour modifier certains paramètres (ligne 335): 
 
 ``` 
 ### PARAMETRES A RENSEIGNER ### 
@@ -47,7 +48,7 @@ filename_video_a_traiter = "./Vidéos/video.mp4"
 C'est ici que l'on rentre la durée (db_min, db_s, fin_min, fin_s) de la vidéo que l'on souhaite traiter avec un temps de début et de fin. 
 Il est également possible de ne traiter qu'une frame en définissant fin_min et fin_s à 0. 
 
-La variable "method" va indiquer quelle méthode de traitement on souhaite utiliser, il est possible de rentrer soit "HE" ou "retinex".
+La variable "method" va indiquer quelle méthode de traitement on souhaite utiliser, il est possible de rentrer soit "HE" ou  "retinex" ou "UDCP".
 
 ## Exemples d'une image traitée avec les deux méthodes
 <center>
