@@ -20,7 +20,8 @@ Python :
  
 ## Lancer l'algorithme 
 
-L'arborescence de fichier doit se présenter comme celui-ci : <img width="700" height = "100" alt="image" src="https://user-images.githubusercontent.com/108416242/185396899-de596b0b-9888-442c-8f05-f3d24f23c5ad.PNG">
+L'arborescence de fichier doit se présenter comme celui-ci : <img width="700" height = "100" alt="image" src="https://user-images.githubusercontent.com/108416242/185398078-308eef6c-1bec-4154-a7a8-23f91d2af5e1.PNG">
+
 
 
 Avec les vidéos à traiter dans le dossier "Videos" et les vidéos traitées dans le dossier "Videos traitées". Le dossier "Frames" contiendra toutes les images
