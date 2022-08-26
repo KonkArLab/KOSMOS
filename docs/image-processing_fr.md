@@ -52,11 +52,21 @@ Il est également possible de ne traiter qu'une frame en définissant fin_min et
 La variable "method" va indiquer quelle méthode de traitement on souhaite utiliser, il est possible de rentrer soit "HE" ou  "retinex" ou "UDCP".
 
 ## III/ Exemples d'une image traitée avec les deux méthodes
-<center>
-Image originale: <img src="./pictures/Image_processing/IP3-1.png"  height = "400" alt="Image originale" />
-Image traitée avec HE et le débrumage : <img src="./pictures/Image_processing/IP3-2.png"  height = "400"/>
-Image traitée avec le rétinex : <img src="./pictures/Image_processing/IP3-3.jpg"   height = "400" alt="Image traitée avec le rétinex" />
-</center>
+
+Image originale: 
+
+![IP3-1.png](pictures/Image_processing/IP3-1.png) 
+
+
+Image traitée avec HE et le débrumage : 
+
+![IP3-2.png](pictures/Image_processing/IP3-2.png) 
+
+
+Image traitée avec le rétinex : 
+
+![IP3-3.jpg](pictures/Image_processing/IP3-3.jpg) 
+
 
 
 ## Sources : Algorithmes/articles utilisés :
