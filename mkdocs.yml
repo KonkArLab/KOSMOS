@@ -5,16 +5,17 @@ nav:
         - 2. Matériel: tools_fr.md
         - 3. Fabrications des piéces: productions_of_parts_fr.md
         - 4. Guide d'assemblage: assembly-guide_fr.md
-        - 5. Annexes:
+        - 5. Calibration du temps de pause: calibrate_fr.md
+        - 6. Annexes:
           - Fabrication d'un PCB: make_a_PCB_fr.md 
-        
-    - II/ Préparation et mise au points :
-        - 1. Calibration du temps de pause: calibrate_fr.md
-    
-    - III/ Utilisation en mer :
+
+    - II/ Utilisation en mer :
         - 1. Check-list: check-list_fr.md
         - 2. Guide de déploiement: deployment.md
         - 3. Retour à terre: landing.md
+    
+    -III/ Collecte et gestion des données :
+        -1. Correction des images: image-processing_fr.md
     
     - IV/ Contribuer : 
         - 1. Editer cette documentation: edit-this-doc_fr.md
