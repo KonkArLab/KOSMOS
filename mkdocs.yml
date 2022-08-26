@@ -9,7 +9,7 @@ nav:
         - 6. Annexes:
           - Fabrication d'un PCB: make_a_PCB_fr.md 
 
-    - II/ Utilisation en mer :
+    - II/ Usage en mer :
         - 1. Check-list: check-list_fr.md
         - 2. Guide de déploiement: deployment.md
         - 3. Retour à terre: landing.md
