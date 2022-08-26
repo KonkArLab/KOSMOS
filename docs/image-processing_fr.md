@@ -3,7 +3,7 @@
 
 Le but de cet algorithme est d'améliorer les vidéos sous-marines en traitant la turbidité et en corrigeant les couleurs (en python) 
 
-## Prérequis 
+## I/ Prérequis 
 
 Python : 
   Librairies: 
@@ -18,7 +18,7 @@ Python :
     
  Pour installer les librairies, tapez dans la console spyder : pip install *nom de la librairie*
  
-## Lancer l'algorithme 
+## II/ Lancer l'algorithme 
 
 L'arborescence de fichier doit se présenter comme celui-ci : <img width="700" height = "100" alt="image" src="https://user-images.githubusercontent.com/108416242/185398078-308eef6c-1bec-4154-a7a8-23f91d2af5e1.PNG">
 
@@ -51,15 +51,15 @@ Il est également possible de ne traiter qu'une frame en définissant fin_min et
 
 La variable "method" va indiquer quelle méthode de traitement on souhaite utiliser, il est possible de rentrer soit "HE" ou  "retinex" ou "UDCP".
 
-## Exemples d'une image traitée avec les deux méthodes
+## III/ Exemples d'une image traitée avec les deux méthodes
 <center>
-Image originale: <img src="./Exemples/image_originale.png"  height = "400" alt="Image originale" />
-Image traitée avec HE et le débrumage : <img src="./Exemples/image_HE.png"  height = "400"/>
-Image traitée avec le rétinex : <img src="./Exemples/image_retinex.jpg"   height = "400" alt="Image traitée avec le rétinex" />
+Image originale: <img src="./pictures/Image_processing/IP3-1.png"  height = "400" alt="Image originale" />
+Image traitée avec HE et le débrumage : <img src="./pictures/Image_processing/IP3-2.png"  height = "400"/>
+Image traitée avec le rétinex : <img src="./pictures/Image_processing/IP3-3.jpg"   height = "400" alt="Image traitée avec le rétinex" />
 </center>
 
 
-## Algorithmes/articles utilisés :
+## Sources : Algorithmes/articles utilisés :
 - Single Image Haze Removal Using Dark Channel Prior, Kaiming He, Jian Sun, and Xiaoou Tang", in CVPR 2009 
 - Guided Image Filtering, Kaiming He, Jian Sun, and Xiaoou Tang", in ECCV 2010.
 - Properties and Performance of a Center/Surround Retinex, Daniel J. Jobson, Zia-ur Rahman, 1997 
