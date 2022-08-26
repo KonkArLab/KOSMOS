@@ -1,4 +1,4 @@
-# Edit this documentation!
+# Editer cette documentation
 
 ## I/ Introduction
 Cette documentation est mise en page par ReadTheDocs.org et lisible à l'adresse : https://kosmos30.readthedocs.io. En aucun cas, cette adresse permet d'éditer la documentation. 
@@ -8,6 +8,10 @@ Afin de pouvoir contribuer à cette documentation, vous pouvez contribuer direct
    - A la racine les fichiers marckdown qui sont les textes de la documentation. Pour chaque onglet sur read the doc nous ajouterons un fichier séparé avec un titre en Anglais sans espaces terminé par "_fr" pour la version française ou "_en" pour le version anglaise. L'extention sera toujours ".md".
    - Le dossier "Pictures" : Qui contient plusieurs dossiers dont chacun porte un nom en rapport ave le fichier marckdown auquel il se rapporte. Ainsi pour un fichier de doccumentation "test1_fr.md" on prendra le soin d'entreposer les images dans un dossier "/docs/pictures/test1.md".
  - **Hardware :** Qui est le dossier qui contient les fichiers d'impressions 3D, de découpe laser et ainsi de suite...  
+
+Avant de faire une proposition de contribution, il est bienvenue d'éditer le repository depuis votre compte en effectuant un forke de la présente documentation. Une fois que vous aurez une version prête à être publié il suffira de faire une pull request au main projet soit celui du konkarlab/KOSMOS.
+C'est un administrateur KOSMOS qui étudiera votre proposition pour en intégrer tou ou partie sur le projet. 
+
 
 ## II/ Edition
 
