@@ -15,6 +15,9 @@ nav:
         - 1. Check-list: check-list_fr.md
         - 2. Guide de déploiement: deployment.md
         - 3. Retour à terre: landing.md
+    
+    - IV/ Contribuer : 
+        - 1. Editer cette documentation: edit-this-doc_fr.md
         
     - A propos :
         - Licence : license.md
