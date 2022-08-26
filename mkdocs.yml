@@ -15,7 +15,7 @@ nav:
         - 3. Retour à terre: landing.md
     
     - III/ Collecte et gestion des données :
-        -1. Correction des images: image-processing_fr.md
+        - 1. Correction des images: image-processing_fr.md
     
     - IV/ Contribuer : 
         - 1. Editer cette documentation: edit-this-doc_fr.md
