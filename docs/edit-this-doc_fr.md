@@ -7,8 +7,8 @@ Afin de pouvoir contribuer à cette documentation, vous pouvez contribuer direct
 
  - **docs :** Est le dossier qui contient les documents qui pourront être affichés sur le read the doc. Dans ce dossier sont entreposés :
 
-  - A la racine les fichiers marckdown qui sont les textes de la documentation. Pour chaque onglet sur read the doc nous ajouterons un fichier séparé avec un titre en Anglais sans espaces terminé par "_fr" pour la version française ou "_en" pour le version anglaise. L'extention sera toujours ".md".
-  - Le dossier "Pictures" : Qui contient plusieurs dossiers dont chacun porte un nom en rapport ave le fichier marckdown auquel il se rapporte. Ainsi pour un fichier de doccumentation "test1_fr.md" on prendra le soin d'entreposer les images dans un dossier "/docs/pictures/test1.md".
+   - A la racine les fichiers marckdown qui sont les textes de la documentation. Pour chaque onglet sur read the doc nous ajouterons un fichier séparé avec un titre en Anglais sans espaces terminé par "_fr" pour la version française ou "_en" pour le version anglaise. L'extention sera toujours ".md".
+   - Le dossier "Pictures" : Qui contient plusieurs dossiers dont chacun porte un nom en rapport ave le fichier marckdown auquel il se rapporte. Ainsi pour un fichier de doccumentation "test1_fr.md" on prendra le soin d'entreposer les images dans un dossier "/docs/pictures/test1.md".
 
  - **Hardware :** Qui est le dossier qui contient les fichiers d'impressions 3D, de découpe laser et ainsi de suite...  
 
@@ -30,9 +30,9 @@ Le Marckdown est un language de mise en forme de texte très simplifié. On peut
 Les images que l'on souhaite faire apparaitre dans la documentation ne doivent pas être collés dans le document. 
 
  - Créer un nouveau dossier du même nom que la documentation dans "/docs/pictures/" en créant un fichier vide que l'on suprimera par la suite.
-  - Dans le dossier "pictures", cliquer sur "add file" et dans l'espace pour nommer le fichier entrer "nom_du_dossier/nom_fichier.md"
-  - Ajouter les images désirés que l'on aura préalablement réduit en taille chacune en dessous de 200Ko et renommés de manière à etre facilement identifiable. 
-  - On pourra par la suite supprimer le fichier md vide qui nous aura servi à crer le dossier.  
+   - Dans le dossier "pictures", cliquer sur "add file" et dans l'espace pour nommer le fichier entrer "nom_du_dossier/nom_fichier.md"
+   - Ajouter les images désirés que l'on aura préalablement réduit en taille chacune en dessous de 200Ko et renommés de manière à etre facilement identifiable. 
+   - On pourra par la suite supprimer le fichier md vide qui nous aura servi à crer le dossier.  
  - Dans le fichier de documentation corespondant à la ligne où l'on souhaite faire apparaitre l'image, ajouter la ligne suivante : 
  ```![Legende_Image](pictures/nom_du_dossier/nom_image.JPG)``` 
 
