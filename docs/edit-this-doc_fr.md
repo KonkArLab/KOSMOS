@@ -26,6 +26,7 @@ Le Marckdown est un language de mise en forme de texte très simplifié. On peut
 
 #### 2.1 Ajout
 Les images que l'on souhaite faire apparaitre dans la documentation ne doivent pas être collés dans le document. 
+
  - Créer un nouveau dossier du même nom que la documentation dans "/docs/pictures/" en créant un fichier vide que l'on suprimera par la suite.
    - Dans le dossier "pictures", cliquer sur "add file" et dans l'espace pour nommer le fichier entrer "nom_du_dossier/nom_fichier.md"
    - Ajouter les images désirés que l'on aura préalablement réduit en taille chacune en dessous de 200Ko et renommés de manière à etre facilement identifiable. 
