@@ -172,6 +172,7 @@ Les étapes suivantes nécéssitent des compétences en soudure électronique. V
  - Visser au moyen de 4 vis M3* 6mm, le PCB sur le dessus du KOSMOS à l'opposé de l'emplacement de la batterie. Connecter la nappe de 40 broches sur le connecteur dupont de 40 broches et l'autre extrémité sur les GPIO de la Raspberry. Attention à placer les deux extrémités de la nappe dans le même sens. Les deux connecteurs sont parallèles. 
 ![AG1-22](pictures/assembly_guide/AG1-22.JPG)
 
+
  - Souder à la borne positive d'un connecteur XT60, un câble rouge (14AWG) d'une longueur de 220 mm. 
 
 ![AG1-23](pictures/assembly_guide/AG1-23.JPG)
@@ -186,19 +187,23 @@ Les étapes suivantes nécéssitent des compétences en soudure électronique. V
 
 ![AG1-25](pictures/assembly_guide/AG1-25.JPG)
 
+
  - Étamer l'autre extrémité du fil de 200mm précédemment soudé et la visser sur le domino centrale (COM) du relai. Ajouter un fil de 100 mm sur ce même connecteur. 
  - Etamer le fil rouge de l'ESC et le brancher à la borne NO du relai.
  
 ![AG1-26](pictures/assembly_guide/AG1-26.JPG) 
+
 
  - Raccorder ensemble les fils noirs de l'ESC et du convertisseur (12v) ainsi que un fil de 20mm. Raccorder ses trois fils au pôle négatif du connecteur XT60 femelle qui se raccorde à la batterie. 
 
 ![AG1-27](pictures/assembly_guide/AG1-27.JPG) 
  
  
+ 
  - Sertir sur une prise JST le fil venant de la masse de la batterie et le fil positif venant du relai (borne COM). Positionner la masse de manière à ce qu'elle soit du coté de l'indicateur de batterie (ici fil vert). 
 
 ![AG1-28](pictures/assembly_guide/AG1-28.JPG) 
+
 
  - Rallonger les fils de sortie 5v du convertisseur pour sertir une prise Dupont femelle. On utilisera un connecteur dupont 3 broches avec la masse au centre et le fil du positif à droite ou à gauche cela n'a pas d'importance. De cette manière il ne sera pas possible de brancher l'alimentation 5 v à l'envers. 
 
@@ -209,10 +214,12 @@ Les étapes suivantes nécéssitent des compétences en soudure électronique. V
 ![AG1-31](pictures/assembly_guide/AG1-31.JPG) 
 
 
- - Fabriquer un câble (rallonge du capteur de pression) de 180mm de long constitué de 4 fils (vert, blanc, rouge et noir). Sertir un connecteur JST 5 broches à une extrémité. Souder les fils sur un JST femelle à l'opposé. Attention à bien veiller à respecter, l'ordre, le sens du connecteur et les emplacement vides. 
 
+ - Fabriquer un câble (rallonge du capteur de pression) de 180mm de long constitué de 4 fils (vert, blanc, rouge et noir). Sertir un connecteur JST 5 broches à une extrémité. Souder les fils sur un JST femelle à l'opposé. Attention à bien veiller à respecter, l'ordre, le sens du connecteur et les emplacement vides. 
+                                                          
 ![AG1-32](pictures/assembly_guide/AG1-32.JPG) 
 ![AG1-33](pictures/assembly_guide/AG1-33.JPG) 
+
 
  - Fabriquer un câble (rallonge du capteur magnétique) de 180mm de long constitué de 3 fils (Jaune, rouge et bleu). Sertir un connecteur JST 4 broches à une extrémité. Souder les fils sur un JST femelle à l'opposé. Attention à bien veiller à respecter, l'ordre, le sens du connecteur et les emplacement vides. 
 
@@ -220,11 +227,13 @@ Les étapes suivantes nécéssitent des compétences en soudure électronique. V
 ![AG1-35](pictures/assembly_guide/AG1-35.JPG) 
 
 
+
  - Brancher la rallonge du capteur de pression sur le connecteur prévu à cet effet. 
  - Brancher la rallonge du capteur magnétique à son emplacement. 
  - Passer ces deux câbles le long de la raspberry de manière à ce que les prises soient présentés à proximité des connecteur USB de la raspberry. 
 
 ![AG1-36](pictures/assembly_guide/AG1-36.JPG) 
+
 
 
  - Souder 3 connecteurs bananes au bout des trois fils de sortie de l'ESC
