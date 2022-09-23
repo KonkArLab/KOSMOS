@@ -248,13 +248,6 @@ Les étapes suivantes nécéssitent des compétences en soudure électronique. V
 
 
 
-
-
-
-
-
-
-
 ## 2/ Assemblage du caisson
 
 Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de plongée\) certaines pièces pour à la fois assurer l'étanchéité et faciliter le démontage du tube étanche. Attention, il ne faut graisser que les pièces qui coulissent \(ex : Flange, bouchons, interrupteurs rotatifs\). Le graissage se fait au doigt et consiste à simplement huiler les surfaces qui doivent coulisser ou tourner tout en restant étanche.
@@ -429,11 +422,37 @@ Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sen
 
 ![AG2-23](pictures/assembly_guide/AG2-23.JPG)
 
-​
 
-​
 
-### 2.7 Assemblage final du tube
+### 2.7 connectiques
+
+ - Souder un connecteur XT60 femelle sur le bout des deux fils provenant du bouton d'alumage étanche. 
+
+![AG2-26](pictures/assembly_guide/AG2-26.JPG) 
+
+
+ - Souder trois connecteurs bananes mâles sur les 3 fils provenant d'un des deux connecteurs cobalt 3 pins. 
+
+![AG2-27](pictures/assembly_guide/AG2-27.JPG)
+
+
+ - Sertir sur les trois fils du second connecteur cobalt un connecteur JST mâle. En veillant à bien respecter le positionnement des fils de manière à pouvoir le brancher sur la rallonge du capteur magnétique. 
+
+![AG2-28](pictures/assembly_guide/AG2-28.JPG)
+
+
+ - Sertir les 4 fils du capteur de pression sur un connecteur mâle JST 4 broches. 
+ 
+![AG2-29](pictures/assembly_guide/AG2-29.JPG)
+
+
+
+
+
+
+
+
+### 2.8 Assemblage final du tube
 
 ​
 
@@ -451,6 +470,9 @@ Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sen
 ​
 
 * Pour ouvrir le caisson dans les étapes suivantes, commencer par ouvrir le vent, puis tirer bien dans l'axe le bouchon des passes-coques. Il n'est pas nécéssaire de regresser à chaque fois. Cependant il faudra veiller à ne pas salir les parties graissées.
+
+
+
 
 
 
