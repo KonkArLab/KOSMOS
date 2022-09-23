@@ -138,7 +138,7 @@
 
 ​
 
-**1.5 Installation de la Batterie**
+### 1.5 Installation de la Batterie
 
 ​
 
@@ -161,12 +161,84 @@
 
 
 
+### 1.6 Câblages interne
+
+Les étapes suivantes nécéssitent des compétences en soudure électronique. Vous pouvez retrouver des conseils en annexes mais n'oubliez pas de bien recouvrir les soudures de gaines thermos-rétractable pour protéger des feux contacts. Il faut souvent veiller à insérer un morceau de gaine avant de souder. Le schèma suivant représente le circuit qui va être détaillé dans la partie 1.6. 
+
+//Ici le schéma de montage du circuit d'alim//
+![AG1-21](pictures/assembly_guide/AG1-21.JPG)
+
+
+ - Visser au moyen de 4 vis M3* 6mm, le PCB sur le dessus du KOSMOS à l'opposé de l'emplacement de la batterie. Connecter la nappe de 40 broches sur le connecteur dupont de 40 broches et l'autre extrémité sur les GPIO de la Raspberry. Attention à placer les deux extrémités de la nappe dans le même sens. Les deux connecteurs sont parallèles. 
+![AG1-22](pictures/assembly_guide/AG1-22.JPG)
+
+
+ - Souder à la borne positive d'un connecteur XT60, un câble rouge (14AWG) d'une longueur de 220 mm. 
+
+![AG1-23](pictures/assembly_guide/AG1-23.JPG)
+
+
+ - Souder à l'autre extrémité du câble un connecteur XT60 mâle qui servira à connecter le bouton de mise en tension. 
+
+![AG1-24](pictures/assembly_guide/AG1-24.JPG)
+
+
+ - Souder à la borne négative du connecteur XT60 mâle deux câbles un fil de 200mm, Ainsi que le fil positif 12v du convertisseur (Chuangruifa). 
+
+![AG1-25](pictures/assembly_guide/AG1-25.JPG)
+
+
+ - Étamer l'autre extrémité du fil de 200mm précédemment soudé et la visser sur le domino centrale (COM) du relai. Ajouter un fil de 100 mm sur ce même connecteur. 
+ - Etamer le fil rouge de l'ESC et le brancher à la borne NO du relai.
+ 
+![AG1-26](pictures/assembly_guide/AG1-26.JPG) 
+
+
+ - Raccorder ensemble les fils noirs de l'ESC et du convertisseur (12v) ainsi que un fil de 20mm. Raccorder ses trois fils au pôle négatif du connecteur XT60 femelle qui se raccorde à la batterie. 
+
+![AG1-27](pictures/assembly_guide/AG1-27.JPG) 
+ 
+ 
+ 
+ - Sertir sur une prise JST le fil venant de la masse de la batterie et le fil positif venant du relai (borne COM). Positionner la masse de manière à ce qu'elle soit du coté de l'indicateur de batterie (ici fil vert). 
+
+![AG1-28](pictures/assembly_guide/AG1-28.JPG) 
+
+
+ - Rallonger les fils de sortie 5v du convertisseur pour sertir une prise Dupont femelle. On utilisera un connecteur dupont 3 broches avec la masse au centre et le fil du positif à droite ou à gauche cela n'a pas d'importance. De cette manière il ne sera pas possible de brancher l'alimentation 5 v à l'envers. 
+
+
+ - Couper le connecteur dupont de la prise de BEC de l'ESC (3 fils, jaune, rouge et marron ou noir). Y sertir un connecteur JST à deux broches. En excluant le fil rouge. Attention au sens. Le fil jaune destiné au signal doit être placé du coté de l'afficheur de niveau de batterie. 
+
+![AG1-30](pictures/assembly_guide/AG1-30.JPG) 
+![AG1-31](pictures/assembly_guide/AG1-31.JPG) 
 
 
 
+ - Fabriquer un câble (rallonge du capteur de pression) de 180mm de long constitué de 4 fils (vert, blanc, rouge et noir). Sertir un connecteur JST 5 broches à une extrémité. Souder les fils sur un JST femelle à l'opposé. Attention à bien veiller à respecter, l'ordre, le sens du connecteur et les emplacement vides. 
+                                                          
+![AG1-32](pictures/assembly_guide/AG1-32.JPG) 
+![AG1-33](pictures/assembly_guide/AG1-33.JPG) 
+
+
+ - Fabriquer un câble (rallonge du capteur magnétique) de 180mm de long constitué de 3 fils (Jaune, rouge et bleu). Sertir un connecteur JST 4 broches à une extrémité. Souder les fils sur un JST femelle à l'opposé. Attention à bien veiller à respecter, l'ordre, le sens du connecteur et les emplacement vides. 
+
+![AG1-34](pictures/assembly_guide/AG1-34.JPG) 
+![AG1-35](pictures/assembly_guide/AG1-35.JPG) 
 
 
 
+ - Brancher la rallonge du capteur de pression sur le connecteur prévu à cet effet. 
+ - Brancher la rallonge du capteur magnétique à son emplacement. 
+ - Passer ces deux câbles le long de la raspberry de manière à ce que les prises soient présentés à proximité des connecteur USB de la raspberry. 
+
+![AG1-36](pictures/assembly_guide/AG1-36.JPG) 
+
+
+
+ - Souder 3 connecteurs bananes au bout des trois fils de sortie de l'ESC
+
+![AG1-37](pictures/assembly_guide/AG1-37.JPG) 
 
 
 
@@ -184,11 +256,11 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 ### 2.1 Assemblage du bouton rotatif :
 
-* Le bouton rotatif est livré démonté par Blue robotics. Rassembler le passe-coque, le bouton, les trois joints thoriques, le poussoir, les deux fils et l'écrou.
+* Le bouton rotatif est livré démonté par Blue robotics. Rassembler le passe-coque, le bouton, les trois joints thoriques, le poussoir, les deux fils et l'écrou rouge.
 
 ![AG2-1](pictures/assembly_guide/AG2-1.JPG)
 
-* Placer le plus grand des trois joint thorique dans la gorge du passe-coque.
+* Placer le plus grand des trois joints thoriques dans la gorge du passe-coque.
 
 ![AG2-2](pictures/assembly_guide/AG2-2.JPG)
 
@@ -200,7 +272,7 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 ​
 
-* Visser le bouton noir dans le passe-coque. Le vissage doit être facile. Si ce n'est pas le cas, il sera peut-être nécéssaire de graisser d'avantage.
+* Visser le bouton noir dans le passe-coque. Le vissage doit être facile. Si ce n'est pas le cas, il sera peut-être nécessaire de graisser d'avantage.
 
 
 ![AG2-4](pictures/assembly_guide/AG2-4.JPG)
@@ -211,7 +283,7 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 ​
 
-* A l'extrémité opposé au bouton noir, visser le bouton poussoir. Dévisser légèrement le bouton noir de manière à ce que le poussoir soit ouvert \(surveiller à l'aide d'un multimètre sur le mode continuité\).
+* A l'extrémité opposé au bouton noir, visser le bouton poussoir. Préalablement on aura ôté l'écrou se situant sur le poussoir. Ce dernier n'a pas de fonction sur le KOSMOS. Dévisser légèrement le bouton noir de manière à ce que le poussoir soit ouvert \(surveiller à l'aide d'un multimètre sur le mode continuité\).
 * Pour finir connecter les fils sur les broches du bouton poussoir.
 
 ![AG2-6](pictures/assembly_guide/AG2-6.JPG)
@@ -275,13 +347,13 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 ​
 
-* Visser les des connecteurs cobalt sur deux trous voisins. Attention à veiller à positionner le joint du côté externe.
+* Visser les connecteurs cobalt sur deux trous voisins. Attention à veiller à positionner le joint du côté externe.
 
 ![AG2-14](pictures/assembly_guide/AG2-14.JPG)
 
 ​
 
-* Visser et serrer les 3 autres passe-coques. Serrer fort les 5 passes-coques.
+* Visser et serrer les 3 autres passe-coques. Serrer fort les 5 passes-coques. Pour le bouton rotatif, il sera nécessaire de dévisser le bouton poussoir pour l'inssérer dans end cap. 
 
 ![AG2-15](pictures/assembly_guide/AG2-15.JPG)
 
@@ -346,15 +418,41 @@ Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sen
 
 ​
 
-* Visser le détrompeur sur l'arrière du bouchon hublot.
+* Visser le détrompeur sur l'arrière du bouchon hublot.Il n'y a pas de sens à respecter sur cette étape.
 
 ![AG2-23](pictures/assembly_guide/AG2-23.JPG)
 
-​
 
-​
 
-### 2.7 Assemblage final du tube
+### 2.7 connectiques
+
+ - Souder un connecteur XT60 femelle sur le bout des deux fils provenant du bouton d'alumage étanche. 
+
+![AG2-26](pictures/assembly_guide/AG2-26.JPG) 
+
+
+ - Souder trois connecteurs bananes mâles sur les 3 fils provenant d'un des deux connecteurs cobalt 3 pins. 
+
+![AG2-27](pictures/assembly_guide/AG2-27.JPG)
+
+
+ - Sertir sur les trois fils du second connecteur cobalt un connecteur JST mâle. En veillant à bien respecter le positionnement des fils de manière à pouvoir le brancher sur la rallonge du capteur magnétique. 
+
+![AG2-28](pictures/assembly_guide/AG2-28.JPG)
+
+
+ - Sertir les 4 fils du capteur de pression sur un connecteur mâle JST 4 broches. 
+ 
+![AG2-29](pictures/assembly_guide/AG2-29.JPG)
+
+
+
+
+
+
+
+
+### 2.8 Assemblage final du tube
 
 ​
 
@@ -372,6 +470,9 @@ Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sen
 ​
 
 * Pour ouvrir le caisson dans les étapes suivantes, commencer par ouvrir le vent, puis tirer bien dans l'axe le bouchon des passes-coques. Il n'est pas nécéssaire de regresser à chaque fois. Cependant il faudra veiller à ne pas salir les parties graissées.
+
+
+
 
 
 
@@ -713,4 +814,3 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 * Installer Les plaques C1 sur les deux côtés longs du réducteur. Comme à l'étape précédente, veiller à ce que les écrous viennent bloquer la plaque. Attention à serrer à tâtons pour éviter de fendre le PMMA.
 
 ![AG1-40](pictures/assembly_guide/AG3-40.JPG)
-
