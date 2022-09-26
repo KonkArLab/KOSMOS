@@ -1,0 +1,8 @@
+picamera==1.13
+piglow==1.2.5      
+pigpio==1.78
+RPi.GPIO==0.7.0
+pigpio==1.78
+enum34==1.1.6
+smbus2==0.4.2
+
