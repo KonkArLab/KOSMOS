@@ -37,7 +37,8 @@ country=FR
 network={
     ssid="ESSID"
     psk="Your_wifi_password"
-}```
+}
+```
 
 
 ### 1.4 Assignation d'une IP fixe
@@ -51,14 +52,16 @@ Une adresse IP est un code de quatre nombres qui permet à un routeur de retrouv
  
  - Noter le retour de la commande qui doit être semblable à :
   ```default via 192.168.0.1 dev wlan0 src 192.168.0.101 metric 303 
-192.168.0.0/24 dev wlan0 proto dhcp scope link src 192.168.0.101 metric 303```
+192.168.0.0/24 dev wlan0 proto dhcp scope link src 192.168.0.101 metric 303
+```
 
  - Ouvrir le fichier ""dhcpcd.conf" en utilisant la commande nano :```sudo nano /etc/dhcpcd.conf```
 
  - Remplacer le contenu par les lignes suivantes (wlan0 si wifi et eth0 si ethernet), changer les adresse IP et le /XX par les adresses renvoyés pas la commande précédente.
   ```interface wlan0
 static ip_address=192.168.0.101/24
-static routers=192.168.0.1```
+static routers=192.168.0.1
+```
 
  - Quitter en enregistrant (ctrl+X puis Y et enter)
  - Redémarrez la raspberry : ```reboot```
