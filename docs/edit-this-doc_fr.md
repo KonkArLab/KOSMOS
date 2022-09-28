@@ -31,7 +31,7 @@ Les images que l'on souhaite faire apparaitre dans la documentation ne doivent p
 
  - Créer un nouveau dossier du même nom que la documentation dans "/docs/pictures/" en créant un fichier vide que l'on suprimera par la suite.
    - Dans le dossier "pictures", cliquer sur "add file" et dans l'espace pour nommer le fichier entrer "nom_du_dossier/nom_fichier.md"
-   - Ajouter les images désirées que l'on aura préalablement réduites en taille chacune en dessous de 200Ko et renommées de manière à être facilement identifiable. 
+   - Ajouter les images désirées que l'on aura préalablement réduites en taille chacune en dessous de 200Ko et renommées de manière à être facilement identifiables. 
    - On pourra par la suite supprimer le fichier md vide qui nous aura servi à créer le dossier.
  - Dans le fichier de documentation corespondant à la ligne où l'on souhaite faire apparaître l'image, ajouter la ligne suivante : 
  ```![Legende_Image](pictures/nom_du_dossier/nom_image.JPG)``` 
