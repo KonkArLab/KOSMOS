@@ -34,9 +34,9 @@ Nous recommandons un taux de remplissage des pièces qui ne soit inférieur à 3
 
 |Visuel            |Référence|Quantité|Dénomination|Usage|
 |------------------------------------|--------|---------|-----------------|-------------------|
-|![POP1-2](pictures/productions_of_parts/POP1-2.PNG)|R1|2|Ber|Supporte le tube étanche. Il permet avec R1.2 de soutenir le tube|
-|Vérifier que la clé USB est vide    |        |         |                 |                   |
-|Batterie de rechange                |1       |         |                 |                   |
+|![POP1-2-R1](pictures/productions_of_parts/POP1-2-R1.png)|R1|2|Ber|Supporte le tube étanche. Il permet avec R1.2 de soutenir le tube|
+|![POP1-2-R1-2](pictures/productions_of_parts/POP1-2-R1-2.png)|R1.2|2|Fermeture du Ber|Levier pouvant se refermer sur R1 pour bloquer le tube étanche au moyens de vis.|
+|![POP1-2-R2](pictures/productions_of_parts/POP1-2-R2.png)|R2||1|Receptacle du capteur de positionnement|
 |Flotteur à casier                   |1       |         |                 |                   |
 |Bout 5m                             |1       |         |                 |                   |
 
