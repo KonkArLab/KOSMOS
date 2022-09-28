@@ -32,7 +32,14 @@ Nous recommandons un taux de remplissage des pièces qui ne soit inférieur à 3
 * [2x R1 ](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R1_KOSMOS_V3-0.stl)
 * [et 2x R1.2 , permet de maintenir le caisson solidaire au réducteur](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R1.2_KOSMOS_V3-0.stl)
 
-![POP1-2](pictures/productions_of_parts/POP1-2.PNG)
+|Visuel            |Référence|Quantité|Dénomination|Usage|
+|------------------------------------|--------|---------|-----------------|-------------------|
+|![POP1-2](pictures/productions_of_parts/POP1-2.PNG)|R1|2|Ber|Supporte le tube étanche. Il permet avec R1.2 de soutenir le tube|
+|Vérifier que la clé USB est vide    |        |         |                 |                   |
+|Batterie de rechange                |1       |         |                 |                   |
+|Flotteur à casier                   |1       |         |                 |                   |
+|Bout 5m                             |1       |         |                 |                   |
+
 
 ​
 
