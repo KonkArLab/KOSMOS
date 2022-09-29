@@ -22,28 +22,22 @@ Imprimer toutes les pièces nécessaires. [Les fichiers STL sont disponibles ici
 
 Toutes ces pièces doivent êtres impérativement imprimés en PET. En effet, cette matière est la plus résistante à l'eau de mer parmi les matériaux disponibles en impression 3D FDM. Si vous disposez d'autres technologies, ne pas hésiter à essayer et nous faire part du résultat. Cependant, nous savons que la résine par SLA ne convient pas pour une raison de dureté. Il peut-être intéressant également de travailler à un réducteur sans impression 3D à la fraiseuse uniquement pour rendre la plongée possible à de plus grandes profondeurs.
 
-Nous recommandons un taux de remplissage des pièces qui ne soit inférieur à 30%. Toutes nos pièces ont un taux de remplissage à 100%.
+Nous recommandons un taux de remplissage des pièces qui ne soit inférieur à 30%. Toutes nos pièces destinés à l'extérieur du caisson ont un taux de remplissage à 100%.
 
-* [1x R3 qui permet de transmettre l'effort de la croix de malte à la tige fileté.](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R3_KOSMOS_V3-0.stl)
-* [1x R5, permets de guider l'arbre secondaire et de ne pas serrer les flasques avec les engrenages de cet arbre.](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R5_KOSMOS_V3-0.stl)
-* [1x R6, une entretoise sur l'arbre primaire](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R6_KOSMOS_V3-0.stl)
-* [1x R4, l'entretoise pour le support moteur](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R4_KOSMOS_V3-0.stl)
-* [1x R2, permets de placer le capteur magnétique](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R2_KOSMOS_V3-0.stl)
-* [2x R1 ](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R1_KOSMOS_V3-0.stl)
-* [et 2x R1.2 , permet de maintenir le caisson solidaire au réducteur](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R1.2_KOSMOS_V3-0.stl)
+|    Visuel    |Référence|Quantité|Dénomination|Usage|Conseils d'impression|
+|------------------------------------|------|------|-----------------|---------------------|---------------------|
+|![POP1-2-R1](pictures/productions_of_parts/POP1-2-R1.png)|[R1](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R1_KOSMOS_V3-0.stl)|2|Ber|Supporte le tube étanche. Il permet avec R1.2 de soutenir le tube|Positionner un générateur de support pour supporter la partie en port à faux|
+|![POP1-2-R1-2](pictures/productions_of_parts/POP1-2-R1-2.png)|[R1.2](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R1-2_KOSMOS_V3-0.stl)|2|Fermeture du Ber|Levier pouvant se refermer sur R1 pour bloquer le tube étanche au moyens de vis.|Positionner un générateur de support pour supporter la partie en port à faux|
+|![POP1-2-R2](pictures/productions_of_parts/POP1-2-R2.png)|[R2](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R2_KOSMOS_V3-0.stl)|1|Support du capteur de positionnement|Receptacle du capteur de positionnement|/|
+|![POP1-2-R3](pictures/productions_of_parts/POP1-2-R3.png)|[R3](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R3_KOSMOS_V3-0.stl)|3|Embout de croix de Malte|Cette pièce reprend l'effort de la croix de Malte pour la retransmettre à l'arbre qui lui est solidaire au trèpied et donc au sol|Utiliser du support pour maintenir la périphérie en port à faux ainsi que les alésages.|
+|![POP1-2-R4](pictures/productions_of_parts/POP1-2-R4.png)|[R4](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R4_KOSMOS_V3-0.stl)|1|Entretois du moteur|Le moteur sera positionné dans ce tube. La hauteur de se dernier peut-être à modifier pour aligner parfaitement l'alignement du pignon moteur et du premier pignon méné.|/|
+|![POP1-2-R5](pictures/productions_of_parts/POP1-2-R5.png)|[R5](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R5_KOSMOS_V3-0.stl)|1|Bague d'arbre secondaire|R5 permet l'assemblage de l'arbre secondaire (contenant la croix de Malte) avec la boite du réducteur. Elle reprend le serrage de la croix de Malte sans contraindre les reste des pignons|/|
+|![POP1-2-R6](pictures/productions_of_parts/POP1-2-R6.png)|[R6](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R6_KOSMOS_V3-0.stl)|1|Entretoise d'abre primaire|Cette rondelle permet de contraindre les pignons de l'arbre primaire en translation. Sa hauteur doit être ajusté pour ne pas en empécher la rotation libre.|/|
+|![POP1-2-R7](pictures/productions_of_parts/POP1-2-R7.png)|[R7](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R7_KOSMOS_V3-0.stl)|1|Racord de connectiques étanches du moteur|R7 est l'emplacement où l'on va connecter les câbles du moteur au câble noir cobalt. L'étanchéité sera effectué en coulant de la résine dans le contenant.|/|
+|![POP1-2-R7-2](pictures/productions_of_parts/POP1-2-R7-2.png)|[R7.2](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R7-2_KOSMOS_V3-0.stl)|1|Couvercle pour le racord de connectiques étanches du moteur|Permet de fermer R7|/|
+|![POP1-2-R8](pictures/productions_of_parts/POP1-2-R8.png)|[R8](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R8_KOSMOS_V3-0.stl)|1|Racord de connectiques étanches du capteur de positionnement|R8 est l'emplacement où l'on va connecter les câbles du capteur ILS au câble noir cobalt. L'étanchéité sera effectué en coulant de la résine dans le contenant.|/|
+|![POP1-2-R8-2](pictures/productions_of_parts/POP1-2-R8-2.png)|[R8.2](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R8-2_KOSMOS_V3-0.stl)|1|Couvercle pour le racord de connectiques étanches du capteur de positionnement|Permet de fermer R8|/|
 
-|Visuel            |Référence|Quantité|Dénomination|Usage|
-|------------------------------------|--------|---------|-----------------|-------------------|
-|![POP1-2-R1](pictures/productions_of_parts/POP1-2-R1.png)|R1|2|Ber|Supporte le tube étanche. Il permet avec R1.2 de soutenir le tube|
-|![POP1-2-R1-2](pictures/productions_of_parts/POP1-2-R1-2.png)|R1.2|2|Fermeture du Ber|Levier pouvant se refermer sur R1 pour bloquer le tube étanche au moyens de vis.|
-|![POP1-2-R2](pictures/productions_of_parts/POP1-2-R2.png)|R2||1|Receptacle du capteur de positionnement|
-|Flotteur à casier                   |1       |         |                 |                   |
-|Bout 5m                             |1       |         |                 |                   |
-
-
-​
-
-​
 
 _Note  : Toutes les pièces devront être netoyées de leurs supports et au cours du montage, elles nécéssiteront peut-être d'être limées \(papier de verre ou lime à main\) afin de supprimer toutes traces de fils d'anges._
 
