@@ -5,12 +5,7 @@ Imprimer toutes les pièces nécessaires. [Les fichiers STL sont disponibles ici
 ​
 
 **1.1 Pour l'intérieur du caisson :**
-
-* [1 x I1 qui va supporter la carte Rapsberry](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I1_KOSMOS_V3-0.stl)
-* [1x I2, qui va faire le lien entre la structure Raspberry et la plaque sur laquelle va se positionner les batteries.](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I2_KOSMOS_V3-0.stl)
-* [1x I3,qui va supporter la PiCam](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I3_KOSMOS_V3-0.stl)
-* [1x I4, qui va se visser à une flange du tube pour empécher les structures internes du KOSMOS de pouvoir tourner dans le tube.](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I4_KOSMOS_V3-0.stl)
-
+Il n'y a pas d'obligation quand au matériau d'impression de ces pièces. Si ce n'est que nous n'avons testés que le PET. Le PLA parait à ecarter tant parfois il arrive au KOSMOS d'être stoké au soleil. La température si elle atteint 60° pourrait déformer des pièces en PLA. Le remplissage pourra être alvéolé de manière à économiser de la matière. Nous utilisons régulièrement un remplissage à 20% et une résolution de 0,2mm.
 ![POP1-1](pictures/productions_of_parts/POP1-1.PNG)
 
 |    Visuel    |Référence|Quantité|Dénomination|Usage|Conseils d'impression|
