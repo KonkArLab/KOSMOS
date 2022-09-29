@@ -1,13 +1,12 @@
 ## 1/ Impression des pièces en 3D
 
-Imprimer toutes les pièces nécessaires. [Les fichiers STL sont disponibles ici](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/) .
+Imprimer toutes les pièces nécessaires en veillant à respecter les recommandations de remplissage des pièces extérieurs (cf. chapitre 1.2). [Les fichiers STL sont disponibles ici](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/) .
 
-​
+![POP1-0.png](pictures/productions_of_parts/POP1-0.png)
 
 **1.1 Pour l'intérieur du caisson :**
 
 Il n'y a pas d'obligation quand au matériau d'impression de ces pièces. Si ce n'est que nous n'avons testés que le PET. Le PLA parait à ecarter tant parfois il arrive au KOSMOS d'être stoké au soleil. La température si elle atteint 60° pourrait déformer des pièces en PLA. Le remplissage pourra être alvéolé de manière à économiser de la matière. Nous utilisons régulièrement un remplissage à 20% et une résolution de 0,2mm.
-![POP1-1](pictures/productions_of_parts/POP1-1.PNG)
 
 |    Visuel    |Référence|Quantité|Dénomination|Usage|Conseils d'impression|
 |------------------------------------|------|------|-----------------|---------------------|---------------------|
