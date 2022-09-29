@@ -5,6 +5,7 @@ Imprimer toutes les pièces nécessaires. [Les fichiers STL sont disponibles ici
 ​
 
 **1.1 Pour l'intérieur du caisson :**
+
 Il n'y a pas d'obligation quand au matériau d'impression de ces pièces. Si ce n'est que nous n'avons testés que le PET. Le PLA parait à ecarter tant parfois il arrive au KOSMOS d'être stoké au soleil. La température si elle atteint 60° pourrait déformer des pièces en PLA. Le remplissage pourra être alvéolé de manière à économiser de la matière. Nous utilisons régulièrement un remplissage à 20% et une résolution de 0,2mm.
 ![POP1-1](pictures/productions_of_parts/POP1-1.PNG)
 
