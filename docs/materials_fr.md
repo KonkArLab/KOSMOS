@@ -7,7 +7,6 @@
 *Le matériel est listé dans l'ordre d'apparition*
 
 * [1 Pi camera HQ (avec nappe et bague C-CS fourni) ; ](https://www.kubii.fr/cameras-capteurs/2950-camera-hq-officielle-633696492738.html?search_query=pi+camera+hq&results=11)
-* [1 Boite de visserie Inox M2,5](https://www.amazon.fr/gp/product/B07RBTGT7B/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1);
 * [1 Raspberry Pi 4 modèle B 2Go de ram minimum](https://www.kubii.fr/cartes-raspberry-pi/2771-nouveau-raspberry-pi-4-modele-b-2gb-0765756931175.html) ; 
 * [1 convertisseur de tension de voiture 12v vers 5v](https://www.amazon.fr/riorand-voiture-Alimentation-convertisseur-module/dp/B00G890MIC);
 * 1 jeu de rilsans 
