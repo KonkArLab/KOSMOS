@@ -11,9 +11,10 @@
 * [1 convertisseur de tension de voiture 12v vers 5v](https://www.amazon.fr/riorand-voiture-Alimentation-convertisseur-module/dp/B00G890MIC);
 * 1 jeu de rilsans 
 * [1 ESC 30A BLHeli Emax](https://www.intermodel.fr/controleurs-variateurs/4848-esc-30a-blheli-emax-emax-controleur-6a-30a-emax-20a-12a-blheli-25a.html);
-* [1 batterie Lipo 2200mAh 3s](https://www.absolu-modelisme.com/accu-lipo-3s-11-1v-2200mah-45c-xt60.html?___SID=U);
-* [1 Rallonge de câble de charge batterie 3s](https://www.absolu-modelisme.com/rallonge-lipo-30cm-22awg-jst-hx-3s.html?___SID=U);
-* [1 Moteur Brushless immergeable (F 2838 ou équivalent Blue Robotics) ; ](https://www.amazon.fr/Dilwe-Moteur-imperm%C3%A9able-Brushless-Outrunner/dp/B07PFJD1MQ);
+* [1 batterie Lipo 2200mAh 3s](https://www.intermodel.fr/accus-batteries/4366-accu-lipo-brainergy-2200mah-3s-30c-rc-plus-lipo-accu-mah-2200.html);
+* [1 Rallonge de câble de charge batterie 3s](https://www.intermodel.fr/cordons-et-prises-de-charge/549-rallonge-pour-prise-equilibrage-3s-intermodel-rallonge-3s-rallonge-prise-equilibrage-3s.html);
+* [1 Moteur Brushless immergeable (F 2838 ou équivalent Blue Robotics) ; ](https://www.amazon.fr/Outrunner-Bateaux-%C3%89tanche-Moteur-Brushless/dp/B07WSGM7MD/ref=sr_1_6?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2EVA1NOO2KTST&keywords=moteur+F2838&qid=1664528550&s=toys&sprefix=moteur+f2838%2Ctoys%2C227&sr=1-6);
+
 
 
 ​
