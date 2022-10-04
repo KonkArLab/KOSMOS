@@ -1,18 +1,19 @@
 ## 1/ Impression des pièces en 3D
 
-Imprimer toutes les pièces nécessaires. [Les fichiers STL sont disponibles ici](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/) .
+Imprimer toutes les pièces nécessaires en veillant à respecter les recommandations de remplissage des pièces extérieurs (cf. chapitre 1.2). [Les fichiers STL sont disponibles ici](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/) .
 
-​
+![POP1-0.png](pictures/productions_of_parts/POP1-0.png)
 
 **1.1 Pour l'intérieur du caisson :**
 
-* [1 x I1 qui va supporter la carte Rapsberry](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I1_KOSMOS_V3-0.stl)
-* [1x I2, qui va faire le lien entre la structure Raspberry et la plaque sur laquelle va se positionner les batteries.](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I2_KOSMOS_V3-0.stl)
-* [1x I3,qui va supporter la PiCam](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I3_KOSMOS_V3-0.stl)
-* [1x I4, qui va se visser à une flange du tube pour empécher les structures internes du KOSMOS de pouvoir tourner dans le tube.](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I4_KOSMOS_V3-0.stl)
+Il n'y a pas d'obligation quand au matériau d'impression de ces pièces. Si ce n'est que nous n'avons testés que le PET. Le PLA parait à ecarter tant parfois il arrive au KOSMOS d'être stoké au soleil. La température si elle atteint 60° pourrait déformer des pièces en PLA. Le remplissage pourra être alvéolé de manière à économiser de la matière. Nous utilisons régulièrement un remplissage à 20% et une résolution de 0,2mm.
 
-![POP1-1](pictures/productions_of_parts/POP1-1.PNG)
-​
+|    Visuel    |Référence|Quantité|Dénomination|Usage|Conseils d'impression|
+|------------------------------------|------|------|-----------------|---------------------|---------------------|
+|![POP1-1-I1](pictures/productions_of_parts/POP1-1-I1.png)|[I1](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I1_KOSMOS_V3-0.stl)|1|Section de la raspberry|Cette pièce est la section qui s'insérera dans le tube étanche, c'est le support de la carte raspberry et de divers autres composants.|Positionner des générateurs de supports pour supporter la partie en port à faux|
+|![POP1-1-I2](pictures/productions_of_parts/POP1-1-I2.png)|[I2](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I2_KOSMOS_V3-0.stl)|1|Section batterie|I2 est la section qui va faire le lien entre la structure Raspberry et la plaque sur laquelle va se positionner les batteries|/|
+|![POP1-1-I3](pictures/productions_of_parts/POP1-1-I3.png)|[I3](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I3_KOSMOS_V3-0.stl)|1|Section de support de la caméra|Cette section s'insère dans le tube et vien admettre la caméra qui pourr s'y visser|/|
+|![POP1-1-I4](pictures/productions_of_parts/POP1-1-I4.png)|[I4](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I4_KOSMOS_V3-0.stl)|1|Détrompeur|Fixé à la flange du hublot, il permettra de contraindre les structures internes en rotation et d'éviter que le KOSMOS ne puisse filmer de travers.|/|
 
 ​
 
@@ -29,7 +30,7 @@ Nous recommandons un taux de remplissage des pièces qui ne soit inférieur à 3
 |![POP1-2-R1](pictures/productions_of_parts/POP1-2-R1.png)|[R1](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R1_KOSMOS_V3-0.stl)|2|Ber|Supporte le tube étanche. Il permet avec R1.2 de soutenir le tube|Positionner un générateur de support pour supporter la partie en port à faux|
 |![POP1-2-R1-2](pictures/productions_of_parts/POP1-2-R1-2.png)|[R1.2](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R1-2_KOSMOS_V3-0.stl)|2|Fermeture du Ber|Levier pouvant se refermer sur R1 pour bloquer le tube étanche au moyens de vis.|Positionner un générateur de support pour supporter la partie en port à faux|
 |![POP1-2-R2](pictures/productions_of_parts/POP1-2-R2.png)|[R2](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R2_KOSMOS_V3-0.stl)|1|Support du capteur de positionnement|Receptacle du capteur de positionnement|/|
-|![POP1-2-R3](pictures/productions_of_parts/POP1-2-R3.png)|[R3](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R3_KOSMOS_V3-0.stl)|3|Embout de croix de Malte|Cette pièce reprend l'effort de la croix de Malte pour la retransmettre à l'arbre qui lui est solidaire au trèpied et donc au sol|Utiliser du support pour maintenir la périphérie en port à faux ainsi que les alésages.|
+|![POP1-2-R3](pictures/productions_of_parts/POP1-2-R3.png)|[R3](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R3_KOSMOS_V3-0.stl)|1|Embout de croix de Malte|Cette pièce reprend l'effort de la croix de Malte pour la retransmettre à l'arbre qui lui est solidaire au trèpied et donc au sol|Utiliser du support pour maintenir la périphérie en port à faux ainsi que les alésages.|
 |![POP1-2-R4](pictures/productions_of_parts/POP1-2-R4.png)|[R4](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R4_KOSMOS_V3-0.stl)|1|Entretois du moteur|Le moteur sera positionné dans ce tube. La hauteur de se dernier peut-être à modifier pour aligner parfaitement l'alignement du pignon moteur et du premier pignon méné.|/|
 |![POP1-2-R5](pictures/productions_of_parts/POP1-2-R5.png)|[R5](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R5_KOSMOS_V3-0.stl)|1|Bague d'arbre secondaire|R5 permet l'assemblage de l'arbre secondaire (contenant la croix de Malte) avec la boite du réducteur. Elle reprend le serrage de la croix de Malte sans contraindre les reste des pignons|/|
 |![POP1-2-R6](pictures/productions_of_parts/POP1-2-R6.png)|[R6](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R6_KOSMOS_V3-0.stl)|1|Entretoise d'abre primaire|Cette rondelle permet de contraindre les pignons de l'arbre primaire en translation. Sa hauteur doit être ajusté pour ne pas en empécher la rotation libre.|/|

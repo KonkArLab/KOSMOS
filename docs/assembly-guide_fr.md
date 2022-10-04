@@ -21,19 +21,13 @@
 
 ### 1.1 Assemblage de la caméra :
 
-* Rassembler, la Picam HQ, sa nappe \(câble plat\), la stucture caméra I3, 4 vis M2,5\*5mm, 4 entretoises en laiton M2,5\*5+5mm et 4 rondelles M2,5.
+* Rassembler, la Picam HQ, sa nappe \(câble plat\), la stucture caméra I3, 4 vis M2,5\*5mm et 4 rondelles M2,5.
 
 ![AG1-1](pictures/assembly_guide/AG1-1.JPG)
 
 ​
 
-* A l'aide d'une pince plate, visser les 4 entretoises en laiton dans les trous prévus à cet effet dans la structure de la caméra n°3.
-
-![AG1-2](pictures/assembly_guide/AG1-2.JPG)
-
-​
-
-* Puis, à l'aide d'une clé alen de 2mm, visser la caméra sur ses 4 entretoises à l'aides des 4 vis M2,5 et 4 rondelles. La caméra doit être positionné comme présenté sur la photo ci dessous. La sortie de la nappe du coté opposé aux fixations.
+* A l'aide d'une clé alen de 2mm, visser la caméra sur I3 à l'aides des 4 vis M2,5 et 4 rondelles. La caméra doit être positionné comme présenté sur la photo ci dessous. La sortie de la nappe du coté opposé aux fixations.
 
 ![AG1-3](pictures/assembly_guide/AG1-3.JPG)
 
