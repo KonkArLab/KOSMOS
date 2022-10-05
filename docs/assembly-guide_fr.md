@@ -236,7 +236,15 @@ Les étapes suivantes nécéssitent des compétences en soudure électronique. V
 
 
 
+### 1.7 Installation de l'objectif Edmund
 
+ - Rassembler l'assemblage et l'objectif Edmund.
+![AG1-38](pictures/assembly_guide/AG1-38.JPG) 
+
+
+ - Ôter le capuchon qui protège le capteur de la Pi cam, veiller à conserver la bague C-CS sur la monture de la Pi cam. 
+ - Visser l'objectif Edmund sur le Pi Cam et lui ôter sa protection. Les réglages se feront par la suite. 
+![AG1-39](pictures/assembly_guide/AG1-39.JPG) 
 
 
 
@@ -724,27 +732,8 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-​
 
-### 3.8 Installation du capteur magnétique
-
-​
-
-* Rassembler le capteur magnétique contact reed étanche, la pièce R7, une vis M3\*18mm, une rondelle M3 et un écrou M3.
-
-![AG1-31](pictures/assembly_guide/AG3-31.JPG)
-
-​
-
-* Insérer le capteur dans R7 puis visser R7 sur F1 dans le trou oblond. Le capteur doit être positionné à l'extérieur du réducteur. On avancera le capteur pour qu'il soit au plus près de l'aiment collé sur le bras de Malte ;
-
-![AG1-32](pictures/assembly_guide/AG3-32.JPG)
-
-​
-
-​
-
-### 3.9 Montage des bers (supports du caisson)
+### 3.8 Montage des bers (supports du caisson)
 
 ​
 
@@ -764,7 +753,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-### 3.10 Installation des Bers sur le réducteur
+### 3.9 Installation des Bers sur le réducteur
 
 ​
 
@@ -779,6 +768,26 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 ![AG1-36](pictures/assembly_guide/AG3-36.JPG)
 
 ​
+
+​
+
+### 3.10 Installation du capteur magnétique
+
+​
+
+* Rassembler le capteur magnétique contact reed étanche, la pièce R2 et 4 vis M3*6mm.
+
+* Au moyen d'un pistolet à colle, coller le capteur magnétique dans R2.
+![AG1-31](pictures/assembly_guide/AG3-31.JPG)
+
+* Puis visser R2 sur F1 au moyen des 4 vis M3*6mm. 
+![AG1-32](pictures/assembly_guide/AG3-32.JPG)
+
+* Solidariser les fils du capteur au réducteur au moyen de rilsans. Utiliser les trous prévu à cet effet. Laisser courir les câbles et les laisser ressortir par l'encoche su F2. 
+![AG1-32bis](pictures/assembly_guide/AG3-32bis.JPG)
+
+​
+
 
 ​
 
@@ -808,3 +817,60 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 * Installer Les plaques C1 sur les deux côtés longs du réducteur. Comme à l'étape précédente, veiller à ce que les écrous viennent bloquer la plaque. Attention à serrer à tâtons pour éviter de fendre le PMMA.
 
 ![AG1-40](pictures/assembly_guide/AG3-40.JPG)
+
+
+
+
+## 4/ Assemblage final du KOSMOS
+Une fois toutes les sous-parties assemblés il ne reste plus qu'à faire l'assemblage final. Soit à insérer le KOSMOS dans son tube, le raccorder au connecteurs de la flange mais aussi à solidariser le tube sur le réducteur. 
+
+
+
+### 4.1 Installation du KOSMOS dans son tube
+
+ - Insérer la structure du KOSMOS (assemblage fait en partie 1) dans son tube en ôtant uniquement le bouchon munit des capteurs et connecteurs. Veiller à ce que les deux pièces bleus s'imbriquent correctement. 
+
+![AG4-1](pictures/assembly_guide/AG4-1.JPG)
+
+
+ - Coucher le tube et sortir légèrement son contenu, rassembler aussi le bouchon en aluminium avec ses connecteurs et capteurs et la clé USB.
+
+![AG4-2](pictures/assembly_guide/AG4-2.JPG)
+
+
+ - Connecter les deux connecteurs JST (3 broches pour l'ILS et 4 broches pour le capteur de pression), Attention, le câble de charge de la ou des batterie(s) doit resté non connecté. Il ne servira qu'au moment de charger la batterie.
+
+![AG4-3](pictures/assembly_guide/AG4-3.JPG)
+
+
+ - Connecter les trois connecteurs bananes entre eux. Il n'y a pas d'ordre de branchement à respecter
+
+![AG4-4](pictures/assembly_guide/AG4-4.JPG)
+
+
+ - Connecter les connecteurs XT-60 (jaune) entre eux ils permet de mettre en série le bouton de mise en tension.
+
+![AG4-5](pictures/assembly_guide/AG4-5.JPG)
+
+
+ - Connecter la clé USB à un port USB 3.0 (bleus) de la Raspberry. Il s'agira de son emplacement préféré. Lors des étapes d'installation du software, il sera nécessaire de la débrancher. Cette clé USB sera par ailleurs le stockage des données ainsi que l'emplacement d'un fichier de paramétrage essentiel le "kosmos_config.ini" en l’absence de cette clé le KOSMOS ne pourra démarrer et ne pourra stoker ses données. 
+
+![AG4-6](pictures/assembly_guide/AG4-6.JPG) 
+
+
+ - Refermer le tube en laissant coulisser la structure interne dans le tube acrylique. Puis insérer délicatement le bouchon pour fermer le tube en ayant au préalable dévissé le bouchon de purge "Ok". Si le bouchon en aluminium s’insère avec difficulté, veiller à avoir graissé correctement les joints comme précisé dans l'étape 2.8. 
+
+![AG4-7](pictures/assembly_guide/AG4-7.JPG) 
+ 
+ 
+ - Une fois le bouchon refermé correctement, qu'aucun fil n'est coincé, refermer le bouchon vent "ok".
+![AG4-8](pictures/assembly_guide/AG4-8.JPG) 
+
+
+
+
+### 4.2 Coller des auto-collants de repaires
+
+
+
+### 4.3 Solidariser le tube sur le réducteur
