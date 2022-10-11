@@ -28,6 +28,10 @@ theme:
     name: material
     palette:
       primary: blue
+      
+formats:
+  - epub
+  - pdf
 
 plugins:
   - search
