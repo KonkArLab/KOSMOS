@@ -43,3 +43,7 @@ markdown_extensions:
     - admonition
     - toc:
         permalink: true
+
+formats
+ - pdf
+ - epub
