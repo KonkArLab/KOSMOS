@@ -44,6 +44,3 @@ markdown_extensions:
     - toc:
         permalink: true
 
-formats:
-    - pdf
-    - epub
