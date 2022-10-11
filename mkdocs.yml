@@ -31,7 +31,6 @@ theme:
 
 plugins:
   - search
-  - pdf-export
   - i18n:
       default_language: fr
       languages:
