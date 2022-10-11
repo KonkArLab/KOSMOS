@@ -25,7 +25,7 @@ nav:
         - Licence : license.md
         
 theme:
-    name: readthedocs
+    name: material
     palette:
       primary: blue
 
