@@ -26,8 +26,8 @@ nav:
         
 theme:
     name: material
-    palette:
-      primary: blue
+#    palette:
+#      primary: blue
 
 plugins:
   - search
