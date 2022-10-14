@@ -23,7 +23,7 @@
 
  - Nommer l'utilisateur en fonction de vos besoins (exemple de nomenclature : kosmosINITIALSnuméro)(ici kosmos3) ;
  - Entrer un mot de passe simple, puis le confirmer ;
- - Passer le clavier en Azerty en suivant la [documentation ci jointe](https://github.com/gheleguen/KOSMOS_tech](https://alain-michel.canoprof.fr/eleve/tutoriels/raspberry/premiers-pas-raspberrypi/activities/clavier-en-francais.html) ;
+ - Passer le clavier en Azerty en suivant la [documentation ci jointe](https://alain-michel.canoprof.fr/eleve/tutoriels/raspberry/premiers-pas-raspberrypi/activities/clavier-en-francais.html) ;
 
 ### 1.3 Connexion au wifi
 La connexion au wifi bien que non nécessaire pour observer les poissons sera très utile au laboratoire pour piloter le KOSMOS en SSH sans y brancher d'écran, cela va permettre aussi de télécharger les paquets KOSMOS sur Github et de les mettre à jour par la suite.
