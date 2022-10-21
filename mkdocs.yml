@@ -9,6 +9,7 @@ nav:
         - 6. Calibration du temps de pause: calibrate_fr.md
         - 7. Annexes:
           - Fabrication d'un PCB: make_a_PCB_fr.md 
+          - Commander un PCB à un prestataire spécialisé: pcb_ordering.md
 
     - II/ Usage en mer :
         - 1. Check-list: check-list_fr.md
