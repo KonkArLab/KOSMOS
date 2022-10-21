@@ -2,7 +2,7 @@
 
 ## 1/ A partir de notre archive (facile) 
 
- - [Télécharger l'archive des fichiers gerbers et de perçages](https://github.com/gheleguen/KOSMOS_tech/blob/main/hardware/electronics/kosmosV3_pcb.zip)
+ - [Télécharger l'archive des fichiers gerbers et de perçages](https://github.com/KonkArLab/KOSMOS/blob/main/hardware/electronics/kosmosV3_pcb.zip)
  - Conserver cette archive sous format .zip
  - [Se rendre sur le site de euro circuit](https://www.eurocircuits.com/)
  - Se créer un compte sur le site d'euro circuit
