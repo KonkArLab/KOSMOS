@@ -87,66 +87,20 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 
 
 
-## 3/ Electroniques et câblages
+## 3/ Fabrication du PCB
 
-### 3.1 Fabrication du PCB
- - Sur une plaque de circuit imprimé cuivré graver le PCB.
- - Fabriquer le PCB en suivant la documentation en annexe. [Utiliser le fichier pdf](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/electronics/PCB_forprint_KOSMOS_v3-0.pdf) 
+La fabrication du KOSMOS 3.0 requiert un circuit imprimé (ou PCB). Ce dernier permettra de relier à la carte raspberry les composants et capteurs utile au fonctionnement. On y retrouvera nottament :
+ - Des résistances pour les LED mais aussi pour l'I2C,
+ - Les ILS,
+ - Un voyant de niveau de batterie,
+ - Une horloge (RTC) permettant de mettre la raspberry à l'heure à chaque démarrage,
+ - une série de connectiques qui permettront de se connecter aux alimentations mais aussi de raccorder les différents services. 
 
-### 3.1 Perçage du PCB et soudure
+**Il existe deux possibilités pour obtenir le PCB (Le détail pour les deux premières méthodes sont disponibles dans les annexes):**
 
-​
+| **Méthode**                          | **Avantages**                                                           | **Inconvénients**                                                                     | **coût totale**                                    |
+|--------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------------------------------------------------|
+| **Fabrication maison**                   |  - Fabrication d'un seul PCB  - Droit à l'erreur  - Peu coûteux         |  - Processus long  - Nombreuses erreurs possibles  - Nécéssite du matériel spécifique |  - 10 à 30 €                                       |
+| **Commande à un prestataire spécialisé** |  - Qualité maximale  - Economie de temps à la fabrication et au perçage |  - Obligation de commande groupé (5 ou 10 min)  - Pas de droit à l'erreur             |  - Environ 150 à 200€ pour une dizaine de circuits |
+| **Commande au Konk Ar Lab**              |  - Le circuit est issu d'une série testé et validé par l'équipe KOSMOS  |  - Pas de disponibilité certaine                                                      |  - Environ 20€ par circuit                         |
 
-* A l'aide d'une dremel sur colonne ou d'une dremel à la main percer les trous du circuit imprimé avec un foret de 0,8mm.
-* Élargir les trous dans lesquelles on soudera des pins duponts males \(Encadrés en vert cf. visuels ci dessous\) à l'aide d'un foret de 0,9mm ou 1mm.
-* A ces mêmes emplacements, souder des broches duponts mâles.  /!\ Attention on soude les composants de manière a ce qu'ils soient sur la face opposé au circuit. Seule les pattes traversent et sont soudés du coté du circuit.
-
-​
-![POP3-1](pictures/productions_of_parts/POP3-1.PNG)
-
-​
-
-​
-
-* Souder 2 résistances de 220ohm et 6 résistances de 1Kohm \(cf. photo ci dessous, 220ohm en bleu et 1kohm en orange\). \(PCB\_step3-2.png\).
-
-​
-
-![POP3-2](pictures/productions_of_parts/POP3-2.PNG)
-
-​
-
-​
-
-* Souder les deux diodes en veillant à respecter la polarité. Sur une diode le plus est matérialisé par la patte la plus longue. \(Une LED rouge et une LED verte cf.photo ci dessous\).
-
-​
-
-![POP3-3](pictures/productions_of_parts/POP3-3.PNG)
-
-
-​
-
-​
-
-* Souder 4 fils qui servirons de pont \(en vert cf. dessin ci dessous\).
-
-​
-
-![POP3-4](pictures/productions_of_parts/POP3-4.PNG)
-
-​
-
-* Souder sur les broches duponts, dans le sens indiqué les 3 modules RTC \(Horloge\), l'indicateur de niveau de batterie et le relai. 
-
-​
-![POP3-5](pictures/productions_of_parts/POP3-5.PNG)
-
-​
-
-​
-
-* Souder 3 ILS sur les emplacements indiqués \(en orange cf. dessin ci dessous\). \(PCB\_step3-6.png\)
-
-​
-![POP3-6](pictures/productions_of_parts/POP3-6.PNG)
