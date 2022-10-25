@@ -32,6 +32,7 @@ theme:
 
 plugins:
   - search
+  - with-pdf
   - i18n:
       default_language: fr
       languages:
