@@ -1,4 +1,4 @@
-# Sourcer
+# Nomenclature / Le sourcing
 
 Le sourcing est la première étape du projet et parfois la plus difficile. Sourcer désigne le fait de rassembler tout ce ce qui sera nécéssaire pour fabriquer un KOSMOS. Ce projet demande des composants que l'on trouvera chez un grand-nombre de fournisseurs différents. De plus, ces fournisseurs peuvent différer en fonction du lieu et du moment où l'on va construire un KOSMOS.
 
