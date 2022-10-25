@@ -819,8 +819,24 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 ![AG1-40](pictures/assembly_guide/AG3-40.JPG)
 
 
+### 3.12 Raccordement des connectiques capteurs 
+ - Insérer les trois fils du capteur ILS dans les trois trous de la pièce R8
+ - Dénuder les fils du capteur,
+ - Insérer le câble cobalt étanche. Pousser la gaine à travers la pièce R8 de manière à la bloquer. 
+ - Dénuder les fils du câble
+ - Insérer des bouts de gaine thermorétractable sur chaque fil du capteur
+ - Étamer chacun des fils dénudés. Enfin les souder. Noir sur noir, rouge sur bleu, jaune sur blanc. 
+ - Décaler les gaines thermorétractable de manière à isoler les 3 soudures et les rétracter au moyen d'un pistolet à air chaud. 
+
+### 3.13 Raccordement des connectiques moteur
+
+### 3.14 Étanchéification des connectiques 
+ - Préparer la résine époxy dans un récipient à part. Se référer aux spécifications du fabriquant pour le dosage entre résine et durcisseur. 
+ - Positionner les pièces R8 et R6 à plat sur un morceau de bois vissé au moyen de deux vis à bois; S'assurer que les fils ne dépassent pas de l'épaulement. 
+ - Couler la résine epoxy dans les deux connecteurs R8 et R6 sans dépasser l'épaulement. 
 
 
+<br>
 ## 4/ Assemblage final du KOSMOS
 Une fois toutes les sous-parties assemblés il ne reste plus qu'à faire l'assemblage final. Soit à insérer le KOSMOS dans son tube, le raccorder au connecteurs de la flange mais aussi à solidariser le tube sur le réducteur. 
 
