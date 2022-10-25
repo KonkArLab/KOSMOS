@@ -9,11 +9,6 @@ version: 2
 mkdocs:
   configuration: mkdocs.yml
 
-# Build PDF & ePub
-formats:
-  - epub
-  - pdf
-
 # Declare the Python requirements required to build your docs
 python:
    install:
