@@ -72,12 +72,10 @@ Si vous avez effectué des modifications, il peut-être utile de les proposer en
  - Pour ajouter l'ensemble des fichiers à la liste des fichiers à commiter : ```git add *```
  - Commiter ```git commit -m "commentaire associé au commit" git@git.cru.fr:nom_projet.git nom_branche (par défaut master représentant la branche principale)```
  - Enfin pousser votre travail ```git push```
-
-
-
+ 
  
 ## Liens connexes
- - [Documentation Git](https://git-scm.com/about)
- - [Formation vidéo à Git](https://youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP)
+ - Documentation Git : https://git-scm.com/about
+ - Formation vidéo à Git : https://youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP
  
  

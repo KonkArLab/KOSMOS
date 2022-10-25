@@ -1,25 +1,25 @@
 site_name: KOSMOS
 nav:
-    - I/ Fabrication :
-        - 1. Fournitures: sourcing_fr.md
-        - 2. Matériel: tools_fr.md
-        - 3. Fabrications des piéces: productions_of_parts_fr.md
-        - 4. Guide d'assemblage: assembly-guide_fr.md
-        - 5. Installation du software: software_install_fr.md
-        - 6. Calibration du temps de pause: calibrate_fr.md
-        - 7. Annexes:
+    - I/ Sourcer: sourcing_fr.md
+    - II/ Fabrication :
+        - 1. Matériel nécèssaire: tools_fr.md
+        - 2. Fabrications des piéces: productions_of_parts_fr.md
+        - 3. Guide d'assemblage: assembly-guide_fr.md
+        - 4. Installation du software: software_install_fr.md
+        - 5. Calibration du temps de pause: calibrate_fr.md
+        - Annexes:
           - Fabrication d'un PCB: make_a_PCB_fr.md 
           - Commander un PCB à un prestataire spécialisé: pcb_ordering.md
 
-    - II/ Usage en mer :
+    - III/ Usage en mer :
         - 1. Check-list: check-list_fr.md
         - 2. Guide de déploiement: deployment.md
         - 3. Retour à terre: landing.md
     
-    - III/ Collecte et gestion des données :
+    - IV/ Collecte et gestion des données :
         - 1. Correction des images: image-processing_fr.md
     
-    - IV/ Contribuer : 
+    - V/ Contribuer : 
         - 1. Editer cette documentation: edit-this-doc_fr.md
         
     - A propos :
