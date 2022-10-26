@@ -808,24 +808,24 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
  - Insérer les trois fils du capteur ILS dans les trois trous de la pièce R8
  - Dénuder les fils du capteur,
  
-![AG1-41](pictures/assembly_guide/AG3-41.JPG)
+![AG3-41](pictures/assembly_guide/AG3-41.jpg)
 
  - Insérer le câble cobalt étanche. Pousser la gaine à travers la pièce R8 de manière à la bloquer. 
  - Dénuder les fils du câble,
 
-![AG1-42](pictures/assembly_guide/AG3-42.JPG)
+![AG3-42](pictures/assembly_guide/AG3-42.jpg)
 
  - Insérer des sections de gaine thermorétractable sur chaque fil du capteur.
 
-![AG1-43](pictures/assembly_guide/AG3-43.JPG)
+![AG3-43](pictures/assembly_guide/AG3-43.jpg)
 
  - Étamer chacun des fils dénudés. Enfin les souder en respectant les branchements suivants : **Noir sur noir, rouge sur bleu, jaune sur blanc**. 
 
-![AG1-44](pictures/assembly_guide/AG3-44.JPG)
+![AG3-44](pictures/assembly_guide/AG3-44.jpg)
 
  - Décaler les gaines thermorétractable de manière à isoler les 3 soudures et les rétracter au moyen d'un pistolet à air chaud. 
 
-![AG1-45](pictures/assembly_guide/AG3-45.JPG)
+![AG3-45](pictures/assembly_guide/AG3-45.jpg)
 
 
 ### 3.13 Raccordement des connectiques moteur
@@ -838,24 +838,24 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
  - Étamer chacun des fils dénudés. Enfin les souder sans respecter de branchement particulier. 
  - Décaler les gaines thermorétractables de manière à isoler les 3 soudures et les rétracter au moyen d'un pistolet à air chaud. 
 
-![AG1-46](pictures/assembly_guide/AG3-46.JPG)
+![AG3-46](pictures/assembly_guide/AG3-46.jpg)
 
 
 ### 3.14 Étanchéification des connectiques et fixation
  - Préparer la résine époxy dans un récipient à part. Se référer aux spécifications du fabriquant pour le dosage entre résine et durcisseur. 
  - Positionner les pièces R8 et R6 à plat sur un morceau de bois vissé au moyen de deux vis à bois; S'assurer que les fils ne dépassent pas de l'épaulement. 
 
-![AG1-47](pictures/assembly_guide/AG3-47.JPG)
+![AG3-47](pictures/assembly_guide/AG3-47.jpg)
 
  - Couler la résine époxy dans les deux connecteurs R8 et R6 sans dépasser l'épaulement. 
  - Laisser sécher au moin 24h.
  - A l'aide de 4 vis M3*5mm, fixer les deux connectiques étanches sur le dessud du réducteur. 
 
-![AG1-48](pictures/assembly_guide/AG3-48.JPG)
+![AG3-48](pictures/assembly_guide/AG3-48.jpg)
 
  - Clarifier les câbles en les enroulants au moyen de rilsans. 
 
-![AG1-49](pictures/assembly_guide/AG3-49.JPG)
+![AG3-49](pictures/assembly_guide/AG3-49.jpg)
 
 
 
