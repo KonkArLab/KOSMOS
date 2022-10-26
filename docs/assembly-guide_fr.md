@@ -3,22 +3,6 @@
 ## 1/ Assemblage des composants intérieurs au caisson
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### 1.1 Assemblage de la caméra :
 
 * Rassembler, la Picam HQ, sa nappe \(câble plat\), la stucture caméra I3, 4 vis M2,5\*5mm et 4 rondelles M2,5.
@@ -820,20 +804,60 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 
 ### 3.12 Raccordement des connectiques capteurs 
+ - Rassembler le réducteur, la pièce R8 et un câble étanche cobalt,
  - Insérer les trois fils du capteur ILS dans les trois trous de la pièce R8
  - Dénuder les fils du capteur,
+ 
+![AG1-41](pictures/assembly_guide/AG3-41.JPG)
+
  - Insérer le câble cobalt étanche. Pousser la gaine à travers la pièce R8 de manière à la bloquer. 
- - Dénuder les fils du câble
- - Insérer des bouts de gaine thermorétractable sur chaque fil du capteur
- - Étamer chacun des fils dénudés. Enfin les souder. Noir sur noir, rouge sur bleu, jaune sur blanc. 
+ - Dénuder les fils du câble,
+
+![AG1-42](pictures/assembly_guide/AG3-42.JPG)
+
+ - Insérer des sections de gaine thermorétractable sur chaque fil du capteur.
+
+![AG1-43](pictures/assembly_guide/AG3-43.JPG)
+
+ - Étamer chacun des fils dénudés. Enfin les souder en respectant les branchements suivants : **Noir sur noir, rouge sur bleu, jaune sur blanc**. 
+
+![AG1-44](pictures/assembly_guide/AG3-44.JPG)
+
  - Décaler les gaines thermorétractable de manière à isoler les 3 soudures et les rétracter au moyen d'un pistolet à air chaud. 
 
-### 3.13 Raccordement des connectiques moteur
+![AG1-45](pictures/assembly_guide/AG3-45.JPG)
 
-### 3.14 Étanchéification des connectiques 
+
+### 3.13 Raccordement des connectiques moteur
+ - De la même manière que pour l'étape précédente, rassembler le réducteur, la pièce R6 et un câble étanche cobalt,
+ - Insérer les trois fils du moteur dans les trois trous de la pièce R6
+ - Dénuder les fils du moteur,
+ - Insérer le câble cobalt étanche. Pousser la gaine à travers la pièce R8 de manière à la bloquer, 
+ - Dénuder les fils du câble,
+ - Insérer des sections de gaine thermorétractable sur chaque fil du moteur.
+ - Étamer chacun des fils dénudés. Enfin les souder sans respecter de branchement particulier. 
+ - Décaler les gaines thermorétractables de manière à isoler les 3 soudures et les rétracter au moyen d'un pistolet à air chaud. 
+
+![AG1-46](pictures/assembly_guide/AG3-46.JPG)
+
+
+### 3.14 Étanchéification des connectiques et fixation
  - Préparer la résine époxy dans un récipient à part. Se référer aux spécifications du fabriquant pour le dosage entre résine et durcisseur. 
  - Positionner les pièces R8 et R6 à plat sur un morceau de bois vissé au moyen de deux vis à bois; S'assurer que les fils ne dépassent pas de l'épaulement. 
- - Couler la résine epoxy dans les deux connecteurs R8 et R6 sans dépasser l'épaulement. 
+
+![AG1-47](pictures/assembly_guide/AG3-47.JPG)
+
+ - Couler la résine époxy dans les deux connecteurs R8 et R6 sans dépasser l'épaulement. 
+ - Laisser sécher au moin 24h.
+ - A l'aide de 4 vis M3*5mm, fixer les deux connectiques étanches sur le dessud du réducteur. 
+
+![AG1-48](pictures/assembly_guide/AG3-48.JPG)
+
+ - Clarifier les câbles en les enroulants au moyen de rilsans. 
+
+![AG1-49](pictures/assembly_guide/AG3-49.JPG)
+
+
 
 
 <br>
@@ -880,13 +904,15 @@ Une fois toutes les sous-parties assemblés il ne reste plus qu'à faire l'assem
  
  
  - Une fois le bouchon refermé correctement, qu'aucun fil n'est coincé, refermer le bouchon vent "ok".
+
 ![AG4-8](pictures/assembly_guide/AG4-8.JPG) 
 
 
 
 
-### 4.2 Coller des auto-collants de repaires
+### 4.2 Positionner des auto-collants
 
 
 
 ### 4.3 Solidariser le tube sur le réducteur
+L'étape suivante n'est pas forcément requise. Lors du transport du KOSMOS on préférera stocker le tube dans une caisse étache molletonné. Quand au réducteur qui sera très souvent humide, le stoker dans une caisse en plastique 
