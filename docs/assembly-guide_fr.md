@@ -5,13 +5,13 @@
 
 ### 1.1 Assemblage de la caméra :
 
-* Rassembler, la Picam HQ, sa nappe \(câble plat\), la stucture caméra I3, 4 vis M2,5\*5mm et 4 rondelles M2,5.
+* Rassembler, la Picam HQ, sa nappe \(câble plat\), la structure caméra I3, 4 vis M2,5\*5mm et 4 rondelles M2,5.
 
 ![AG1-1](pictures/assembly_guide/AG1-1.JPG)
 
 ​
 
-* A l'aide d'une clé alen de 2mm, visser la caméra sur I3 à l'aides des 4 vis M2,5 et 4 rondelles. La caméra doit être positionné comme présenté sur la photo ci dessous. La sortie de la nappe du coté opposé aux fixations.
+* A l'aide d'une clé alen de 2mm, visser la caméra sur I3 à l'aide des 4 vis M2,5 et 4 rondelles. La caméra doit être positionnée comme présentée sur la photo ci dessous. La sortie de la nappe du côté opposé aux fixations.
 
 ![AG1-3](pictures/assembly_guide/AG1-3.JPG)
 
@@ -35,7 +35,7 @@
 
 ​
 
-* Enfin, à l'aide d'une clé alen 2mm, visser la raspberry sur son support \(cf photo ci-dessous\). Veiller au sens, l'encoche de la structure S1 doit être à l'opposé des connecteurs USBs de la Raspberry.
+* Enfin, à l'aide d'une clé alen 2mm, visser la raspberry sur son support \(cf photo ci-dessous\). Veiller au sens, l'encoche de la structure S1 doit être à l'opposée des connecteurs USB de la Raspberry.
 
 ![AG1-6](pictures/assembly_guide/AG1-6.JPG)
 
@@ -76,13 +76,13 @@
 
 ​
 
-* Insérer 4 écrous M3 dans les fentes prévus à cet éffet sur la structure I1 \(cf photo ci dessous\)
+* Insérer 4 écrous M3 dans les fentes prévus à cet effet sur la structure I1 \(cf photo ci dessous\)
 
 ![AG1-11](pictures/assembly_guide/AG1-11.JPG)
 
 ​
 
-* Visser la carte Raspberry pi 4 et son support S1 sur le structure I1 à l'aide de deux vis M3\*15mm en haut (Côté opposé aux connecteurs USB) et deux vis M3\*10mm en bas (côté des connecteurs USB). Attention au sens de la Raspberry \(cf photo ci-dessous\).
+* Visser la carte Raspberry pi 4 et son support S1 sur la structure I1 à l'aide de deux vis M3\*15mm en haut (Côté opposé aux connecteurs USB) et deux vis M3\*10mm en bas (côté des connecteurs USB). Attention au sens de la Raspberry \(cf photo ci-dessous\).
 
 ![AG1-12](pictures/assembly_guide/AG1-12.JPG)
 
@@ -141,7 +141,7 @@
 
 ### 1.6 Câblages interne
 
-Les étapes suivantes nécéssitent des compétences en soudure électronique. Vous pouvez retrouver des conseils en annexes mais n'oubliez pas de bien recouvrir les soudures de gaines thermos-rétractable pour protéger des feux contacts. Il faut souvent veiller à insérer un morceau de gaine avant de souder. Le schèma suivant représente le circuit qui va être détaillé dans la partie 1.6. 
+Les étapes suivantes nécessitent des compétences en soudure électronique. Vous pouvez retrouver des conseils en annexes mais n'oubliez pas de bien recouvrir les soudures de gaines thermos-rétractable pour protéger des feux contacts. Il faut souvent veiller à insérer un morceau de gaine avant de souder. Le schèma suivant représente le circuit qui va être détaillé dans la partie 1.6. 
 
 //Ici le schéma de montage du circuit d'alim//
 ![AG1-21](pictures/assembly_guide/AG1-21.JPG)
@@ -199,7 +199,7 @@ Les étapes suivantes nécéssitent des compétences en soudure électronique. V
 ![AG1-33](pictures/assembly_guide/AG1-33.JPG) 
 
 
- - Fabriquer un câble (rallonge du capteur magnétique) de 180mm de long constitué de 3 fils (Jaune, rouge et bleu). Sertir un connecteur JST 4 broches à une extrémité. Souder les fils sur un JST femelle à l'opposé. Attention à bien veiller à respecter, l'ordre, le sens du connecteur et les emplacement vides. 
+ - Fabriquer un câble (rallonge du capteur magnétique) de 180mm de long constitué de 3 fils (Jaune, rouge et bleu). Sertir un connecteur JST 4 broches à une extrémité. Souder les fils sur un JST femelle à l'opposé. Attention à bien veiller à respecter, l'ordre, le sens du connecteur et les emplacements vides. 
 
 ![AG1-34](pictures/assembly_guide/AG1-34.JPG) 
 ![AG1-35](pictures/assembly_guide/AG1-35.JPG) 
@@ -208,7 +208,7 @@ Les étapes suivantes nécéssitent des compétences en soudure électronique. V
 
  - Brancher la rallonge du capteur de pression sur le connecteur prévu à cet effet. 
  - Brancher la rallonge du capteur magnétique à son emplacement. 
- - Passer ces deux câbles le long de la raspberry de manière à ce que les prises soient présentés à proximité des connecteur USB de la raspberry. 
+ - Passer ces deux câbles le long de la raspberry de manière à ce que les prises soient présentés à proximité des connecteurs USB de la raspberry. 
 
 ![AG1-36](pictures/assembly_guide/AG1-36.JPG) 
 
@@ -288,7 +288,7 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 ​
 
-* Placer le plus grand des trois joint thorique dans la gorge du passe-coque. Puis visser l'écrou.
+* Placer le plus grand des trois joints thoriques dans la gorge du passe-coque. Puis visser l'écrou.
 
 ![AG2-8](pictures/assembly_guide/AG2-8.JPG)
 
@@ -339,7 +339,7 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 ​
 
-* Visser et serrer les 3 autres passe-coques. Serrer fort les 5 passes-coques. Pour le bouton rotatif, il sera nécessaire de dévisser le bouton poussoir pour l'inssérer dans end cap. 
+* Visser et serrer les 3 autres passe-coques. Serrer fort les 5 passes-coques. Pour le bouton rotatif, il sera nécessaire de dévisser le bouton poussoir pour l'insérer dans end cap. 
 
 ![AG2-15](pictures/assembly_guide/AG2-15.JPG)
 
@@ -394,7 +394,7 @@ Pour l'assemblage du tube, il sera nécessaire de graisser \(graisse silicone de
 
 ### 2.7 Assemblage du détrompeur
 
-Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sens défini dans le tube. Il est imprimé en 3D et se vis sur le bouchon hublot du caisson.
+Le détrompeur est une pièce bleu permettant d'insérer la caméra dans un sens défini dans le tube. Il est imprimé en 3D et se vis sur le bouchon hublot du caisson.
 
 ​
 
@@ -412,7 +412,7 @@ Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sen
 
 ### 2.7 connectiques
 
- - Souder un connecteur XT60 femelle sur le bout des deux fils provenant du bouton d'alumage étanche. 
+ - Souder un connecteur XT60 femelle sur le bout des deux fils provenant du bouton d'allumage étanche. 
 
 ![AG2-26](pictures/assembly_guide/AG2-26.JPG) 
 
@@ -455,7 +455,7 @@ Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sen
 ![AG2-25](pictures/assembly_guide/AG2-25.JPG)
 ​
 
-* Pour ouvrir le caisson dans les étapes suivantes, commencer par ouvrir le vent, puis tirer bien dans l'axe le bouchon des passes-coques. Il n'est pas nécéssaire de regresser à chaque fois. Cependant il faudra veiller à ne pas salir les parties graissées.
+* Pour ouvrir le caisson dans les étapes suivantes, commencer par ouvrir le vent, puis tirer bien dans l'axe le bouchon des passes-coques. Il n'est pas nécéssaire de regraisser à chaque fois. Cependant il faudra veiller à ne pas salir les parties graissées.
 
 
 
@@ -466,9 +466,9 @@ Le détrompeur est une pièce bleu permettant d'inssérer la caméra dans un sen
 
 Le KOSMOS est une caméra sous-marine capable de pivoter dans un sens unique par pas de 60°. Ainsi elle observera un panoramique en sous-échantillonant par 6 plans vidéos  de 60° et 30s chacun.
 
-La question de la motorisation à longuement posé problème. Par soucis de reproductibilité \(outillage standart d'un Fab Lab\), nous avons vite écarté la possibilité de réaliser une transmission mécanique par arbre traverssant. Nous avons donc du trouver un autre moyen. Nous sommes donc partis d'un moteur de ROV capable de tourner dans l'eau. Seulement il s'agit d'un moteur Brushless qui donc tourne vite et déploi peu de couple.
+La question de la motorisation a longuement posée problème. Par soucis de reproductibilité \(outillage standart d'un Fab Lab\), nous avons vite écarté la possibilité de réaliser une transmission mécanique par arbre traversant. Nous avons donc du trouver un autre moyen. Nous sommes donc partis d'un moteur de ROV capable de tourner dans l'eau. Seulement il s'agit d'un moteur Brushless qui donc tourne vite et déploie peu de couple.
 
-Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons donc décidés d'utiliser un réducteur à 4 étages. La dernière roue entraine un bras qui fait tourner une croix de Malte. Cette dernière permets de réaliser un angle de 60° précisément lorsque la dernière roue effectue un tours complet. Afin de valider la position des engrenages. Nous avons ajoutés un capteur magnétique \(contact reed\).
+Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons donc décidé d'utiliser un réducteur à 4 étages. La dernière roue entraine un bras qui fait tourner une croix de Malte. Cette dernière permet de réaliser un angle de 60° précisément lorsque la dernière roue effectue un tours complet. Afin de valider la position des engrenages. Nous avons ajouté un capteur magnétique \(contact reed\).
 
 ​
 
@@ -476,7 +476,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-* Préparer les pièces pour monter les 3 premiers pignons. Pour cela, rassemblez les P2 , P3 et P3.2, et 9 vis M2,5 \* 12mm.
+* Préparer les pièces pour monter les 3 premiers pignons. Pour cela, rassembler les P2 , P3 et P3.2, et 9 vis M2,5 \* 12mm.
 
 ![AG1-1](pictures/assembly_guide/AG3-1.JPG)
 
@@ -494,7 +494,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-* Rassembler  la croix de malte P4, une rondelle inox M8\*22mm, 4 vis M3\*18mm et la pièce R3.
+* Rassembler la croix de malte P4, une rondelle inox M8\*22mm, 4 vis M3\*18mm et la pièce R3.
 
 ![AG1-2](pictures/assembly_guide/AG3-2.JPG)
 
@@ -521,7 +521,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ### 3.4 Assemblage de l'arbre primaire
 
-* Rassemblerla croix de malte précédamment montée, deux pignons, deux rondelles M8\_18mm, deux rondelles M10\_22mm, 2 écrous freins M8, la pièce R5, le morceau de tube d'inox de longueur 42,5mm et de la tige fileté M8 de longueur 160mm.
+* Rassembler la croix de malte précédemment montée, deux pignons, deux rondelles M8\_18mm, deux rondelles M10\_22mm, 2 écrous freins M8, la pièce R5, le morceau de tube d'inox de longueur 42,5mm et de la tige fileté M8 de longueur 160mm.
 
 ![AG1-4](pictures/assembly_guide/AG3-4.JPG)
 
@@ -534,7 +534,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-* Insérer un pignon \(petit pignon vers le bas\) puis une rondelle M10, puis le deuxième pignon \(petit pignon vers le bas\). L'entretoise doit dépasser de moins d'un milimètre.
+* Insérer un pignon \(petit pignon vers le bas\) puis une rondelle M10, puis le deuxième pignon \(petit pignon vers le bas\). L'entretoise doit dépasser de moins d'un millimètre.
 
 ![AG1-6](pictures/assembly_guide/AG3-6.png)
 
@@ -546,7 +546,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-* Insérer cette tige fileté à travers l'assemblage précédamment fait. L'écrou pré-vissé sera en buté sous la croix de malte séparé d'une rondelle M8.
+* Insérer cette tige fileté à travers l'assemblage précédemment fait. L'écrou pré-vissé sera en buté sous la croix de malte séparé d'une rondelle M8.
 
 ![AG1-8](pictures/assembly_guide/AG3-8.png)
 
@@ -580,7 +580,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-* Rassembler les pièces 2\* P5.2 , P5 et la P2.2 ainsi que un aiment en néodyme carrée, 3 vis M2,5\*18mm et une vis M5\*20mm à tête fraisée ;
+* Rassembler les pièces 2\* P5.2 , P5 et la P2.2 ainsi que un aimant en néodyme carrée, 3 vis M2,5\*18mm et une vis M5\*20mm à tête fraisée ;
 
 ![AG1-12](pictures/assembly_guide/AG3-12.JPG)
 
@@ -594,7 +594,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-* Visser par dessus la P5 qui sert de serrage, en veillant à ce que le logement de la tête de vis M5 soit à l'extérieur. A la colle chaude insérer l'aiment carrée dans son logement. Veiller à ce qu'il ne dépasse pas dutout du coté intérieur ;
+* Visser par dessus la P5 qui sert de serrage, en veillant à ce que le logement de la tête de vis M5 soit à l'extérieur. A la colle chaude insérer l'aimant carrée dans son logement. Veiller à ce qu'il ne dépasse pas du tout du coté intérieur ;
 
 ![AG1-14](pictures/assembly_guide/AG3-14.JPG)
 
@@ -614,20 +614,20 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-* Rassembler, le bras de malte précédamment assemblé, le tube inox 10mm\*49,2mm,  une tige filetée M8\*85mm, 4 rondelles M8\_18mm, 2 rondelles M10\_22mm, 2 écrous freins M8, la pièces R6, F1, F2, le dernier pignon et l'abre primaire ;
+* Rassembler, le bras de malte précédemment assemblé, le tube inox 10mm\*49,2mm,  une tige filetée M8\*85mm, 4 rondelles M8\_18mm, 2 rondelles M10\_22mm, 2 écrous freins M8, la pièces R6, F1, F2, le dernier pignon et l'abre primaire ;
 
 ![AG1-16](pictures/assembly_guide/AG3-16.JPG)
 
 ​
 
-* Positionner l'arbre primaire sur F2 comme présenté ci-dessous. L'assemblage qui suis nécéssite de faire jouer les deux arbres pour pouvoir enfiler les engrenages correctement ; \(Ajouter annotation des plaques + photos pas à jour \)
+* Positionner l'arbre primaire sur F2 comme présenté ci-dessous. L'assemblage qui suis nécessite de faire jouer les deux arbres pour pouvoir enfiler les engrenages correctement ; \(Ajouter annotation des plaques + photos pas à jour \)
 
 ![AG1-17](pictures/assembly_guide/AG3-17.JPG)
 ![AG1-17bis](pictures/assembly_guide/AG3-17bis.JPG)
 
 ​
 
-* Visser un  écrou neel stop M8 sur le bout de la tige filetée en laissant dépasser quelques milimètres. Insérer une rondelle M8 ;
+* Visser un  écrou neel stop M8 sur le bout de la tige filetée en laissant dépasser quelques millimètres. Insérer une rondelle M8 ;
 * Passer la tige fileté à travers la pièce F2 par le trou indiqué en veillant au sens ;
 
 ![AG1-18](pictures/assembly_guide/AG3-18.JPG)
@@ -646,7 +646,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-* Enfiler le bras de Malte \(grand engranage vers le bas\), et pour finir une rondelle M8,
+* Enfiler le bras de Malte \(grand engrenage vers le bas\), et pour finir une rondelle M8,
 
 ![AG1-21](pictures/assembly_guide/AG3-21.JPG)
 
@@ -658,13 +658,13 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-* Sur l'arbre secondaire, on ajoute à la sortie une rondelle M8 puis on sert généreusement à l'aide de deux clés de 13 les deux écrous de l'arbre secondaire de manière à ce que les deux flasques soient maitenues en parallèle ;
+* Sur l'arbre secondaire, on ajoute à la sortie une rondelle M8 puis on sert généreusement à l'aide de deux clés de 13 les deux écrous de l'arbre secondaire de manière à ce que les deux flasques soient maintenues en parallèle ;
 
 ![AG1-23](pictures/assembly_guide/AG3-23.JPG)
 
 ​
 
-* Surveiller que les deux arbres s'entrainent correctement en tournant à la main le gran pignon le plus éloigné de la croix de malte ;
+* Surveiller que les deux arbres s'entrainent correctement en tournant à la main le grand pignon le plus éloigné de la croix de malte ;
 
 ​
 
@@ -674,13 +674,13 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-* Visser un écrou frein à l'éxtrémité de chaque tige filetée. Liasser la tige fileter dépasser de l'écrou de quelques milimètres ;
+* Visser un écrou frein à l'éxtrémité de chaque tige filetée. Laisser la tige fileter dépasser de l'écrou de quelques millimètres ;
 
 ![AG1-25](pictures/assembly_guide/AG3-25.JPG)
 
 ​
 
-* Insérer ses tiges à travers la flasque F1, insérer sur chaque tige entre les deux flasques un tube inox \(entretoise\), puis serrer au moyen des écrous M8.
+* Insérer ces tiges à travers la flasque F1, insérer sur chaque tige entre les deux flasques un tube inox \(entretoise\), puis serrer au moyen des écrous M8.
 
 ![AG1-26](pictures/assembly_guide/AG3-26.JPG)
 
@@ -692,7 +692,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-* Rassembler le moteur auquel on aura otté l'hélice \(si livré avec\) en plastique au moyen d'une dremel, 6 vis M3\*8mm, 3 vis M3\*40mm, les pièces C3, P1 et R4 ;
+* Rassembler le moteur auquel on aura ôté l'hélice \(si livré avec\) en plastique au moyen d'une dremel, 6 vis M3\*8mm, 3 vis M3\*40mm, les pièces C3, P1 et R4 ;
 
 ![AG1-27](pictures/assembly_guide/AG3-27.JPG)
 
@@ -767,7 +767,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 * Puis visser R2 sur F1 au moyen des 4 vis M3*6mm. 
 ![AG1-32](pictures/assembly_guide/AG3-32.JPG)
 
-* Solidariser les fils du capteur au réducteur au moyen de rilsans. Utiliser les trous prévu à cet effet. Laisser courir les câbles et les laisser ressortir par l'encoche su F2. 
+* Solidariser les fils du capteur au réducteur au moyen de rilsans. Utiliser les trous prévu à cet effet. Laisser courir les câbles et les laisser ressortir par l'encoche sur F2. 
 ![AG1-32bis](pictures/assembly_guide/AG3-32bis.JPG)
 
 ​
@@ -792,7 +792,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 ​
 
-* Installer les plaques C2 sur les deux côtés les plus court du réducteur. Serrer les vis une à une en veillant à ce que les écrous viennent bloquer la plaque. Attention à serrer à tâton pour éviter de fendre le PMMA.
+* Installer les plaques C2 sur les deux côtés les plus courts du réducteur. Serrer les vis une à une en veillant à ce que les écrous viennent bloquer la plaque. Attention à serrer à tâton pour éviter de fendre le PMMA.
 
 ![AG1-39](pictures/assembly_guide/AG3-39.JPG)
 
@@ -849,7 +849,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
  - Couler la résine époxy dans les deux connecteurs R8 et R6 sans dépasser l'épaulement. 
  - Laisser sécher au moin 24h.
- - A l'aide de 4 vis M3*5mm, fixer les deux connectiques étanches sur le dessud du réducteur. 
+ - A l'aide de 4 vis M3*5mm, fixer les deux connectiques étanches sur le dessus du réducteur. 
 
 ![AG3-48](pictures/assembly_guide/AG3-48.jpg)
 
@@ -862,7 +862,7 @@ Afin de réduire la vitesse et augmenter le couple d'entrainement, nous avons do
 
 <br>
 ## 4/ Assemblage final du KOSMOS
-Une fois toutes les sous-parties assemblés il ne reste plus qu'à faire l'assemblage final. Soit à insérer le KOSMOS dans son tube, le raccorder au connecteurs de la flange mais aussi à solidariser le tube sur le réducteur. 
+Une fois toutes les sous-parties assemblées il ne reste plus qu'à faire l'assemblage final. Soit à insérer le KOSMOS dans son tube, le raccorder au connecteurs de la flange mais aussi à solidariser le tube sur le réducteur. 
 
 
 
@@ -893,7 +893,7 @@ Une fois toutes les sous-parties assemblés il ne reste plus qu'à faire l'assem
 ![AG4-5](pictures/assembly_guide/AG4-5.JPG)
 
 
- - Connecter la clé USB à un port USB 3.0 (bleus) de la Raspberry. Il s'agira de son emplacement préféré. Lors des étapes d'installation du software, il sera nécessaire de la débrancher. Cette clé USB sera par ailleurs le stockage des données ainsi que l'emplacement d'un fichier de paramétrage essentiel le "kosmos_config.ini" en l’absence de cette clé le KOSMOS ne pourra démarrer et ne pourra stoker ses données. 
+ - Connecter la clé USB à un port USB 3.0 (bleus) de la Raspberry. Il s'agira de son emplacement préféré. Lors des étapes d'installation du software, il sera nécessaire de la débrancher. Cette clé USB sera par ailleurs le stockage des données ainsi que l'emplacement d'un fichier de paramétrage essentiel le "kosmos_config.ini" en l’absence de cette clé le KOSMOS ne pourra démarrer et ne pourra stocker ses données. 
 
 ![AG4-6](pictures/assembly_guide/AG4-6.JPG) 
 
@@ -915,4 +915,4 @@ Une fois toutes les sous-parties assemblés il ne reste plus qu'à faire l'assem
 
 
 ### 4.3 Solidariser le tube sur le réducteur
-L'étape suivante n'est pas forcément requise. Lors du transport du KOSMOS on préférera stocker le tube dans une caisse étache molletonné. Quand au réducteur qui sera très souvent humide, le stoker dans une caisse en plastique 
+L'étape suivante n'est pas forcément requise. Lors du transport du KOSMOS on préférera stocker le tube dans une caisse étanche molletonnée. Quand au réducteur qui sera très souvent humide, le stocker dans une caisse en plastique 
