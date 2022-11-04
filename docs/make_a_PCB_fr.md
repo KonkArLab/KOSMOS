@@ -3,7 +3,7 @@
 ## 1/ Matériel et outils nécessaires
 
 ### 1.1. Matériel
- - Une plaque cuivré mono-couche de 80mm*95mm. 
+ - Une plaque cuivrée mono-couche de 80mm*95mm. 
  - Acide chlorydrique 23% (Magasin de bricolage)
  - Eau oxygénée (10 ou 30 volumes)
  - Papier de publicité (glacé)
@@ -26,14 +26,14 @@
  - Découper les contours de l'empreinte.
 
 ### 2.2. Transfert des pistes sur la plaque de cuivre
- - Poncer la plaque cuivré à l'aide d'un papier de verre très fin (1000). 
- - Nettoyer la surface cuivré à l'aide d'alcool. Nettoyer jusqu'à ce qu'il n'y ai plus de traces sur l’essuie tout. 
- - Découper l'empreinte du PCB au ciseaux
- - Dans le bac, verser du dissolvant à la surface de la plaque cuivré. Bien répartir ce dernier afin qu'il prenne tout l'espace de la plaque. 
- - Sans attendre, déposer le papier glacé avec l'ancre imprimé face au cuivre. 
+ - Poncer la plaque cuivrée à l'aide d'un papier de verre très fin (1000). 
+ - Nettoyer la surface cuivrée à l'aide d'alcool. Nettoyer jusqu'à ce qu'il n'y ai plus de traces sur l’essuie tout. 
+ - Découper l'empreinte du PCB au ciseaux.
+ - Dans le bac, verser du dissolvant à la surface de la plaque cuivrée. Bien répartir ce dernier afin qu'il prenne tout l'espace de la plaque. 
+ - Sans attendre, déposer le papier glacé avec l'encre imprimée face au cuivre. 
  - Tamponner à l'aide d'un papier essuie tout. 
- - Laisser sécher la plaque une quinzaine d eminutes de manière à ce que le papier ne soit plus du tout humide
- - Une fois le papier totalement sec, très délicatement passer la plaque sous le robinet d'eau froide. Avec les doigts frotter de manière à dissoudre le papier. Seule les pistes doivent rester sur la plaque de cuivre. 
+ - Laisser sécher la plaque une quinzaine de minutes de manière à ce que le papier ne soit plus du tout humide.
+ - Une fois le papier totalement sec, très délicatement passer la plaque sous le robinet d'eau froide. Avec les doigts frotter de manière à dissoudre le papier. Seules les pistes doivent rester sur la plaque de cuivre. 
 
 
 ### 2.3. Gravure
