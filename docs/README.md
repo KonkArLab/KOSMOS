@@ -2,9 +2,7 @@
 
 ![PhotoKOSMOS30](pictures/Kosmos3-0.webp)
 
-Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International.](https://creativecommons.org/licenses/by-nc-sa/4.0/) L'auteur à mentionner est Konk Ar Lab et Ifremer
 
-​
 
 Le KOSMOS est un programme de sciences participatives née du partenariat atypique
 entre une institution scientifique, l’Ifremer, et un Tiers Lieu, le Konk Ar Lab, Fablab de
