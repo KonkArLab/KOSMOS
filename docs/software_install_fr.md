@@ -32,12 +32,14 @@
 
  - Effectuer un update : <pre>sudo apt update</pre>
  - Puis un upgrade : <pre>sudo apt upgrade</pre>
- - Redémarrer : <pre>reboot</pre>
  - Sur la raspberry, installer git : <pre>sudo apt install git</pre>
  - Depuis la raspberry et dans le répertoire courant (cd ~), cloner le dépot kosmos_software (pour le moment la branche de dev d'Amaury): <pre>git clone --branch developement-amaury https://github.com/KonkArLab/kosmos_software.git</pre>
  - Se déplacer dans kosmos_software : <pre>cd kosmos_software</pre>
  - Modifier les droits d'éditions : <pre>sudo a+wrx install.sh</pre>
+ - Modifier les droits d'éditions : <pre>sudo a+wrx usb.sh</pre>
  - Lancer l'installation du software KOSMOS : <pre>sudo ./install.sh</pre>
+ - Pour finir il faudra modifier le chemin de la clé usb en modifiant le fichier ".env" en utilisant nano : <pre>sudo nano .env</pre>
+ - Dans ce fichier modifier la valeur de la variable "USB_ROOT_PATH" avec le chemin de votre clés USB soit en remplaçant le "USERNAME" par votre nom d'utilisateur <pre>`media/<USUERNAME>`</pre>
 
 
  
