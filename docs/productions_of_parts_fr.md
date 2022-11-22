@@ -75,9 +75,19 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 
 **2.3 Les pièces en mouvements \(engrenages...\) seront usinés de préférence en POM.**
 
+Ces pièces sont les plus délicates à produire. Il est nécessaire de de s'armer de patience pour réaliser le plus proprement possible ces engrrnages à la fraiseuse à commande numérique dans un matériau comme le POM. Nous avons également fait l'essai avec du PMMA translucide. Ce dernier matériau à l'avantage de pouvoir s'usiner au laser. Ce qui n'est pas la cas du POM.
+
+/!\ ATTENTION : Le POM ne peut être découpé au laser si cette dernière n'est équipé d'une hotte aspirante. Le gaz produit par le POM au passage d'un laser n'est autre que du formaldéhyde (formol). 
+
+* Pour réaliser les découpes au laser, utiliser le fichier présent dans cette archive (hardware/laser_cut/A4_laser-cut.svg). 
+* Pour usiner le POM ou un autre matrériau à la fraiseus numérique, utiliser le projet easel présent sur la plateforme inventables : https://www.inventables.com/projects/kosmos_gears
+
+
+**Recommandatons**
 * Il est nécessaire de sélectionner une plaque de POM bien plane de 5mm d'épaisseur ;
-* Utiliser le fichier POM-5mm\_A4\_laser-cut.svg pour lancer une découpe ;
-* Toutes les pièces sont disposées ici de manière à rentrer dans un format A4 \(21\*29,7 cm\) ;
+* Toutes les pièces sont disposées ici de manière à rentrer dans un format A4 \(21\*29,7 cm\) dans le fichier easel les pièces dépassent légérement de ce format ;
+* Utiliser une fraise de 2mm à 2 dents adapté au plastique PP et POM ;
+* Paramétrez les vitesses de progressions aux besoins de votre machine ;
 
 ​
 
@@ -96,7 +106,7 @@ La fabrication du KOSMOS 3.0 requiert un circuit imprimé (ou PCB). Ce dernier p
  - Une horloge (RTC) permettant de mettre la raspberry à l'heure à chaque démarrage,
  - Une série de connectiques qui permettront de se connecter aux alimentations mais aussi de raccorder les différents services. 
 
-**Il existe deux possibilités pour obtenir le PCB (Le détail pour les deux premières méthodes sont disponibles dans les annexes):**
+**Il existe trois possibilités pour obtenir le PCB (Le détail pour les deux premières méthodes sont disponibles dans les annexes):**
 
 | **Méthode**                          | **Avantages**                                                           | **Inconvénients**                                                                     | **coût totale**                                    |
 |--------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------------------------------------------------|
