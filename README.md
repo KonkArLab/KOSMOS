@@ -22,9 +22,9 @@ Ce sont ces trois enjeux qui ont motivé Dominique Pelletier, directrice de rech
 Écologie et Modèles pour l’Halieutique (EMH), à se tourner vers le Konk Ar Lab. En effet,
 Dominique a d’ores et déjà développé deux caméras utilisées à travers le monde : le
 STAVIRO et le MICADO. Cependant, leur mode de fabrication est limitant et ne permet
-pas à tout acteur (institution scientifique, parc naturel marin, citoyen) de s’emparer du
-projet alors même que nos besoins d’évaluation et de suivis sont croissant. Le KOSMOS
-offre donc une solution non négligeable a ce qui semblait être une impasse.
+pas à tout acteur ou potentiel utilisateur (institution scientifique, parc naturel marin, citoyen) de s’emparer du
+projet alors même que les besoins d’évaluation et de suivi sont croissants. Le KOSMOS
+offre donc une solution à ce qui semblait être une impasse.
 
 L’Ifremer s’est tourné vers le FabLab de Concarneau en sa qualité de lieu de facilitation
 sociale par le numérique. Le Konk Ar Lab, implanté sur le territoire de Concarneau
@@ -39,5 +39,5 @@ de l’utilisation de la caméra en mer, verra le jour en 2023. L’objectif est
 un chacun de collecter des vidéos lors de sorties en mer et de les analyser. En offrant
 ainsi de nouvelles données aux scientifiques, les observateurs développent ou
 
-approfondissent leur connaissances du milieu côtier et offrent la possibilité de suivre son
+approfondissent leur connaissance du milieu côtier et offrent la possibilité de suivre son
 évolution sur le long terme.
