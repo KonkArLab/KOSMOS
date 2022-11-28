@@ -1,5 +1,6 @@
 site_name: KOSMOS
 nav:
+    - Introduction: introduction_fr.md
     - I/ Sourcer: sourcing_fr.md
     - II/ Fabrication :
         - 1. Matériel nécèssaire: tools_fr.md
@@ -17,7 +18,8 @@ nav:
         #- 3. Retour à terre: landing.md
     
     - IV/ Collecte et gestion des données :
-        - 1. Correction des images: image-processing_fr.md
+        - 3. Collecte des images: collecting_pictures_fr.md
+        - 2. Correction des images: image-processing_fr.md
     
     - V/ Contribuer : 
         - 1. Editer cette documentation: edit-this-doc_fr.md
