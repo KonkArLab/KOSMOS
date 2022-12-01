@@ -15,7 +15,7 @@ société civile.
 La fabrication du KOSMOS au Konk Ar Lab est un formidable exemple d’intelligence
 collective. Bénévoles et scientifiques collaborent main dans la main afin de concevoir cet
 outil en s’assurant qu’il soit reproductible par tous, peu coûteux et scientifiquement
-viable, c’est à dire répondant au protocole scientifique déjà en vigueur pour l’observation
+viable, c’est à dire répondant aux exigences du protocole scientifique STAVIRO déjà validé pour l’observation
 et le suivi des écosystèmes côtiers.
 
 Ce sont ces trois enjeux qui ont motivé Dominique Pelletier, directrice de recherche
@@ -38,6 +38,5 @@ programme de sciences participatives visant à réunir plaisanciers et scientifi
 de l’utilisation de la caméra en mer, verra le jour en 2023. L’objectif est de permettre à tout
 un chacun de collecter des vidéos lors de sorties en mer et de les analyser. En offrant
 ainsi de nouvelles données aux scientifiques, les observateurs développent ou
-
 approfondissent leur connaissance du milieu côtier et offrent la possibilité de suivre son
 évolution sur le long terme.
