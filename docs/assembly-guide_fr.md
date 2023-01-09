@@ -35,7 +35,8 @@
 
 ​
 
-* Enfin, à l'aide d'une clé alen 2mm, visser la raspberry sur son support \(cf photo ci-dessous\). Veiller au sens, l'encoche de la structure S1 doit être à l'opposée des connecteurs USB de la Raspberry.
+* Enfin, à l'aide d'une clé alen 2mm, visser la raspberry sur son support \(cf photo ci-dessous\). Veiller au sens, l'encoche de la structure S1 doit être à l'opposée des connecteurs USB de la Raspberry. Disposer les rondelles entre la Raspberry Pi et les vis.
+
 
 ![AG1-6](pictures/assembly_guide/AG1-6.JPG)
 
@@ -47,17 +48,17 @@
 
 ​
 
-* Rassembler, le convertisseur 12v vers 5v, la Raspberry sur son support, 2 vis M3\*5mm et 2 colsons. 
+* Rassembler, le convertisseur 12V vers 5V, la Raspberry sur son support, l'ESC (contrôleur moteur brushless), 2 vis M3\*5mm et 2 colsons. 
 
 ![AG1-7](pictures/assembly_guide/AG1-7.JPG)
 
 ​
 
-* Visser avec les deux vis M3 le transformateur 12v vers 5v (Chuangruifa). Veiller à positionner les câbles vers l'intérieur de la platine S1.
+* Visser avec les deux vis M3 le transformateur 12V vers 5V (Chuangruifa). Veiller à positionner les câbles vers l'intérieur de la platine S1.
 
 ​
 
-* Installer l'ESC sous le convertisseur à l'aide des deux colsons. On veillera à positionner les câbles du BEC et d'alimentation du coté de l'encoche de S1. 
+* Installer l'ESC sous le convertisseur à l'aide des deux colsons. On veillera à positionner les câbles du BEC (3 fils sertis) et d'alimentation du coté de l'encoche de S1. 
 
 ![AG1-8](pictures/assembly_guide/AG1-8.JPG)
 
@@ -911,7 +912,35 @@ Une fois toutes les sous-parties assemblées il ne reste plus qu'à faire l'asse
 
 
 ### 4.2 Positionner des auto-collants
+Les autocollants sont importants sur KOSMOS, ils permettent, de marquer la version du système, de guider aux bons assemblages, au bon démarrage et marquer la compatibilité entre un tube et son réducteur (le moteur à l'habitude de tourner avec un ESC spécifique, intervertir avec un autre KOSMOS pourrait entrainer des erreurs). 
 
+On peut faire imprimer ces autocolants sur du vinyle à une société extérieur ou les fabriquer sois même au moyen d'une découpe vinyle ou plotter de découpe. 
+
+Découper les autocolants dans du vinyle en utilisant les fichiers vectoriels contenu dans l'archive hardware/stickers. 
+ - stickers_kosmos_name.svg : 4 fois en noir.
+ - stickers_number.svg : Modifier le fichier pour nommer votre KOSMOS comme vous le souhaitez. Découper cette vignette en 2 exemplaires.
+ - stickers_power_steps.svg : Une fois en blanc
+ - stickers_wire_indicators.svg : Une fois d'une couleur Une autre d'une autre couleur
+ 
+
+ - Sur la flange repérer quel connecteur cobalt 3 pin est destiné à recevoir le moteur (3 fils connectés à l'ESC), et quel connecteur est connecté à la carte électronique (ILS). 
+ - Utiliser un anneau autocollant d'une couleur différente pour chaque connecteur.
+![AG4-9](pictures/assembly_guide/AG4-9.JPG) 
+
+ - Utiliser les bandes autocollantes pour marquer les cales cobalts en veillant à ce que le câble du moteur porte la même couleur que le connecteur de cloison relié à l'ESC. Inversement pour le capteur ILS. 
+![AG4-10](pictures/assembly_guide/AG4-10.JPG) 
+
+ - Placer 2 petits triangle blanc l'un sur la tranche du hublot et l'autre sur le corps du tube en PMMA. Ce marqueur permettra de fermer le tube dans le bon sens lorsque l'on démontera la flange du hublot. On pourra utiliser deux autres autocollants triangles pour s'assurer que le tube sera bien horizontale lorsque celui-ci sera placé sur le réducteur (caméra bien horizontale).
+![AG4-11](pictures/assembly_guide/AG4-11.JPG) 
+
+ - Placer des autocollants KOSMOS et numéro de version Sur le tube (avant arrière) et sur les deux flancs (gauche / droite) du réducteur. 
+![AG4-12](pictures/assembly_guide/AG4-12.JPG)
+![AG4-13](pictures/assembly_guide/AG4-13.JPG)
+ 
+ - Placer un autocollant de numéro d'instrument sur un coté du réducteur et un autre correspondant à la même référence sur le tube. 
+![AG4-14](pictures/assembly_guide/AG4-14.JPG)
+
+ 
 
 
 ### 4.3 Solidariser le tube sur le réducteur

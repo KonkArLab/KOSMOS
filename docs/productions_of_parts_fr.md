@@ -6,7 +6,9 @@ Imprimer toutes les pièces nécessaires en veillant à respecter les recommanda
 
 **1.1 Pour l'intérieur du caisson :**
 
-Il n'y a pas d'obligation quand au matériau d'impression de ces pièces. Si ce n'est que nous n'avons testés que le PET. Le PLA parait à écarter tant parfois il arrive au KOSMOS d'être stocké au soleil. La température si elle atteint 60° pourrait déformer des pièces en PLA. Le remplissage pourra être alvéolé de manière à économiser de la matière. Nous utilisons régulièrement un remplissage à 20% et une résolution de 0,2mm.
+Il n'y a pas d'obligation quand au matériau d'impression de ces pièces. Le PET est le matériau que nous avons utilisé du fait qu’il est très facilement accessible dans le commerce. Le PLA parait à écarter tant parfois il arrive au KOSMOS d'être stocké au soleil. La température si elle atteint 60° pourrait déformer des pièces en PLA. 
+
+Le remplissage pourra être alvéolé de manière à économiser de la matière. Nous utilisons régulièrement un remplissage à 20% et une résolution de 0,2mm.
 
 |    Visuel    |Référence|Quantité|Dénomination|Usage|Conseils d'impression|
 |------------------------------------|------|------|-----------------|---------------------|---------------------|
@@ -44,7 +46,7 @@ _Note  : Toutes les pièces devront être nettoyées de leurs supports et au cou
 
 ## 2/ Découpe des pièces planes au laser
 
-Le KOSMOS 2.3 est composé en plus de pièces imprimées en 3D et de visserie Inox de pièces à découper au laser dans des plaques de PMMA et de POM. Ainsi on peut immerger ces pièces dans l'eau sans craindre la pression. Les pièces de l'intérieur du caisson peuvent être aussi imprimées en 3D.  [Les trois fichiers vectoriels évoqués ci-dessous sont disponibles ici. ](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/Laser_cut/)
+Le KOSMOS est composé en plus de pièces imprimées en 3D et de visserie Inox de pièces à découper au laser dans des plaques de PMMA et de POM. Ainsi on peut immerger ces pièces dans l'eau sans craindre la pression. Les pièces de l'intérieur du caisson peuvent être aussi imprimées en 3D.  [Les trois fichiers vectoriels évoqués ci-dessous sont disponibles ici. ](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/Laser_cut/)
 
 ​
 
