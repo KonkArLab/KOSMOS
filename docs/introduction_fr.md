@@ -10,6 +10,7 @@ Si vous êtes un utilisateur, pour suivre simplement la fabrication nous vous re
 
 ## 2/ Prérequis informatiques
 Toute la documentation du KOSMOS est réalisé dès que cela est possible avec des outils numériques et informatiques libres. Pour pouvoir suivre et éditer cette documentation, il est nécéssaire d'avoir à disposition :
+
  - Pour suivre les installations et la gestion des données : Un ordinateur sur un OS Unix (Linux, Ubuntu...) ;
  - Pour utiliser la nomenclature : [Libre office](https://doc.ubuntu-fr.org/libreoffice) ;
  - Pour progammer la découpe des engrenages avec la CNC : Se créer un compte sur le logiciel en ligne [Easel](https://www.inventables.com/technologies/easel) ;

@@ -33,9 +33,4 @@ mécaniques que biologiques ou écologiques.
 
 Découvrir, partager, sensibiliser sont les thèmes centraux du projet KOSMOS. Un
 programme de sciences participatives visant à réunir plaisanciers et scientifiques autour
-de l’utilisation de la caméra en mer, verra le jour en 2023. L’objectif est de permettre à tout
-un chacun de collecter des vidéos lors de sorties en mer et de les analyser. En offrant
-ainsi de nouvelles données aux scientifiques, les observateurs développent ou
-
-approfondissent leur connaissances du milieu côtier et offrent la possibilité de suivre son
-évolution sur le long terme.
+de l’utilisation de la caméra en mer, verra le jour en 2023. L’objectif est de permettre à tout un chacun de collecter des vidéos lors de sorties en mer et de les analyser. En offrant ainsi de nouvelles données aux scientifiques, les observateurs développent ou approfondissent leur connaissances du milieu côtier et offrent la possibilité de suivre son évolution sur le long terme.
