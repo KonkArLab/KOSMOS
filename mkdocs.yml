@@ -21,8 +21,9 @@ nav:
         - 3. Collecte des images: collecting_pictures_fr.md
         - 2. Correction des images: image-processing_fr.md
     
-    - V/ Contribuer : 
+    - V/ Modifier / Contribuer : 
         - 1. Editer cette documentation: edit-this-doc_fr.md
+        - 2. Détails des fichiers 3D modifiables: modify_3Dmodels.md
         
     - A propos :
         - Licence : license.md
