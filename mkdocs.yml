@@ -7,7 +7,7 @@ nav:
         - 2. Fabrications des piéces: productions_of_parts_fr.md
         - 3. Guide d'assemblage: assembly-guide_fr.md
         - 4. Installation du software: software_install_fr.md
-        - 5. Calibration du temps de pause: calibrate_fr.md
+        - 5. Etalonnage du temps de pause: calibrate_fr.md
         - Annexes:
           - Fabrication d'un PCB: make_a_PCB_fr.md 
           - Commander un PCB à un prestataire spécialisé: pcb_ordering.md
