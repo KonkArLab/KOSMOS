@@ -100,6 +100,7 @@ Ces pièces sont les plus délicates à produire. Il est nécessaire de de s'arm
 
 
 ## 3/ Fabrication du PCB
+### 3.1 Stratégie pour le circuit
 
 La fabrication du KOSMOS 3.0 requiert un circuit imprimé (ou PCB). Ce dernier permettra de relier à la carte raspberry les composants et capteurs utiles au fonctionnement. On y retrouvera notamment :
  - Des résistances pour les LED mais aussi pour l'I2C,
@@ -116,3 +117,31 @@ La fabrication du KOSMOS 3.0 requiert un circuit imprimé (ou PCB). Ce dernier p
 | **Commande à un prestataire spécialisé** |  - Qualité maximale  - Economie de temps à la fabrication et au perçage |  - Obligation de commande groupée (5 ou 10 min)  - Pas de droit à l'erreur             |  - Environ 150 à 200€ pour une dizaine de circuits |
 | **Commande au Konk Ar Lab**              |  - Le circuit est issu d'une série testée et validée par l'équipe KOSMOS  |  - Pas de disponibilité certaine                                                      |  - Environ 20€ par circuit                         |
 
+### 3.2 Soudure des composants
+ - Souder deux résistances 100ohm sur R1 et R2
+ - Souder 6 résistances de 1kohm sur R3,R4,R5,R6,R7,R8
+ 
+![POP3-1](pictures/productions_of_parts/POP3-1.jpg)
+
+ - Utiliser les chutes de pattes de résistances pour fabriquer les six ponts de masses.
+
+![POP3-2](pictures/productions_of_parts/POP3-2.jpg)
+
+ - Souder une LED Rouge sur D1 et une LED verte su D2. Attention à la polarité que l'on peut retrouver avec la forme de la LED.
+
+
+ - Souder trois ils sur SW1, SW2 et SW3 ;
+
+
+![POP3-3](pictures/productions_of_parts/POP3-3.jpg)
+
+
+ - Souder le relai, le témoin de charge et le RTC aux emplacements prédéfinis ; 
+
+![POP3-4](pictures/productions_of_parts/POP3-4.jpg)
+
+ - Souder 40 broches dupponts ;
+
+![POP3-5](pictures/productions_of_parts/POP3-5.jpg)
+ 
+ 
