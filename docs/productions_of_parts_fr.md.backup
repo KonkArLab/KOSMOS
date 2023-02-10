@@ -30,7 +30,7 @@ Nous recommandons un taux de remplissage des pièces qui ne soit pas inférieur 
 |    Visuel    |Référence|Quantité|Dénomination|Usage|Conseils d'impression|
 |------------------------------------|------|------|-----------------|---------------------|---------------------|
 |![POP1-2-R1](pictures/productions_of_parts/POP1-2-R1.png)|[R1](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R1_KOSMOS_V3-0.stl)|2|Ber|Supporte le tube étanche. Il permet avec R1.2 de soutenir le tube|Positionner un générateur de support pour supporter la partie en porte à faux|
-|![POP1-2-R1-2](pictures/productions_of_parts/POP1-2-R1-2.png)|[R1.2](https://github.com/KonkArLab/KOSMOS/blob/main/hardware/3Dprint_files/R1.2_KOSMOS_V3-0.stl)|2|Fermeture du Ber|Levier pouvant se refermer sur R1 pour bloquer le tube étanche au moyen de vis.|Positionner un générateur de support pour supporter la partie en porte à faux|
+|![POP1-2-R1-2](pictures/productions_of_parts/POP1-2-R1-2.png)|[R1.2](https://github.com/KonkArLab/KOSMOS/blob/main/hardware/3Dprint_files/R1-2_KOSMOS_V3-0.stl)|2|Fermeture du Ber|Levier pouvant se refermer sur R1 pour bloquer le tube étanche au moyen de vis.|Positionner un générateur de support pour supporter la partie en porte à faux|
 |![POP1-2-R2](pictures/productions_of_parts/POP1-2-R2.png)|[R2](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R2_KOSMOS_V3-0.stl)|1|Support du capteur de positionnement|Réceptacle du capteur de positionnement|/|
 |![POP1-2-R3](pictures/productions_of_parts/POP1-2-R3.png)|[R3](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R3_KOSMOS_V3-0.stl)|1|Embout de croix de Malte|Cette pièce reprend l'effort de la croix de Malte pour la retransmettre à l'arbre qui lui est solidaire au trèpied et donc au sol|Utiliser du support pour maintenir la périphérie en porte à faux ainsi que les alésages.|
 |![POP1-2-R4](pictures/productions_of_parts/POP1-2-R4.png)|[R4](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R4_KOSMOS_V3-0.stl)|1|Entretoise du moteur|Le moteur sera positionné dans ce tube. La hauteur de ce dernier peut-être à modifier pour faire coïncider parfaitement l'alignement du pignon moteur et du premier pignon méné.|/|
@@ -144,4 +144,12 @@ La fabrication du KOSMOS 3.0 requiert un circuit imprimé (ou PCB). Ce dernier p
 
 ![POP3-5](pictures/productions_of_parts/POP3-5.jpg)
  
+ - Souder deux connecteurs JST Male 2 broches sur J2 et J4 en veillant à respecter le sens visible sur les photos ci dessous. 
+ - Souder un connecteur JST Male 4 broches  sur J3
+ - Souder un connecteur JST Male 5 broches  sur J5
+
+![POP3-6](pictures/productions_of_parts/POP3-6.jpg)
+
+ - Souder une broches de 3 pins dupont coudés sur J6
  
+![POP3-7](pictures/productions_of_parts/POP3-7.jpg)

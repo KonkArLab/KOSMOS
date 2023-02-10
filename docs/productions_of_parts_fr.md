@@ -144,4 +144,12 @@ La fabrication du KOSMOS 3.0 requiert un circuit imprimé (ou PCB). Ce dernier p
 
 ![POP3-5](pictures/productions_of_parts/POP3-5.jpg)
  
+ - Souder deux connecteurs JST Male 2 broches sur J2 et J4 en veillant à respecter le sens visible sur les photos ci dessous. 
+ - Souder un connecteur JST Male 4 broches  sur J3
+ - Souder un connecteur JST Male 5 broches  sur J5
+
+![POP3-6](pictures/productions_of_parts/POP3-6.jpg)
+
+ - Souder une broches de 3 pins dupont coudés sur J6
  
+![POP3-7](pictures/productions_of_parts/POP3-7.jpg)
