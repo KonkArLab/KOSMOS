@@ -5,7 +5,7 @@
 
 ### 1.1 Assemblage de la caméra :
 
-* Rassembler, la Picam HQ, sa nappe \(câble plat\), la structure caméra I3, 4 vis M2,5\*5mm et 4 rondelles M2,5.
+* Rassembler, la Picam HQ, sa nappe \(câble plat\), la structure caméra I3, 4 vis M2,5\*10mm et 4 rondelles M2,5.
 
 ![AG1-1](pictures/assembly_guide/AG1-1.JPG)
 
