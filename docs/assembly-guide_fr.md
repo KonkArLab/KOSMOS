@@ -26,11 +26,11 @@
 
 * Visser avec les deux vis M3 le transformateur 12V vers 5V (Chuangruifa). Veiller à positionner les câbles vers l'intérieur de la platine S1.
 
-​![AG1-4bis](pictures/assembly_guide/AG1-4bis.JPG)
+​![AG1-4bis](pictures/assembly_guide/AG1-4bis.jpg)
 
 * Installer l'ESC sous le convertisseur à l'aide des deux colsons. On veillera à positionner les câbles du BEC (2 fils sertis) et d'alimentation du coté de l'encoche de S1. 
 
-![AG1-5bis](pictures/assembly_guide/AG1-5bis.JPG)
+![AG1-5bis](pictures/assembly_guide/AG1-5bis.jpg)
 
 
 ​
@@ -40,7 +40,7 @@
 
 * Rassembler, le support de la Raspberry, structure S1, la Raspberry Pi 4 modèle B, 4 entretoises en laiton M2,5\*10, 4 vis M2,5 6mm et 4 rondelles M2,5.
 
-![AG1-6bis](pictures/assembly_guide/AG1-6bis.JPG)
+![AG1-6bis](pictures/assembly_guide/AG1-6bis.jpg)
 
 ​
 
