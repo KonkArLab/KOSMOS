@@ -17,9 +17,27 @@
 
 ​
 
+### 1.2 Installation du convertisseur et de l'ESC :
+
 ​
 
-### 1.2 Assemblage de la Raspberry :
+* Rassembler, le convertisseur 12V vers 5V, la Raspberry sur son support, l'ESC (contrôleur moteur brushless), 2 vis M3\*5mm et 2 colsons. 
+
+![AG1-7](pictures/assembly_guide/AG1-7.JPG)
+
+​
+
+* Visser avec les deux vis M3 le transformateur 12V vers 5V (Chuangruifa). Veiller à positionner les câbles vers l'intérieur de la platine S1.
+
+​
+
+* Installer l'ESC sous le convertisseur à l'aide des deux colsons. On veillera à positionner les câbles du BEC (3 fils sertis) et d'alimentation du coté de l'encoche de S1. 
+
+![AG1-8](pictures/assembly_guide/AG1-8.JPG)
+
+
+​
+### 1.3 Assemblage de la Raspberry :
 
 ​
 
@@ -39,30 +57,6 @@
 
 
 ![AG1-6](pictures/assembly_guide/AG1-6.JPG)
-
-​
-
-​
-
-### 1.3 Installation du convertisseur et de l'ESC :
-
-​
-
-* Rassembler, le convertisseur 12V vers 5V, la Raspberry sur son support, l'ESC (contrôleur moteur brushless), 2 vis M3\*5mm et 2 colsons. 
-
-![AG1-7](pictures/assembly_guide/AG1-7.JPG)
-
-​
-
-* Visser avec les deux vis M3 le transformateur 12V vers 5V (Chuangruifa). Veiller à positionner les câbles vers l'intérieur de la platine S1.
-
-​
-
-* Installer l'ESC sous le convertisseur à l'aide des deux colsons. On veillera à positionner les câbles du BEC (3 fils sertis) et d'alimentation du coté de l'encoche de S1. 
-
-![AG1-8](pictures/assembly_guide/AG1-8.JPG)
-
-​
 
 ​
 
