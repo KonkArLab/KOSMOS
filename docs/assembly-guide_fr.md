@@ -21,19 +21,16 @@
 
 ​
 
-* Rassembler, le convertisseur 12V vers 5V, la Raspberry sur son support, l'ESC (contrôleur moteur brushless), 2 vis M3\*5mm et 2 colsons. 
+* Rassembler, le convertisseur 12V vers 5V, la structure S1, l'ESC (contrôleur moteur brushless), 2 vis M3\*5mm et 2 colsons. 
 
-![AG1-7](pictures/assembly_guide/AG1-7.JPG)
-
-​
 
 * Visser avec les deux vis M3 le transformateur 12V vers 5V (Chuangruifa). Veiller à positionner les câbles vers l'intérieur de la platine S1.
 
-​
+​![AG1-4bis](pictures/assembly_guide/AG1-4bis.JPG)
 
-* Installer l'ESC sous le convertisseur à l'aide des deux colsons. On veillera à positionner les câbles du BEC (3 fils sertis) et d'alimentation du coté de l'encoche de S1. 
+* Installer l'ESC sous le convertisseur à l'aide des deux colsons. On veillera à positionner les câbles du BEC (2 fils sertis) et d'alimentation du coté de l'encoche de S1. 
 
-![AG1-8](pictures/assembly_guide/AG1-8.JPG)
+![AG1-5bis](pictures/assembly_guide/AG1-5bis.JPG)
 
 
 ​
@@ -43,7 +40,7 @@
 
 * Rassembler, le support de la Raspberry, structure S1, la Raspberry Pi 4 modèle B, 4 entretoises en laiton M2,5\*10, 4 vis M2,5 6mm et 4 rondelles M2,5.
 
-![AG1-4](pictures/assembly_guide/AG1-4.JPG)
+![AG1-6bis](pictures/assembly_guide/AG1-6bis.JPG)
 
 ​
 
