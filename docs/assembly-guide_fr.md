@@ -21,14 +21,14 @@
 
 ​
 
-* Rassembler, le convertisseur 12V vers 5V, la structure S1, l'ESC (contrôleur moteur brushless), 2 vis M3\*5mm et 2 colsons. 
+* Rassembler, le convertisseur 12V vers 5V, la structure S1, l'ESC (contrôleur moteur brushless), 2 vis M3\*8mm et 2 colsons. 
 
 
 * Visser avec les deux vis M3 le transformateur 12V vers 5V (Chuangruifa). Veiller à positionner les câbles vers l'intérieur de la platine S1.
 
 ​![AG1-4bis](pictures/assembly_guide/AG1-4bis.jpg)
 
-* Installer l'ESC sous le convertisseur à l'aide des deux colsons. On veillera à positionner les câbles du BEC (2 fils sertis) et d'alimentation du coté de l'encoche de S1. 
+* Installer l'ESC sous le convertisseur à l'aide des deux colsons. On veillera à positionner les câbles du BEC (2 fils sertis) et d'alimentation du coté de l'encoche de S1. Placer l'ESC avec les écritures vers la structure et les composants à l'opposé. L'ESC ne peut pas toucher la structure donc serrer bien les colsons à la structure pour que l'ESC ne puisse pas bouger.
 
 ![AG1-5bis](pictures/assembly_guide/AG1-5bis.jpg)
 
