@@ -83,9 +83,16 @@
 
 ​
 
-* Visser la carte Raspberry pi 4 et son support S1 sur la structure I1 à l'aide de deux vis M3\*15mm en haut (Côté opposé aux connecteurs USB) et deux vis M3\*10mm en bas (côté des connecteurs USB). Attention au sens de la Raspberry \(cf photo ci-dessous\).
+* Visser la carte Raspberry pi 4 et son support S1 sur la structure I1 à l'aide de deux vis M3\*15mm en haut (Côté opposé aux connecteurs USB) et deux vis M3\*10mm en bas (côté des connecteurs USB). Attention au sens de la Raspberry \(cf photo ci-dessous\). 
+
 
 ![AG1-12](pictures/assembly_guide/AG1-12.JPG)
+
+Le schèma suivant représente le circuit qui sera détaillé dans la partie 1.6. 
+
+
+![AG1-21](pictures/assembly_guide/AG1-21.JPG)
+
 
 ​
 
@@ -142,11 +149,7 @@
 
 ### 1.6 Câblages interne
 
-Les étapes suivantes nécessitent des compétences en soudure électronique. Vous pouvez retrouver des conseils en annexes mais n'oubliez pas de bien recouvrir les soudures de gaines thermos-rétractable pour protéger des feux contacts. Il faut souvent veiller à insérer un morceau de gaine avant de souder. Le schèma suivant représente le circuit qui va être détaillé dans la partie 1.6. 
-
-//Ici le schéma de montage du circuit d'alim//
-![AG1-21](pictures/assembly_guide/AG1-21.JPG)
-
+Les étapes suivantes nécessitent des compétences en soudure électronique. Vous pouvez retrouver des conseils en annexes mais n'oubliez pas de bien recouvrir les soudures de gaines thermos-rétractable pour protéger des feux contacts. Il faut souvent veiller à insérer un morceau de gaine avant de souder.
 
  - Visser au moyen de 4 vis M3* 6mm, le PCB sur le dessus du KOSMOS à l'opposé de l'emplacement de la batterie. Connecter la nappe de 40 broches sur le connecteur dupont de 40 broches et l'autre extrémité sur les GPIO de la Raspberry. Attention à placer les deux extrémités de la nappe dans le même sens. Les deux connecteurs sont parallèles. 
 ![AG1-22](pictures/assembly_guide/AG1-22.JPG)
