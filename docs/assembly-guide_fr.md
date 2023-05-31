@@ -48,7 +48,7 @@
 
 ​
 
-* Rassembler, le convertisseur 12V vers 5V, la Raspberry sur son support, l'ESC (contrôleur moteur brushless), 2 vis M3\*5mm et 2 colsons. 
+* Rassembler, le convertisseur 12V vers 5V, la Raspberry sur son support, l'ESC (contrôleur moteur brushless), 2 vis M3\*8mm et 2 colsons. 
 
 ![AG1-7](pictures/assembly_guide/AG1-7.JPG)
 
@@ -70,7 +70,7 @@
 
 ​
 
-* Rassembler la Raspberry et son support, la caméra et sa structure, la structure I1 et I2, 8 ecrous M3, 6 vis M3\*10mm, et 2 vis M3\*15mm, 2 vis M4\*30mm, 2 écrous M4.
+* Rassembler la Raspberry et son support, la caméra et sa structure, la structure I1 et I2, 8 ecrous M3, 6 vis M3\*10mm, et 2 vis M3\*14mm, 2 vis M4\*30mm, 2 écrous M4.
 
 ![AG1-10](pictures/assembly_guide/AG1-10.JPG)
 ​
@@ -83,7 +83,7 @@
 
 ​
 
-* Visser la carte Raspberry pi 4 et son support S1 sur la structure I1 à l'aide de deux vis M3\*15mm en haut (Côté opposé aux connecteurs USB) et deux vis M3\*10mm en bas (côté des connecteurs USB). Attention au sens de la Raspberry \(cf photo ci-dessous\). 
+* Visser la carte Raspberry pi 4 et son support S1 sur la structure I1 à l'aide de deux vis M3\*14mm en haut (Côté opposé aux connecteurs USB) et deux vis M3\*10mm en bas (côté des connecteurs USB). Attention au sens de la Raspberry \(cf photo ci-dessous\). 
 
 
 ![AG1-12](pictures/assembly_guide/AG1-12.JPG)
@@ -151,7 +151,7 @@ Le schèma suivant représente le circuit qui sera détaillé dans la partie 1.6
 
 Les étapes suivantes nécessitent des compétences en soudure électronique. Vous pouvez retrouver des conseils en annexes mais n'oubliez pas de bien recouvrir les soudures de gaines thermos-rétractable pour protéger des feux contacts. Il faut souvent veiller à insérer un morceau de gaine avant de souder.
 
- - Visser au moyen de 4 vis M3* 6mm, le PCB sur le dessus du KOSMOS à l'opposé de l'emplacement de la batterie. Connecter la nappe de 40 broches sur le connecteur dupont de 40 broches et l'autre extrémité sur les GPIO de la Raspberry. Attention à placer les deux extrémités de la nappe dans le même sens. Les deux connecteurs sont parallèles. 
+ - Visser au moyen de 4 vis M2.5* 6mm, le PCB sur le dessus du KOSMOS à l'opposé de l'emplacement de la batterie. Connecter la nappe de 40 broches sur le connecteur dupont de 40 broches et l'autre extrémité sur les GPIO de la Raspberry. Attention à placer les deux extrémités de la nappe dans le même sens. Les deux connecteurs sont parallèles. 
 ![AG1-22](pictures/assembly_guide/AG1-22.JPG)
 
 
@@ -416,7 +416,7 @@ Le détrompeur est une pièce bleu permettant d'insérer la caméra dans un sens
 
 ### 2.7 connectiques
 
- - Souder un connecteur XT60 femelle sur le bout des deux fils provenant du bouton d'allumage étanche. 
+ - Souder un connecteur XT60 mâle sur le bout des deux fils provenant du bouton d'allumage étanche. 
 
 ![AG2-26](pictures/assembly_guide/AG2-26.JPG) 
 
