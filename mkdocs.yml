@@ -1,4 +1,7 @@
 site_name: KOSMOS
+repo_url: https://github.com/konkarlab/KOSMOS
+edit_uri: -/edit/main/docs/
+
 nav:
     - Introduction: introduction_fr.md
     - I/ Sourcer: sourcing_fr.md
@@ -36,12 +39,6 @@ theme:
 
 plugins:
   - search
-  # - with-pdf ne marche pas pour le moment
-  - i18n:
-      default_language: fr
-      languages:
-        fr: Français
-        en: English
 
 markdown_extensions:
     - smarty
