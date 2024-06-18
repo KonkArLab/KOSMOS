@@ -1,49 +1,128 @@
 site_name: KOSMOS
 repo_url: https://github.com/konkarlab/KOSMOS
-edit_uri: -/edit/main/docs/
+#edit_uri: -/edit/main/docs/
 
 nav:
-    - Introduction: introduction_fr.md
-    - I/ Sourcer: sourcing_fr.md
-    - II/ Fabrication :
-        - 1. Matériel nécèssaire: tools_fr.md
-        - 2. Fabrications des piéces: productions_of_parts_fr.md
-        - 3. Guide d'assemblage: assembly-guide_fr.md
-        - 4. Installation du software: software_install_fr.md
-        - 5. Etalonnage du temps de pause: calibrate_fr.md
-        - Annexes:
-          - Fabrication d'un PCB: make_a_PCB_fr.md 
-          - Commander un PCB à un prestataire spécialisé: pcb_ordering.md
-          - Upgrader au mode programmable: micado_upgrade_fr.md
+  - Home: 
+      - 'Le Projet': index.md
+      - 'La documentation': introduction_fr.md
+      - 'Editer la documentation': edit-this-doc_fr.md        
+      - 'Licence': license.md
+  - Kosmos: 
+      - 01_FABRICATION:
+          - 'Matériel et Sourcing': doc/kosmos/files/05_sourcing/sourcing_fr.md
+          - 'Outils': doc/kosmos/files/01_fabrication/tools_fr.md
+          - 'Impression des pièces 3D': doc/kosmos/files/01_fabrication/productions_of_parts_fr.md
+          - 'Modification des pièces 3D': doc/kosmos/files/01_fabrication/modify_3Dmodels.md
+          - 'Fabrication de PCB': doc/kosmos/files/01_fabrication/make_a_PCB_fr.md
+          - 'Commande des PCB à des prestataires': doc/kosmos/files/01_fabrication/pcb_ordering.md
+      - 02_ASSEMBLAGE: 
+          - 'Assemblage': doc/kosmos/files/01_fabrication/assembly-guide_fr.md
+      - 03_RECOLTE_DATA: 
+          - 'Calibration': doc/kosmos/files/03_deployment/calibrate_fr.md
+          - 'Collection des vidéos': doc/kosmos/files/02_data/collecting_pictures_fr.md
+          - 'Correction des images': doc/kosmos/files/02_data/image-processing_fr.md
+      - 04_DIFFERENT_MODE:
+          - 'Micado': doc/kosmos/files/04_mode_fonctionnement/micado_upgrade_fr.md
+      - 05_USAGE_EN_MER:
+          - 'Check-list': doc/kosmos/files/03_deployment/check-list_fr.md
+          - 'Déploiement': doc/kosmos/files/03_deployment/deployment_fr.md
+  - µKosmos:
+      - 01_FABRICATION:
+          - 'Matériel, Outil et impression 3D': hardware/micro_kosmos/01_materiel_general.md
+         #tableau materiel "local"
+      - 02_ASSEMBLAGE: 
+          - 'Assemblage': doc/micro_kosmos/files/01_fabrication/assembly-guide_fr.md
+      - 03_RECOLTE_DATA: 
+          - 'Déploiement': doc/micro_kosmos/files/03_deployment/deploiement_mkosmos.md
+      #- 04_DIFFERENT_MODE:
+          #- 'Paravane': doc/kosmos/files/04_mode_fonctionnement/micado_upgrade_fr.md
 
-    - III/ Usage en mer :
-        - 1. Check-list: check-list_fr.md
-        #- 2. Guide de déploiement: deployment.md
-        #- 3. Retour à terre: landing.md
-    
-    - IV/ Collecte et gestion des données :
-        - 3. Collecte des images: collecting_pictures_fr.md
-        - 2. Correction des images: image-processing_fr.md
-    
-    - V/ Modifier / Contribuer : 
-        - 1. Editer cette documentation: edit-this-doc_fr.md
-        - 2. Détails des fichiers 3D modifiables: modify_3Dmodels.md
-        
-    - A propos :
-        - Licence : license.md
         
 theme:
-    name: material
-    palette:
-      primary: blue
+  name: material
+  features:
+    - content.code.annotation
+    - content.code.copy
+    - content.tabs.link
+    #- navigation.indexes
+    - navigation.path
+    #- navigation.sections
+    - navigation.expand
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.suggest
+    
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: indigo
+      accent: light-blue 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: indigo
+      accent: light-blue 
+  icon:
+    admonition:
+      note: material/pencil-circle
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: material/fire
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+
 
 plugins:
   - search
+  - glightbox
+
+extra:
+  version:
+    provider: mike
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/konkarlab/KOSMOS
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/kosmos.fish/
+
 
 markdown_extensions:
-    - smarty
-    - sane_lists
-    - admonition
-    - toc:
-        permalink: true
+  - smarty
+  - sane_lists
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
