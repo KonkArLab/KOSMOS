@@ -3,7 +3,7 @@ icon:material/cube
 
 Imprimer toutes les pièces nécessaires en veillant à respecter les recommandations de remplissage des pièces extérieurs (cf. chapitre 1.2). [Les fichiers STL sont disponibles ici](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/) .
 
-![POP1-0.png](/../doc/kosmos/pictures/productions_of_parts/POP1-0.png)
+![POP1-0.png](../../pictures/productions_of_parts/POP1-0.png)
 
 **1.1 Pour l'intérieur du caisson :**
 
@@ -13,10 +13,10 @@ Le remplissage pourra être alvéolé de manière à économiser de la matière.
 
 |    Visuel    |Référence|Quantité|Dénomination|Usage|Conseils d'impression|
 |------------------------------------|------|------|-----------------|---------------------|---------------------|
-|![POP1-1-I1](/../doc/kosmos/pictures/productions_of_parts/POP1-1-I1.png)|[I1](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I1_KOSMOS_V3-0.stl)|1|Section de la raspberry|Cette pièce est la section qui s'insérera dans le tube étanche, c'est le support de la carte raspberry et de divers autres composants.|Positionner des générateurs de supports pour supporter la partie en porte à faux|
-|![POP1-1-I2](/../doc/kosmos/pictures/productions_of_parts/POP1-1-I2.png)|[I2](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I2_KOSMOS_V3-0.stl)|1|Section batterie|I2 est la section qui va faire le lien entre la structure Raspberry et la plaque sur laquelle va se positionner les batteries|/|
-|![POP1-1-I3](/../doc/kosmos/pictures/productions_of_parts/POP1-1-I3.png)|[I3](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I3_KOSMOS_V3-0.stl)|1|Section de support de la caméra|Cette section s'insère dans le tube et vient admettre la caméra qui pour s'y visser|/|
-|![POP1-1-I4](/../doc/kosmos/pictures/productions_of_parts/POP1-1-I4.png)|[I4](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I4_KOSMOS_V3-0.stl)|1|Détrompeur|Fixé à la flange du hublot, il permettra de contraindre les structures internes en rotation et d'éviter que le KOSMOS ne puisse filmer de travers.|/|
+|![POP1-1-I1](../../pictures/productions_of_parts/POP1-1-I1.png)|[I1](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I1_KOSMOS_V3-0.stl)|1|Section de la raspberry|Cette pièce est la section qui s'insérera dans le tube étanche, c'est le support de la carte raspberry et de divers autres composants.|Positionner des générateurs de supports pour supporter la partie en porte à faux|
+|![POP1-1-I2](../../pictures/productions_of_parts/POP1-1-I2.png)|[I2](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I2_KOSMOS_V3-0.stl)|1|Section batterie|I2 est la section qui va faire le lien entre la structure Raspberry et la plaque sur laquelle va se positionner les batteries|/|
+|![POP1-1-I3](../../pictures/productions_of_parts/POP1-1-I3.png)|[I3](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I3_KOSMOS_V3-0.stl)|1|Section de support de la caméra|Cette section s'insère dans le tube et vient admettre la caméra qui pour s'y visser|/|
+|![POP1-1-I4](../../pictures/productions_of_parts/POP1-1-I4.png)|[I4](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/I4_KOSMOS_V3-0.stl)|1|Détrompeur|Fixé à la flange du hublot, il permettra de contraindre les structures internes en rotation et d'éviter que le KOSMOS ne puisse filmer de travers.|/|
 
 ​
 
@@ -30,17 +30,17 @@ Nous recommandons un taux de remplissage des pièces qui ne soit pas inférieur 
 
 |    Visuel    |Référence|Quantité|Dénomination|Usage|Conseils d'impression|
 |------------------------------------|------|------|-----------------|---------------------|---------------------|
-|![POP1-2-R1](/../doc/kosmos/pictures/productions_of_parts/POP1-2-R1.png)|[R1](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R1_KOSMOS_V3-0.stl)|2|Ber|Supporte le tube étanche. Il permet avec R1.2 de soutenir le tube|Positionner un générateur de support pour supporter la partie en porte à faux|
-|![POP1-2-R1-2](/../doc/kosmos/pictures/productions_of_parts/POP1-2-R1-2.png)|[R1.2](https://github.com/KonkArLab/KOSMOS/blob/main/hardware/3Dprint_files/R1-2_KOSMOS_V3-0.stl)|2|Fermeture du Ber|Levier pouvant se refermer sur R1 pour bloquer le tube étanche au moyen de vis.|Positionner un générateur de support pour supporter la partie en porte à faux|
-|![POP1-2-R2](/../doc/kosmos/pictures/productions_of_parts/POP1-2-R2.png)|[R2](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R2_KOSMOS_V3-0.stl)|1|Support du capteur de positionnement|Réceptacle du capteur de positionnement|/|
-|![POP1-2-R3](/../doc/kosmos/pictures/productions_of_parts/POP1-2-R3.png)|[R3](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R3_KOSMOS_V3-0.stl)|1|Embout de croix de Malte|Cette pièce reprend l'effort de la croix de Malte pour la retransmettre à l'arbre qui lui est solidaire au trèpied et donc au sol|Utiliser du support pour maintenir la périphérie en porte à faux ainsi que les alésages.|
-|![POP1-2-R4](/../doc/kosmos/pictures/productions_of_parts/POP1-2-R4.png)|[R4](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R4_KOSMOS_V3-0.stl)|1|Entretoise du moteur|Le moteur sera positionné dans ce tube. La hauteur de ce dernier peut-être à modifier pour faire coïncider parfaitement l'alignement du pignon moteur et du premier pignon méné.|/|
-|![POP1-2-R5](/../doc/kosmos/pictures/productions_of_parts/POP1-2-R5.png)|[R5](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R5_KOSMOS_V3-0.stl)|1|Bague d'arbre secondaire|R5 permet l'assemblage de l'arbre secondaire (contenant la croix de Malte) avec la boite du réducteur. Elle reprend le serrage de la croix de Malte sans contraindre le reste des pignons|/|
-|![POP1-2-R6](/../doc/kosmos/pictures/productions_of_parts/POP1-2-R6.png)|[R6](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R6_KOSMOS_V3-0.stl)|1|Entretoise d'abre primaire|Cette rondelle permet de contraindre les pignons de l'arbre primaire en translation. Sa hauteur doit être ajustée pour ne pas en empécher la rotation libre.|/|
-|![POP1-2-R7](/../doc/kosmos/pictures/productions_of_parts/POP1-2-R7.png)|[R7](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R7_KOSMOS_V3-0.stl)|1|Raccord de connectiques étanches du moteur|R7 est l'emplacement où l'on va connecter les câbles du moteur au câble noir cobalt. L'étanchéité sera effectuée en coulant de la résine dans le contenant.|/|
-|![POP1-2-R7-2](/../doc/kosmos/pictures/productions_of_parts/POP1-2-R7-2.png)|[R7.2](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R7-2_KOSMOS_V3-0.stl)|1|Couvercle pour le raccord de connectiques étanches du moteur|Permet de fermer R7|/|
-|![POP1-2-R8](/../doc/kosmos/pictures/productions_of_parts/POP1-2-R8.png)|[R8](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R8_KOSMOS_V3-0.stl)|1|Raccord de connectiques étanches du capteur de positionnement|R8 est l'emplacement où l'on va connecter les câbles du capteur ILS au câble noir cobalt. L'étanchéité sera effectuée en coulant de la résine dans le contenant.|/|
-|![POP1-2-R8-2](/../doc/kosmos/pictures/productions_of_parts/POP1-2-R8-2.png)|[R8.2](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R8-2_KOSMOS_V3-0.stl)|1|Couvercle pour le raccord de connectiques étanches du capteur de positionnement|Permet de fermer R8|/|
+|![POP1-2-R1](../../pictures/productions_of_parts/POP1-2-R1.png)|[R1](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R1_KOSMOS_V3-0.stl)|2|Ber|Supporte le tube étanche. Il permet avec R1.2 de soutenir le tube|Positionner un générateur de support pour supporter la partie en porte à faux|
+|![POP1-2-R1-2](../../pictures/productions_of_parts/POP1-2-R1-2.png)|[R1.2](https://github.com/KonkArLab/KOSMOS/blob/main/hardware/3Dprint_files/R1-2_KOSMOS_V3-0.stl)|2|Fermeture du Ber|Levier pouvant se refermer sur R1 pour bloquer le tube étanche au moyen de vis.|Positionner un générateur de support pour supporter la partie en porte à faux|
+|![POP1-2-R2](../../pictures/productions_of_parts/POP1-2-R2.png)|[R2](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R2_KOSMOS_V3-0.stl)|1|Support du capteur de positionnement|Réceptacle du capteur de positionnement|/|
+|![POP1-2-R3](../../pictures/productions_of_parts/POP1-2-R3.png)|[R3](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R3_KOSMOS_V3-0.stl)|1|Embout de croix de Malte|Cette pièce reprend l'effort de la croix de Malte pour la retransmettre à l'arbre qui lui est solidaire au trèpied et donc au sol|Utiliser du support pour maintenir la périphérie en porte à faux ainsi que les alésages.|
+|![POP1-2-R4](../../pictures/productions_of_parts/POP1-2-R4.png)|[R4](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R4_KOSMOS_V3-0.stl)|1|Entretoise du moteur|Le moteur sera positionné dans ce tube. La hauteur de ce dernier peut-être à modifier pour faire coïncider parfaitement l'alignement du pignon moteur et du premier pignon méné.|/|
+|![POP1-2-R5](../../pictures/productions_of_parts/POP1-2-R5.png)|[R5](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R5_KOSMOS_V3-0.stl)|1|Bague d'arbre secondaire|R5 permet l'assemblage de l'arbre secondaire (contenant la croix de Malte) avec la boite du réducteur. Elle reprend le serrage de la croix de Malte sans contraindre le reste des pignons|/|
+|![POP1-2-R6](../../pictures/productions_of_parts/POP1-2-R6.png)|[R6](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R6_KOSMOS_V3-0.stl)|1|Entretoise d'abre primaire|Cette rondelle permet de contraindre les pignons de l'arbre primaire en translation. Sa hauteur doit être ajustée pour ne pas en empécher la rotation libre.|/|
+|![POP1-2-R7](../../pictures/productions_of_parts/POP1-2-R7.png)|[R7](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R7_KOSMOS_V3-0.stl)|1|Raccord de connectiques étanches du moteur|R7 est l'emplacement où l'on va connecter les câbles du moteur au câble noir cobalt. L'étanchéité sera effectuée en coulant de la résine dans le contenant.|/|
+|![POP1-2-R7-2](../../pictures/productions_of_parts/POP1-2-R7-2.png)|[R7.2](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R7-2_KOSMOS_V3-0.stl)|1|Couvercle pour le raccord de connectiques étanches du moteur|Permet de fermer R7|/|
+|![POP1-2-R8](../../pictures/productions_of_parts/POP1-2-R8.png)|[R8](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R8_KOSMOS_V3-0.stl)|1|Raccord de connectiques étanches du capteur de positionnement|R8 est l'emplacement où l'on va connecter les câbles du capteur ILS au câble noir cobalt. L'étanchéité sera effectuée en coulant de la résine dans le contenant.|/|
+|![POP1-2-R8-2](../../pictures/productions_of_parts/POP1-2-R8-2.png)|[R8.2](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/3Dprint_files/R8-2_KOSMOS_V3-0.stl)|1|Couvercle pour le raccord de connectiques étanches du capteur de positionnement|Permet de fermer R8|/|
 
 
 _Note  : Toutes les pièces devront être nettoyées de leurs supports et au cours du montage, elles nécessiteront peut-être d'être limées \(papier de verre ou lime à main\) afin de supprimer toutes traces de fils d'anges._
@@ -56,7 +56,7 @@ Le KOSMOS est composé en plus de pièces imprimées en 3D et de visserie Inox d
 * [Télécharger le fichier de découpe](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/Laser_cut/PMMA-5mm_A5_laser-cut.svg )
 * Découper les pièces S1 S2 dans du PMMA de 5mm d'épaisseur \(prévoir l'équivalent de la surface d'une feuille A5\) ;
 
-![POP2-1](/../doc/kosmos/pictures/productions_of_parts/POP2-1.PNG)
+![POP2-1](../../pictures/productions_of_parts/POP2-1.PNG)
 
 ​
 
@@ -70,7 +70,7 @@ Ces pièces constituent l'enveloppe du réducteur du KOSMOS. On peut les réalis
 * [Télécharger le fichier de découpes](https://github.com/KonkArLab/KOSMOS/tree/main/hardware/Laser_cut/PMMA-5mm_A3_Laser-cut.svg) pour lancer une découpe au laser ou à la fraiseuse numérique ;
 * Toutes les pièces sont disposées ici de manière à rentrer dans un format A3 \(42\*29,7 cm\).
 
-![POP2-2](/../doc/kosmos/pictures/productions_of_parts/POP2-2.png)
+![POP2-2](../../pictures/productions_of_parts/POP2-2.png)
 
 ​
 
@@ -96,7 +96,7 @@ Ces pièces sont les plus délicates à produire. Il est nécessaire de de s'arm
 
 ​
 
-![POP2-3](/../doc/kosmos/pictures/productions_of_parts/POP2-3.PNG)
+![POP2-3](../../pictures/productions_of_parts/POP2-3.PNG)
 
 
 
@@ -122,11 +122,11 @@ La fabrication du KOSMOS 3.0 requiert un circuit imprimé (ou PCB). Ce dernier p
  - Souder deux résistances 100ohm sur R1 et R2
  - Souder 6 résistances de 1kohm sur R3,R4,R5,R6,R7,R8
  
-![POP3-1](/../doc/kosmos/pictures/productions_of_parts/POP3-1.jpg)
+![POP3-1](../../pictures/productions_of_parts/POP3-1.jpg)
 
  - Utiliser les chutes de pattes de résistances pour fabriquer les six ponts de masses.
 
-![POP3-2](/../doc/kosmos/pictures/productions_of_parts/POP3-2.jpg)
+![POP3-2](../../pictures/productions_of_parts/POP3-2.jpg)
 
  - Souder une LED Rouge sur D1 et une LED verte su D2. Attention à la polarité que l'on peut retrouver avec la forme de la LED.
 
@@ -134,23 +134,23 @@ La fabrication du KOSMOS 3.0 requiert un circuit imprimé (ou PCB). Ce dernier p
  - Souder trois ils sur SW1, SW2 et SW3 ;
 
 
-![POP3-3](/../doc/kosmos/pictures/productions_of_parts/POP3-3.jpg)
+![POP3-3](../../pictures/productions_of_parts/POP3-3.jpg)
 
 
  - Souder le relai, le témoin de charge et le RTC aux emplacements prédéfinis ; 
 
-![POP3-4](/../doc/kosmos/pictures/productions_of_parts/POP3-4.jpg)
+![POP3-4](../../pictures/productions_of_parts/POP3-4.jpg)
 
  - Souder 40 broches dupponts ;
 
-![POP3-5](/../doc/kosmos/pictures/productions_of_parts/POP3-5.jpg)
+![POP3-5](../../pictures/productions_of_parts/POP3-5.jpg)
  
  - Souder deux connecteurs JST Male 2 broches sur J2 et J4 en veillant à respecter le sens visible sur les photos ci dessous. 
  - Souder un connecteur JST Male 4 broches  sur J3
  - Souder un connecteur JST Male 5 broches  sur J5
 
-![POP3-6](/../doc/kosmos/pictures/productions_of_parts/POP3-6.jpg)
+![POP3-6](../../pictures/productions_of_parts/POP3-6.jpg)
 
  - Souder une broches de 3 pins dupont coudés sur J6
  
-![POP3-7](/../doc/kosmos/pictures/productions_of_parts/POP3-7.jpg)
+![POP3-7](../../pictures/productions_of_parts/POP3-7.jpg)

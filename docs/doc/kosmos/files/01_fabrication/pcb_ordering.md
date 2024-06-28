@@ -8,7 +8,7 @@ icon:material/hand-coin
  - [Se rendre sur le site de euro circuit](https://www.eurocircuits.com/)
  - Se créer un compte sur le site d'euro circuit
  - Sur la page d'accueil, cliquer sur "Drop PCB Data Here"
-![PO1-1](/../doc/kosmos/pictures/appendices/PO1-1.png)
+![PO1-1](../../pictures/appendices/PO1-1.png)
 
  - Une fenêtre d'exploration s'ouvre, sélectionner l'archive précédemment téléchargée. 
  - Passer les étapes d'assemblage. En effet, nous allons commander un PCB seul sans les composants soudés. 
@@ -19,7 +19,7 @@ icon:material/hand-coin
  - Sur la droite, on peut lire la coût de fabrication d'une unité ainsi que le coût total du projet. 
  - Cliquer sur le bouton orange (au sommet de la colonne de droite) "proceed to sommaire".
  - Une analyse plus posée va s'effectuer. Ceci prend généralement moins d'un quart d'heure.
-![PO1-2](/../doc/kosmos/pictures/appendices/PO1-2.png)
+![PO1-2](../../pictures/appendices/PO1-2.png)
 
  - Si l'analyse est validée, procéder à la commande. 
 

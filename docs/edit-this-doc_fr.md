@@ -4,8 +4,8 @@ icon:material/application-edit-outline
 ## 1/ Introduction
 |||
 |-|-|
-|Cette documentation est mise en page par ReadTheDocs.org et [lisible à l'adresse ci attaché](https://kosmos30.readthedocs.io). En aucun cas, cette adresse permet d'éditer la documentation.|![ED1-1](/../doc/kosmos/pictures/Edit-this-doc/ED1-1.png)|
-|Afin de pouvoir contribuer à cette documentation, vous pouvez contribuer directement au [repository GitHub](https://github.com/KonkArLab/KOSMOS).|![ED1-2](/../doc/kosmos/pictures/Edit-this-doc/ED1-2.png)|
+|Cette documentation est mise en page par ReadTheDocs.org et [lisible à l'adresse ci attaché](https://kosmos30.readthedocs.io). En aucun cas, cette adresse permet d'éditer la documentation.|![ED1-1](doc/kosmos/pictures/Edit-this-doc/ED1-1.png)|
+|Afin de pouvoir contribuer à cette documentation, vous pouvez contribuer directement au [repository GitHub](https://github.com/KonkArLab/KOSMOS).|![ED1-2](doc/kosmos/pictures/Edit-this-doc/ED1-2.png)|
 
 C'est sur GitHub que sont déposés les fichiers sources. On y retrouve l'arborescence suivante : 
 

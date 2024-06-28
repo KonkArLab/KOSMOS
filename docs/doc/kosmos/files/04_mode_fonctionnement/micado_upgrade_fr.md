@@ -14,7 +14,7 @@ Un autre avantage de cette carte est sa toute petite taille : elle mesure 31mm x
 Pour commencer, un relai brancher en série sur l'alimentation 5v de la raspberry. Ce relai sera piloté par l'arduino. 
 Voici le montage entre le module RTC, l’Adafruit et le relais :
 
-![MU2-1](/../doc/kosmos/pictures/micado_upgrade/MU2-1.png)
+![MU2-1](../../pictures/micado_upgrade/MU2-1.png)
 
 ﻿
 ﻿

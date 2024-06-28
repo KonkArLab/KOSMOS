@@ -1,7 +1,7 @@
 icon:fontawesome/solid/fish-fins
 # KOSMOS 3.0
 
-![PhotoKOSMOS30](/../doc/kosmos/pictures/Kosmos3-0.webp)
+![PhotoKOSMOS30](doc/kosmos/pictures/Kosmos3-0.webp)
 
 
 

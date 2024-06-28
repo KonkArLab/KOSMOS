@@ -8,7 +8,7 @@ Le sourcing est la première étape du projet et souvent la plus fastidieuse. So
 
 ## 1. Présentation du fichier de sourcing
 
- - [Télécharger le fichier de sourcing](files/sourcing/sourcing_kosmos30_fr_221024.ods), ou chercher dans le [dossier "docs/files/sourcing"](files/sourcing) un tableur qui conviendrait d'avantage à votre région ou plus proche en temps de votre date d'achat. 
+ - [Télécharger le fichier de sourcing](sourcing_kosmos30_fr_221024.ods), ou chercher dans le [dossier "doc/files/05_sourcing"]('../05_sourcing/') un tableur qui conviendrait d'avantage à votre région ou plus proche en temps de votre date d'achat. 
  - Ouvrir le fichier de sourcing au moyen d'un tableur. Ce fichier a été créé au moyen du logiciel libre [Libre office calc](https://fr.libreoffice.org/download/telecharger-libreoffice/) mais pourra très bien être ouvert par d'autres logiciels de tableurs.
 
  - Ce fichier se compose d'un onglet listant tous les composants et plusieurs autres onglets dont chacun permettra au moyen d'un tableau croisé dynamique de réaliser des notes de tracabilités (ceci permettra de faciliter le travail de validation par votre administration avant l'achat):
@@ -16,7 +16,7 @@ Le sourcing est la première étape du projet et souvent la plus fastidieuse. So
 
 ### 1.1 Détails du tableau "Liste des éléments du KOSMOS 3.0"
 
-![SG1-1](/../doc/kosmos/pictures/sourcing/SG1-1.png)
+![SG1-1](../../pictures/sourcing/SG1-1.png)
 
 
  - **Catégorie :** Catégorie de composants (ex : Electronique, Visserie...)
@@ -37,7 +37,7 @@ Le sourcing est la première étape du projet et souvent la plus fastidieuse. So
  
 ### 1.2 Détails d'une table "note de traçabilité"
 
-![SG1-2](/../doc/kosmos/pictures/sourcing/SG1-2.png)
+![SG1-2](../../pictures/sourcing/SG1-2.png)
 
  - Dans la seconde partie on pourra modifier au moyen d'un menu déroulant le nom du fournisseur. 
  - Le nombre de composants et les prix affichés correspondent aux quantités après déduction du stock (cf. 1.1 Détails...)
@@ -70,4 +70,4 @@ Le sourcing est la première étape du projet et souvent la plus fastidieuse. So
 
 Dans le cas où vous avez modifié le tableur avec des fournisseurs différents ce due au fait que vous ne résidez pas dans la même région ou pour toute autre raison, vos informations pourraient bénéficier par la suite à d'autres personnes.
 
-**Pour contribuer**, déposez votre fichier dans le git à [l'emplacement suivant docs/files/sourcing](files/sourcing). 
+**Pour contribuer**, déposez votre fichier dans le git à [l'emplacement suivant doc/files/05_sourcing]('../05_sourcing/'). 
