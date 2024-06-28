@@ -1,6 +1,6 @@
 site_name: KOSMOS
 repo_url: https://github.com/konkarlab/KOSMOS
-#edit_uri: -/edit/main/docs/
+edit_uri: -/edit/main/docs/
 
 nav:
   - Home: 
