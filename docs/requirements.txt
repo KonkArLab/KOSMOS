@@ -7,3 +7,4 @@ mkdocs-material >= 7.1.11
 mkdocs-static-i18n >= 0.18
 # mkdocs-with-pdf >= 0.9.3 échec de la compilation avec ce package
 mkdocs-glightbox == 0.3.0
+

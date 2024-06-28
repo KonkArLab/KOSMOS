@@ -61,7 +61,7 @@ git pull //Récupérer la dernière version du code
 - Graisser chaque joint (la couche de graisse doit être fine et homogène)  
   ![graisse](../../pictures/deployment/graisse.jpg){ width="300"}
 - Reviser les connecteurs sans oublier les joints  
-  ![joints_valve](../../pictures/deployment/joints_valve.jpg){ width="300"}
+  ![joints_valve](../../pictures/deployment/joints_valves.jpg){ width="300"}
 - Serrer pour assurer l'étanchéité  
   ![serrage_exte](../../pictures/deployment/serrage_exte.jpg){ width="300"}
   ![serrage_inte](../../pictures/deployment/serrage_inte.jpg){ width="300"}

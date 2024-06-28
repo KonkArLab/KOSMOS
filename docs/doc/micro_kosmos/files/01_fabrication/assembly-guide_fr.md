@@ -117,10 +117,9 @@ icon:material/cog
 ## 3. Assemblage du trépried
 
 ??? Outils  
-    * imprimante 3D {[Etape 1](assembly-guide_fr.md#etape-1---impression-3d)}
-    * foret M3, M6 {[Etape 2](assembly-guide_fr.md#etape-2---assemblage-de-la-partie-inf%C3%A9rieur-du-tr%C3%A9pied)}
-    * meuleuse {[Etape 2](assembly-guide_fr.md#etape-2---assemblage-de-la-partie-inf%C3%A9rieur-du-tr%C3%A9pied)}
-
+    * imprimante 3D {[Etape 1](assembly-guide_fr.md#etape-1-impression-3d)}
+    * foret M3, M6 {[Etape 2](assembly-guide_fr.md#etape-2-assemblage-de-la-partie-inferieur-du-trepied)}
+    * meuleuse {[Etape 2](assembly-guide_fr.md#etape-2-assemblage-de-la-partie-inferieur-du-trepied)}
 
 ??? Matériel
 
@@ -176,7 +175,7 @@ Imprimer les pièces inférieur et supérieur du socle ainsi que les pièces de 
 
 ??? Outils
   
-    * foret M2 {[Etape 3](assemblage-guide_fr.md#etape-3---percer-la-coque-ext%C3%A9rieur-du-casque)}
+    * foret M2 {[Etape 3](assembly-guide_fr.md#etape-3-percer-la-coque-exterieur-du-casque)}
     
 
 ??? Matériel
