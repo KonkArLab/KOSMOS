@@ -35,19 +35,14 @@ git pull //Récupérer la dernière version du code
 
         Pour être optimal, les réglages doivent s'effectuer dans une atmosphère lumineuse
 
-
-- Nettoyer le filtre de la caméra et l'objectif avec un produit pour nettoyer les lunettes et un mouchoir  
-  ![objectif](../../pictures/deployment/objectif.jpg){ width="300"} ![filtre_lens](../../pictures/deployment/filtre_lens.jpg){ width="300"}
-- Démarrer la caméra
-- Régler l'ouverture de l'objectif entre 2.8 et 4  
-   ![reglage_objectif](../../pictures/deployment/reglage_objectif.jpg){ width="300"}
-- Placer une mire à environ 5m  
-   ![mire](../../pictures/deployment/mire.jpg){ width="300"}
-- Connectez vous à l'interface web (10.42.0.1)
-- Vérifier avec le live ou le preview de la caméra que la mire est net, modifier le focus si nécessaire
-- Serrer la vis pour fixer les réglages de la caméra  
-   ![vis_reglage](../../pictures/deployment/vis_reglage.jpg){ width="300"}
-- Vérifier que l'image est toujours net et que les paramètres n'ont pas bougés en serrant la vis
+- La première étape consiste à oter le filtre IR présent sur le capteur de la picam afin de maximiser le nombre de photons incidents. Pour cela on peut suivre le [guide](https://www.raspberrypi.com/documentation/accessories/camera.html#filter-removal) proposé par Raspberry.
+- Cette étape réalisée, on nettoiera toutes les surfaces avec un chiffon microfibre puis on remontera l'objectif Edmund sur le capteur. Ré-assembler enfin ce module optique sur le système.
+- Pour faire la mise au point de la caméra, le système ne sera pas placé dans le caisson. On branchera par ailleurs un écran à la Raspberry pour visualiser ce que filme la caméra.
+- Une fois l'écran branché, on allumera le système et on attendra que le système KOSMOS soit en STAND BY.
+- Dans l'interface WEB, modifier le paramètre `05_SYSTEM_shutdown` pour le mettre à 0 et effectuer un `Reboot`. Aller ensuite dans l'onglet `Camera` et éteindre arrêter le système KOSMOS en appuyant sur `Shutdown`. (Cette manipulation permet d'arrêter le script KOSMOS sans éteindre la Rpi. La caméra peut ainsi être utilisée.)
+- Dans le terminal, taper ```rpicam-hello --timeout 0 ``` Cette instruction permet d'afficher le preview. Pour le quitter il suffira de taper ```Ctrl + C ```
+- Placer une mire à cinq mètres de l'objectif. Ouvrir à fond l'objectif (le petit point blanc devant 1.8) pour avoir une profondeur de champ minimale. Réaliser le focus sur la mire avec la bague puis la bloquer solidement. Fermer enfin l'objectif à fond (le petit point blanc sur 11) pour récupérer une profondeur de champ maximale. Bloquer la bague d'ouverture dans cette position. Vérifier que le focus est toujours bon (le fait de serrer les bagues peut parfois les faire bouger.)
+- Sortir du preview puis redémarrer la Raspberry Pi. Le soft kosmos va se remettre en route. Dans l'interface web, remettre le paramètre  `05_SYSTEM_shutdown` sur 1. Effectuer un `Reboot` puis éteindre le système avec un `Shutdown`.
 
 ### Lubrification des joints
 
