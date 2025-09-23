@@ -1,41 +1,36 @@
 icon:fontawesome/solid/list-check
-# Check_list pour une campagne en mer avec 1 KOSMOS
 
+# Check-list PRÉPARATION
 
-|À faire / À emporter                |Quantité|Au Fablab|Avant embarcation|De retour sur terre|
-|------------------------------------|--------|---------|-----------------|-------------------|
-|Vérifier que la batterie est chargée|        |         |                 |                   |
-|Vérifier que la clé USB est vide    |        |         |                 |                   |
-|Batterie de rechange                |1       |         |                 |                   |
-|Flotteur à casier                   |1       |         |                 |                   |
-|Bout 5m                             |1       |         |                 |                   |
-|Jeu de bout                         |1       |         |                 |                   |
-|Grémant                             |1       |         |                 |                   |
-|Lunette de Calfat                   |1       |         |                 |                   |
-|Tube caméra                         |1       |         |                 |                   |
-|Réducteur                           |1       |         |                 |                   |
-|Trépieds                            |1       |         |                 |                   |
-|Colsons                             |Fagot   |         |                 |                   |
-|Plombs                              |2       |         |                 |                   |
-|Pompe à vide                        |1       |         |                 |                   |
-|Aimants                             |2       |         |                 |                   |
-|Ardoise et velleda                  |1       |         |                 |                   |
-|Serviette microfibre                |1       |         |                 |                   |
-|Fiche terrain                       |1       |         |                 |                   |
-|Stylo                               |1       |         |                 |                   |
-|GPS                                 |1       |         |                 |                   |
-|Profondimètre de plongée            |1       |         |                 |                   |
-|Gaffe                               |1       |         |                 |                   |
-|Jeu de clé allen                    |1       |         |                 |                   |
-|Jeu de clé à cliquet                |1       |         |                 |                   |
-|Clé de 8                            |1       |         |                 |                   |
-|Clé de 13                           |2       |         |                 |                   |
-|Pince plate                         |1       |         |                 |                   |
-|Tourne vis plat                     |1       |         |                 |                   |
-|Vis M5                              |2       |         |                 |                   |
-|Écrous M5                           |2       |         |                 |                   |
-|Rondelle M8                         |1       |         |                 |                   |
-|Bouchon du vent                     |1       |         |                 |                   |
-|Tube de graisse (silicon)           |1       |         |                 |                   |
+| **À faire**                                                                                                                   | **OK** |
+|---------------------------------------------------------------------------------------------------------------------------|:--:|
+| Recharger la batterie de la KOSMOS                                                                                        |    |
+| Vider la clé USB et l'initialiser avec les fichiers de config                                                             |    |
+| Vérifier la propreté du hublot de la caméra                                                                               |    |
+| Vérifier que les deux joints des côtés ne sortent pas de leurs gorges et sont en contact continu avec la paroi du caisson |    |
+| Fermer le caisson caméra                                                                                                  |    |
+| Faire un test d’étanchéité avec la pompe à vide                                                                           |    |
+| Visser le bouchon d'étanchéité Vent                                                                                       |    |
+| Faire un test vidéo et de rotation                                                                                        |    |
+| Préparer les points d’échantillonnage et leurs points GPS                                                                 |    |
 
-Cette mise en page a été rendu possible grâce à un [convertisseur csv to Markdown en ligne](https://www.convertcsv.com/csv-to-markdown.htm)
+# Check-list MATÉRIEL
+
+| **À prendre**                                                                                                                                   | **Quantité** | **OK** |
+|:--------------------------------------------------------------------------------------------------------------------------------------------|:--------:|:--:|
+| Caméra KOSMOS montée sur son pied                                                                                                           |    x1    |    |
+| Bouchon d'étanchéité Vent                                                                                                                   |    x1    |    |
+| Aimants de démarrage                                                                                                                        |    x1    |    |
+| Plombs de plongée 1kg                                                                                                                       |    x6    |    |
+| Mousquetons pour attacher les plombs                                                                                                        |    x6    |    |
+| Ligne de bout 5m ou 10m + petit flotteur à casier + bouée                                                                                   |    x1    |    |
+| Lunette de calfat                                                                                                                           |    x1    |    |
+| Gaffe                                                                                                                                       |    x1    |    |
+| Profondimètre de plongée ?                                                                                                                  |    x1    |    |
+| Clé plate de 13                                                                                                                             |    x2    |    |
+| Serviettes & tissus microfibre pour essuyer et protéger les systèmes du soleil, et pour s’essuyer les mains                                 |    x1    |    |
+| Ardoise, feutre véléda, sopalin ou chiffon                                                                                                  |    x1    |    |
+| Cartes, feuilles de terrain vierge, feuilles terrain des jours précédents, plaque pour accrocher les feuilles, crayon, gomme, taille-crayon |    x1    |    |
+| Bouteilles d’eau douce pour rinçage des systèmes                                                                                            |    x3    |    |
+| Si besoin, GPS avec ses 2 piles de rechange                                                                                                 |    x1    |    |
+| Crème solaire, chapeau, eau à boire, lunettes de soleil, appareil photos...                                                                 |    x1    |    |
