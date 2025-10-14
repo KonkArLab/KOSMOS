@@ -8,7 +8,6 @@ nav:
       - 'La documentation': introduction_fr.md
       - 'Editer la documentation': edit-this-doc_fr.md        
       - 'Licence': license.md
-  
   - Kosmos: 
       - 01_FABRICATION:
           - 'Matériel et Sourcing': doc/kosmos/files/05_sourcing/sourcing_fr.md
