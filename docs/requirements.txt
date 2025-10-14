@@ -1,10 +1,10 @@
+mkdocs>=1.5.3
+mkdocs-material>=9.5.13
+mkdocs-glightbox
+jinja2>=3.1.2
+pymdown-extensions
+
 sphinx==4.2.0
 sphinx_rtd_theme==1.0.0
 readthedocs-sphinx-search==0.1.1
-jinja2<3.1.0
-mkdocs >= 1.2.2
-mkdocs-material >= 7.1.11
 mkdocs-static-i18n >= 0.18
-# mkdocs-with-pdf >= 0.9.3 échec de la compilation avec ce package
-mkdocs-glightbox == 0.3.0
-
