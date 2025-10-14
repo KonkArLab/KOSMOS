@@ -8,6 +8,7 @@ nav:
       - 'La documentation': introduction_fr.md
       - 'Editer la documentation': edit-this-doc_fr.md        
       - 'Licence': license.md
+  
   - Kosmos: 
       - 01_FABRICATION:
           - 'Matériel et Sourcing': doc/kosmos/files/05_sourcing/sourcing_fr.md
@@ -37,7 +38,7 @@ nav:
           - 'Déploiement': doc/micro_kosmos/files/03_deployment/deploiement_mkosmos.md
       #- 04_DIFFERENT_MODE:
           #- 'Paravane': doc/kosmos/files/04_mode_fonctionnement/micado_upgrade_fr.md
-
+  - KOSMOS_4.0:
         
 theme:
   name: material
