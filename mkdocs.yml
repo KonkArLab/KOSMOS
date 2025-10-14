@@ -38,6 +38,8 @@ nav:
       #- 04_DIFFERENT_MODE:
           #- 'Paravane': doc/kosmos/files/04_mode_fonctionnement/micado_upgrade_fr.md
   - KOSMOS_4.0:
+      - 01_FABRICATION:
+          - 'Page en cours de fabrication...': doc/kosmos_4.0/files/01_fabrication/page_en_cours_de_fabrication.md
         
 theme:
   name: material
