@@ -8,7 +8,7 @@ nav:
       - 'La documentation': introduction_fr.md
       - 'Editer la documentation': edit-this-doc_fr.md        
       - 'Licence': license.md
-  - Kosmos: 
+  - KOSMOS 3.0: 
       - 01_FABRICATION:
           - 'Matériel et Sourcing': doc/kosmos/files/05_sourcing/sourcing_fr.md
           - 'Outils': doc/kosmos/files/01_fabrication/tools_fr.md
@@ -27,6 +27,9 @@ nav:
       - 05_USAGE_EN_MER:
           - 'Check-list': doc/kosmos/files/03_deployment/check-list_fr.md
           - 'Déploiement': doc/kosmos/files/03_deployment/deployment_fr.md
+  - KOSMOS 4.0:
+      - 01_FABRICATION:
+          - 'Page en cours de fabrication...': doc/kosmos_4.0/files/01_fabrication/page_en_cours_de_fabrication.md
   - µKosmos:
       - 01_FABRICATION:
           - 'Matériel, Outil et impression 3D': hardware/micro_kosmos/01_materiel_general.md
@@ -37,9 +40,7 @@ nav:
           - 'Déploiement': doc/micro_kosmos/files/03_deployment/deploiement_mkosmos.md
       #- 04_DIFFERENT_MODE:
           #- 'Paravane': doc/kosmos/files/04_mode_fonctionnement/micado_upgrade_fr.md
-  - KOSMOS_4.0:
-      - 01_FABRICATION:
-          - 'Page en cours de fabrication...': doc/kosmos_4.0/files/01_fabrication/page_en_cours_de_fabrication.md
+
         
 theme:
   name: material
