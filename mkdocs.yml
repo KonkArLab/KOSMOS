@@ -6,6 +6,7 @@ nav:
   - Home: 
       - 'Le Projet': index.md
       - 'La documentation': introduction_fr.md
+      - 'Utiliser Git': Utiliser_git.md
       - 'Editer la documentation': edit-this-doc_fr.md        
       - 'Licence': license.md
   - KOSMOS 3.0: 
