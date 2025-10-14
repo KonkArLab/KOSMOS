@@ -29,8 +29,8 @@ nav:
           - 'Déploiement': doc/kosmos/files/03_deployment/deployment_fr.md
   - KOSMOS 4.0:
       - 01_FABRICATION:
-          - 'Page en cours de fabrication...': doc/kosmos_4.0/files/01_fabrication/page_en_cours_de_fabrication.md
-  - µKosmos:
+          - 'Doc en cours de fabrication...': doc/kosmos_4.0/files/01_fabrication/doc_en_cours_de_fabrication.md
+  - µKOSMOS:
       - 01_FABRICATION:
           - 'Matériel, Outil et impression 3D': hardware/micro_kosmos/01_materiel_general.md
          #tableau materiel "local"
