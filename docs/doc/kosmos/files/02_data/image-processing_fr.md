@@ -19,6 +19,8 @@ Python :
     
  Pour installer les librairies, tapez dans la console spyder : pip install *nom de la librairie*
  
+ Les besoins en ressources requis (à préciser)
+ 
 ## II/ Lancer l'algorithme 
 
 L'arborescence de fichier doit se présenter comme celui-ci : <img width="700" height = "100" alt="image" src="https://user-images.githubusercontent.com/108416242/185398078-308eef6c-1bec-4154-a7a8-23f91d2af5e1.PNG">
