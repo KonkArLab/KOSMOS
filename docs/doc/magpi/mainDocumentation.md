@@ -4,13 +4,13 @@
 
 Cette partie détaille le montage de la partie étanchétité puis l'installation de tous les composants au sein de cette dernière. L'objectif est d'obtenir le système suivant :
 
-|<img src="./doc/pictures/05_Assemblage/finished.jpg" alt="Caisson" width="700">|
+|<img src="pictures/05_Assemblage/finished.jpg" alt="Caisson" width="700">|
 |:--:|
 |*Caisson assemblé*|
 
 ## **Outils nécessaires**
 
-<img src="./doc/pictures/05_Assemblage/tool_overview.jpg" alt="Outils" width="500">
+<img src="pictures/05_Assemblage/tool_overview.jpg" alt="Outils" width="500">
 
 - **Clé de 17 et Clé WetLink M10**
 - **Clé allen, tournevis plat/cruciforme**
@@ -24,13 +24,13 @@ Le constructeur des composants hermétique propose un tutoriel expliquant l'asse
 
 Suivre le tutoriel précédent pour réaliser la partie "hublot"
 
-<img src="./doc/pictures/05_Assemblage/hublot.jpg" alt="Hublot" width="400">
+<img src="pictures/05_Assemblage/hublot.jpg" alt="Hublot" width="400">
 
 ### Partie connecteurs
 
 On installe d'abord le switch, le port de charge 3 pin, la vis de purge et enfin le bouchon sur le côté en aluminium.
 
-<img src="./doc/pictures/05_Assemblage/end_cap_cables.jpg" alt="Côté aluminium" height="250"> <img src="./doc/pictures/05_Assemblage/end_cap.jpg" alt="Côté aluminium" height="250">
+<img src="pictures/05_Assemblage/end_cap_cables.jpg" alt="Côté aluminium" height="250"> <img src="pictures/05_Assemblage/end_cap.jpg" alt="Côté aluminium" height="250">
 
 Suivre le tutoriel pour assembler le bouchon 4 trous avec les connecteurs avec le flange. 
 
@@ -43,7 +43,7 @@ Dévisser la vis de purge puis assembler les deux flanges et le tube en vérifia
 
 ### Composants nécessaires
 
-<img src="./doc/pictures/05_Assemblage/avant_assemblage.jpg" alt="Composants système" width="400">
+<img src="pictures/05_Assemblage/avant_assemblage.jpg" alt="Composants système" width="400">
 
 - **Batterie**
 - **Connecteur pieuvre**
@@ -59,30 +59,30 @@ Fixer la flange connecteurs sur le support 3D.
 
 Fixer ensuite le convertisseur :
 
-<img src="./doc/pictures/05_Assemblage/convertisseur.jpg" alt="Convertisseur" width="250">
+<img src="pictures/05_Assemblage/convertisseur.jpg" alt="Convertisseur" width="250">
 
 Fixer la Raspberry Pi sur le support 3D. Y connecter la nappe caméra :
 
-<img src="./doc/pictures/05_Assemblage/raspberry.jpg" alt="Raspberry" width="400">
+<img src="pictures/05_Assemblage/raspberry.jpg" alt="Raspberry" width="400">
 
 La batterie est ensuite installé et fixée avec un serre flex, qui passe dans les encoches du support. Les câbles de la batterie passent sous la carte raspberry. Les câbles de charge et du switch sont aussi coincés par le serre flex et passent eux aussi sous la carte.
 
-<img src="./doc/pictures/05_Assemblage/batterie.jpg" alt="Batterie" width="400">
+<img src="pictures/05_Assemblage/batterie.jpg" alt="Batterie" width="400">
 
 ### Cablage
 
 La pieuvre est connectée aux différents éléments, en respectant bien le schéma de câblage.
 
-<img src="./doc/pictures/05_Assemblage/câblage.jpg" alt="Câblage" height="300"> <img src="./doc/pictures/04_Câblage/schema_cablage_couleurs.png" alt="Câblage" width="400"> 
+<img src="pictures/05_Assemblage/câblage.jpg" alt="Câblage" height="300"> <img src="pictures/04_Câblage/schema_cablage_couleurs.png" alt="Câblage" width="400"> 
 
 Les câbles sertis de la pieuvre sont connectés au convertisseur, les câbles d'alimentation de la rapsberry sont branchés sur les pin 1 et 3 de la carte.
 
-<img src="./doc/pictures/05_Assemblage/alim_convertisseur.jpg" alt="Alim convertisseur" width="350">
+<img src="pictures/05_Assemblage/alim_convertisseur.jpg" alt="Alim convertisseur" width="350">
 
 ### Caméra
 Fixer les entretoises sur le support 3D puis y visser la carte caméra. Brancher enfin la nappe.
 
-<img src="./doc/pictures/05_Assemblage/camera.jpg" alt="Alim convertisseur" width="300">
+<img src="pictures/05_Assemblage/camera.jpg" alt="Alim convertisseur" width="300">
 
 ## Installation du logiciel MagPi
 
@@ -91,8 +91,8 @@ Suivre les instructions de la [page web](https://github.com/KonkArLab/kosmos_sof
 Insérer enfin l'électronique dans le caisson étanche puis placer la flange hublot. Placer les brides et revisser la vis de purge.
 Le système est prêt à être utilisé.
 
-<img src="./doc/pictures/05_Assemblage/finished.jpg" alt="Alim convertisseur" width="800">
+<img src="pictures/05_Assemblage/finished.jpg" alt="Alim convertisseur" width="800">
 
-# Mode d'emploi
+
 
 
