@@ -28,9 +28,30 @@ nav:
       - 05_USAGE_EN_MER:
           - 'Check-list': doc/kosmos/files/03_deployment/check-list_fr.md
           - 'Déploiement': doc/kosmos/files/03_deployment/deployment_fr.md
-  - KOSMOS 4.0:
-      - 01_FABRICATION:
-          - 'Doc en cours de fabrication...': doc/kosmos_4.0/files/01_fabrication/doc_en_cours_de_fabrication.md
+  - KOSMOS 5.0:
+      - 01_FABRICATION_CAISSON_BATTERIE:
+          - 'Fabrication de la batterie': doc/CommonElements/01_batterie.md
+          - 'Fabrication du caisson': docs/doc/kosmosV5/02_Batterie.md
+      - 02_FABRICATION_CAISSON_VIDEO:
+          - 'Réalisation de la carte électronique': doc/kosmosV5/01_Video.md#1-r%C3%A9alisation-de-la-carte-%C3%A9lectronique
+          - 'Intégration mécanique': doc/kosmosV5/01_Video.md#2-int%C3%A9gration-m%C3%A9canique
+          - 'Etanchéités': doc/kosmosV5/01_Video.md#3-r%C3%A9alisation-du-caisson-%C3%A9tanche
+          - 'Assemblage': doc/kosmosV5/01_Video.md#4-assemblage-final
+      - 03_FABRICATION_CAISSON_MOTEUR:
+          - 'Réalisation du caisson moteur': doc/kosmosV5/03_Moteur.md
+      - 04_ASSEMBLAGE_FINAL:
+          - 'Assemblage du système complet': doc/kosmosV5/04_Assemblage_Final.md
+      - 05_ACCESSOIRES:
+          - 'Cable de récupération des données': doc/kosmosV5/01_Video.md#5-r%C3%A9alisation-du-cable-de-r%C3%A9cup%C3%A9ration-des-donn%C3%A9es
+          - 'Clé de fonctionnement': doc/kosmosV5/02_Batterie.md#shunt-de-fonctionnement
+          - 'Elements pour la recharge': doc/kosmosV5/02_Batterie.md#elements-pour-la-recharge
+      - 06_TUTORIELS:
+          - 'Test et recharge de la batterie': doc/kosmosV5/02_Batterie.md#test-du-niveau-de-charge
+          - 'Fonctionnement général du système KOSMOS': doc/CommonElements/04_software.md
+          - 'Récupération des données': doc/CommonElements/05_procedures.md#proc%C3%A9dure-de-r%C3%A9cup%C3%A9ration-des-donn%C3%A9es
+          - 'Mise au point de la caméra': doc/CommonElements/05_procedures.md#proc%C3%A9dure-de-mise-au-point-de-la-cam%C3%A9ra
+          - 'Mise-à-jour logiciel': doc/CommonElements/05_procedures.md#proc%C3%A9dure-de-mise-%C3%A0-jour-du-logiciel
+          
   - µKOSMOS:
       - 01_FABRICATION:
           - 'Matériel, Outil et impression 3D': hardware/micro_kosmos/01_materiel_general.md
