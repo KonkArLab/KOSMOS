@@ -1,0 +1,3 @@
+Rouge = gravure
+
+Noir = découpe
