@@ -41,6 +41,7 @@ nav:
           - 'Réalisation du caisson moteur': doc/kosmosV5/03_Moteur.md
       - 04_ASSEMBLAGE_FINAL:
           - 'Assemblage du système complet': doc/kosmosV5/04_Assemblage_Final.md
+          - 'Installation du logiciel embarqué': https://github.com/KonkArLab/kosmos_software/blob/dev_ifremer/README.md 
       - 05_ACCESSOIRES:
           - 'Cable de récupération des données': doc/kosmosV5/01_Video.md#5-r%C3%A9alisation-du-cable-de-r%C3%A9cup%C3%A9ration-des-donn%C3%A9es
           - 'Clé de fonctionnement': doc/kosmosV5/02_Batterie.md#shunt-de-fonctionnement
