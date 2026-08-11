@@ -57,7 +57,7 @@
 
 # Procédure de mise au point de la caméra 
 
-Cette section a pour vocation d'expliciter la méthode pour faire la mise au point de la caméra, que ce soit juste après la réalisation du caisson ou lors d'une maintenance. Pour cette opération il faudra :
+Cette section a pour vocation d'expliciter la méthode pour faire la mise au point de la caméra AVEC UN HUBLOT SPHERIQUE, que ce soit juste après la réalisation du caisson ou lors d'une maintenance. Pour cette opération il faudra :
 - un ordinateur portable avec RealVNC  
 - la caisson caméra et le caisson batterie
 
@@ -82,7 +82,7 @@ Cette section a pour vocation d'expliciter la méthode pour faire la mise au poi
 
 ## Démarrage de la RPi et connexion VNC
 
-- Brancher la clé de fonctionnement sur le caisson batterie. Attendre que la RPi soit démarrée.
+- Brancher la clé de fonctionnement sur le caisson batterie. Attendre que la RPi soit démarrée et qu'elle ait effectuée sa première rotation.
 - Sur l'ordinateur portable, se connecter au WiFi généré par le KOSMOS. 
 - Ouvrir un navigateur et taper `10.42.0.1` pour avoir accès à l'interface web.
 - Modifier le paramètre `06_shutdown` pour le mettre à `0` et effectuer un `Reboot`.
@@ -91,7 +91,7 @@ Cette section a pour vocation d'expliciter la méthode pour faire la mise au poi
 
 <img src="./pictures/05_Procedures/VNC1.PNG" width="500">
 
-- Cliquer sur `Continuer`  si un message d'erreur apparaît puis rentrer les identifiants de connexion. (Normalement id: `kosmos` et mdp: `kosmos`)
+- Cliquer sur `Continuer` si un message d'erreur apparaît puis rentrer les identifiants de connexion. (Normalement id: `kosmos` et mdp: `kosmos`)
 
 <img src="./pictures/05_Procedures/VNC2.PNG" width="500"> <img src="./pictures/05_Procedures/VNC3.PNG" width="500">
 
@@ -105,8 +105,8 @@ python3 kosmosCamFocus.py
 
 <img src="./pictures/05_Procedures/VNC4.PNG" width="600">
 
-- Placer la mire et son support à la place du hublot sphérique.
-- Ouvrir à fond l'objectif, c'est-à-dire mettre le petit point blanc devant 1.8. (On a alors avoir une profondeur de champ minimale.)
+- PLACER MAINTENANT la mire et son support à la place du hublot sphérique.
+- Ouvrir à fond l'objectif, c'est-à-dire mettre le petit point blanc devant 1.8 ; on a alors avoir une profondeur de champ minimale.
 
 <img src="./pictures/05_Procedures/IMG_1378.JPG" width="200">
 
