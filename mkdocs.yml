@@ -52,7 +52,9 @@ nav:
           - 'Récupération des données': doc/CommonElements/05_procedures.md#proc%C3%A9dure-de-r%C3%A9cup%C3%A9ration-des-donn%C3%A9es
           - 'Mise au point de la caméra': doc/CommonElements/05_procedures.md#proc%C3%A9dure-de-mise-au-point-de-la-cam%C3%A9ra
           - 'Mise-à-jour logiciel': doc/CommonElements/05_procedures.md#proc%C3%A9dure-de-mise-%C3%A0-jour-du-logiciel
-          
+  - KOSMOS 3.5:
+      - 01_FABRICATION_BATTERIE:
+	  - 'Fabrication de la batterie': doc\kosmosV35\Batterie.md     
   - µKOSMOS:
       - 01_FABRICATION:
           - 'Matériel, Outil et impression 3D': hardware/micro_kosmos/01_materiel_general.md
