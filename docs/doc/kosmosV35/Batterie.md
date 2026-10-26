@@ -1,4 +1,4 @@
-# Réalisation de la batterie
+# Réalisation de la batterie 
 
 On suivra le [tutoriel dédié](../../CommonElements/doc/01_batterie.md) à la fabrication de batterie. Il faudra néanmoins opérer deux modifications mineures :
 
