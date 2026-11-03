@@ -14,7 +14,7 @@ nav:
           - 'Fabrication de la batterie': doc/kosmosV35/batterie.md
       - 02_Suite...:
           - 'En cours de rédaction': doc/kosmosV35/batterie.md
-  - KOSMOS 5:
+  - KOSMOS 5.0:
       - 01_FABRICATION_CAISSON_BATTERIE:
           - 'Fabrication de la batterie': doc/CommonElements/01_batterie.md
           - 'Fabrication du caisson': docs/doc/kosmosV5/02_Batterie.md
@@ -38,7 +38,7 @@ nav:
           - 'Récupération des données': doc/CommonElements/05_procedures.md#proc%C3%A9dure-de-r%C3%A9cup%C3%A9ration-des-donn%C3%A9es
           - 'Mise au point de la caméra': doc/CommonElements/05_procedures.md#proc%C3%A9dure-de-mise-au-point-de-la-cam%C3%A9ra
           - 'Mise-à-jour logiciel': doc/CommonElements/05_procedures.md#proc%C3%A9dure-de-mise-%C3%A0-jour-du-logiciel
-    - KOSMOS 3: 
+    - KOSMOS 3.0: 
       - 01_FABRICATION:
           - 'Matériel et Sourcing': doc/kosmos/files/05_sourcing/sourcing_fr.md
           - 'Outils': doc/kosmos/files/01_fabrication/tools_fr.md
