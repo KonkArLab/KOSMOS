@@ -23,7 +23,7 @@ Caracéristiques : 3S3P 12,6V 9,6Ah 120Wh
 - paire de ciseaux
 - gants et lunettes de protection
 
-## Sécurité
+## Consignes de sécurité
 ATTENTION, L'ESPACE DE TRAVAIL DOIT ETRE PROPRE ET SANS PARTIES METALIQUES AUX RISQUES DE PROVOQUER DES COURTS CIRCUITS
 
 ## Chapitre 1 : Assemblage des cellules
