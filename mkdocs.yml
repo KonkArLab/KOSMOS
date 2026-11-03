@@ -14,25 +14,6 @@ nav:
           - 'Fabrication de la batterie': doc/kosmosV35/batterie.md
       - 02_Suite...:
           - 'En cours de rédaction': doc/kosmosV35/batterie.md
-  - KOSMOS 3.0: 
-      - 01_FABRICATION:
-          - 'Matériel et Sourcing': doc/kosmos/files/05_sourcing/sourcing_fr.md
-          - 'Outils': doc/kosmos/files/01_fabrication/tools_fr.md
-          - 'Impression des pièces 3D': doc/kosmos/files/01_fabrication/productions_of_parts_fr.md
-          - 'Modification des pièces 3D': doc/kosmos/files/01_fabrication/modify_3Dmodels.md
-          - 'Fabrication de PCB': doc/kosmos/files/01_fabrication/make_a_PCB_fr.md
-          - 'Commande des PCB à des prestataires': doc/kosmos/files/01_fabrication/pcb_ordering.md
-      - 02_ASSEMBLAGE: 
-          - 'Assemblage': doc/kosmos/files/01_fabrication/assembly-guide_fr.md
-      - 03_RECOLTE_DATA: 
-          - 'Calibration': doc/kosmos/files/03_deployment/calibrate_fr.md
-          - 'Collection des vidéos': doc/kosmos/files/02_data/collecting_pictures_fr.md
-          - 'Correction des images': doc/kosmos/files/02_data/image-processing_fr.md
-      - 04_DIFFERENT_MODE:
-          - 'Micado': doc/kosmos/files/04_mode_fonctionnement/micado_upgrade_fr.md
-      - 05_USAGE_EN_MER:
-          - 'Check-list': doc/kosmos/files/03_deployment/check-list_fr.md
-          - 'Déploiement': doc/kosmos/files/03_deployment/deployment_fr.md
   - KOSMOS 5.0:
       - 01_FABRICATION_CAISSON_BATTERIE:
           - 'Fabrication de la batterie': doc/CommonElements/01_batterie.md
@@ -57,6 +38,25 @@ nav:
           - 'Récupération des données': doc/CommonElements/05_procedures.md#proc%C3%A9dure-de-r%C3%A9cup%C3%A9ration-des-donn%C3%A9es
           - 'Mise au point de la caméra': doc/CommonElements/05_procedures.md#proc%C3%A9dure-de-mise-au-point-de-la-cam%C3%A9ra
           - 'Mise-à-jour logiciel': doc/CommonElements/05_procedures.md#proc%C3%A9dure-de-mise-%C3%A0-jour-du-logiciel
+  - KOSMOS 3.0: 
+      - 01_FABRICATION:
+          - 'Matériel et Sourcing': doc/kosmos/files/05_sourcing/sourcing_fr.md
+          - 'Outils': doc/kosmos/files/01_fabrication/tools_fr.md
+          - 'Impression des pièces 3D': doc/kosmos/files/01_fabrication/productions_of_parts_fr.md
+          - 'Modification des pièces 3D': doc/kosmos/files/01_fabrication/modify_3Dmodels.md
+          - 'Fabrication de PCB': doc/kosmos/files/01_fabrication/make_a_PCB_fr.md
+          - 'Commande des PCB à des prestataires': doc/kosmos/files/01_fabrication/pcb_ordering.md
+      - 02_ASSEMBLAGE: 
+          - 'Assemblage': doc/kosmos/files/01_fabrication/assembly-guide_fr.md
+      - 03_RECOLTE_DATA: 
+          - 'Calibration': doc/kosmos/files/03_deployment/calibrate_fr.md
+          - 'Collection des vidéos': doc/kosmos/files/02_data/collecting_pictures_fr.md
+          - 'Correction des images': doc/kosmos/files/02_data/image-processing_fr.md
+      - 04_DIFFERENT_MODE:
+          - 'Micado': doc/kosmos/files/04_mode_fonctionnement/micado_upgrade_fr.md
+      - 05_USAGE_EN_MER:
+          - 'Check-list': doc/kosmos/files/03_deployment/check-list_fr.md
+          - 'Déploiement': doc/kosmos/files/03_deployment/deployment_fr.md
   - µKOSMOS:
       - 01_FABRICATION:
           - 'Matériel, Outil et impression 3D': hardware/micro_kosmos/01_materiel_general.md
