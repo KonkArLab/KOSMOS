@@ -70,8 +70,10 @@ ATTENTION, L'ESPACE DE TRAVAIL DOIT ETRE PROPRE ET SANS PARTIES METALIQUES AUX R
 
 ## Chapitre 4 : Test et recharge de la batterie
 - Vérifier la tension de la batterie aux bornes du connecteur XT30
-![controle_tension](../pictures/controle_tension.jpg){width="300"}
+
+![controle_tensions](../pictures/controle_tensions.jpg){width="300"}
 - Régler une alim de labo sur 12,6V 3A
 - Brancher l'alim aux connecteur jaune XT30 de la batterie 
 - Vérifier la recharge de la batterie en observant le courant
- ![batterie_finale](../pictures/batterie_finale.jpg){width="500"}
+
+![batterie_finale](../pictures/batterie_finale.jpg){width="600"}
