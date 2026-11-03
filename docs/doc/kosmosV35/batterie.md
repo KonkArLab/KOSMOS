@@ -63,6 +63,7 @@ ATTENTION, L'ESPACE DE TRAVAIL DOIT ETRE PROPRE ET SANS PARTIES METALIQUES AUX R
 	
 ### Soudure du pack
 - étamer les bandes de nickel selon la photo suivante
+![etamage_batterie](../pictures/etamage_batterie.jpg){width="400"}
 - souder le BMS au pack en soudant le fil noir P- et le fil rouge
 - souder les câbles d'équilibrage aux bandes de nickel selon la photo
 - checker toutes les tensions sur le connecteur d'équilibrage par rapport à P- (on doit retrouver environ 0V,4V,8V,12V)
