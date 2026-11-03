@@ -73,3 +73,5 @@ ATTENTION, L'ESPACE DE TRAVAIL DOIT ETRE PROPRE ET SANS PARTIES METALIQUES AUX R
 - Régler une alim de labo sur 12,6V 3A
 - Brancher l'alim aux connecteur jaune XT30 de la batterie 
 - Vérifier la recharge de la batterie en observant le courant
+
+ ![batterie_finale](../pictures/batterie_finale.jpg){width="300"}
