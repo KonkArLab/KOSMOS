@@ -9,6 +9,11 @@ nav:
       - 'Utiliser Git': Utiliser_git.md
       - 'Editer la documentation': edit-this-doc_fr.md        
       - 'Licence': license.md
+  - KOSMOS 3.5:
+      - 01_FABRICATION_BATTERIE:
+          - 'Fabrication de la batterie': doc/kosmosV35/batterie.md
+      - 02_Suite...:
+          - 'En cours de rédaction': doc/kosmosV35/batterie.md
   - KOSMOS 3.0: 
       - 01_FABRICATION:
           - 'Matériel et Sourcing': doc/kosmos/files/05_sourcing/sourcing_fr.md
@@ -28,11 +33,6 @@ nav:
       - 05_USAGE_EN_MER:
           - 'Check-list': doc/kosmos/files/03_deployment/check-list_fr.md
           - 'Déploiement': doc/kosmos/files/03_deployment/deployment_fr.md
-  - KOSMOS 3.5:
-      - 01_FABRICATION_BATTERIE:
-          - 'Fabrication de la batterie': doc/kosmosV35/batterie.md
-      - 02_Suite...:
-          - 'En cours de rédaction': doc/kosmosV35/batterie.md
   - KOSMOS 5.0:
       - 01_FABRICATION_CAISSON_BATTERIE:
           - 'Fabrication de la batterie': doc/CommonElements/01_batterie.md
