@@ -11,6 +11,7 @@ Caracéristiques : 3S3P 12,6V 9,6Ah 120Wh
 - fil rouge
 - gaine thermorétractable diamètre 4mm
 - rouleau de scotch électrique noir
+- petit collier de serrage noir
 
 ## Outils et consommables nécessaires
 - soudeuse par point
@@ -64,6 +65,8 @@ ATTENTION, L'ESPACE DE TRAVAIL DOIT ETRE PROPRE ET SANS PARTIES METALIQUES AUX R
 - souder les câbles d'équilibrage aux bandes de nickel selon la photo
 - checker toutes les tensions sur le connecteur d'équilibrage par rapport à P- (on doit retrouver environ 0V,4V,8V,12V)
 - brancher le connecteur d'équilibrage au BMS
+- scotcher les câbles et la sonde de températures
+- attacher les câbles bleu P- et rouges essembles à l'aide du collier de serrage
 
 ## Chapitre 4 : Test et recharge de la batterie
 - Vérifier la tension de la batterie aux bornes du connecteur XT30
