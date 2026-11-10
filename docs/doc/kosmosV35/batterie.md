@@ -19,6 +19,7 @@ Caracéristiques : 3S3P 12,6V 9,6Ah 120Wh
 - soudeuse par point
 - fer à souder
 - bobine d'étain
+- flux (ou décapant)(produit chimique qui permet une soudure à l'étain plus solide)
 - pistolet à air chaud ou briquet
 - voltmètre
 - pince à dénuder de précision
@@ -69,10 +70,11 @@ NB: Au moment de la soudure, possibilité de protéger les parties métalliques 
 
 - souder le BMS au pack en soudant le fil noir P- et le fil rouge
 - souder les câbles d'équilibrage aux bandes de nickel selon la photo
-- checker toutes les tensions sur le connecteur d'équilibrage par rapport à P- (on doit retrouver environ 0V,4V,8V,12V)
+- vérifier toutes les tensions sur le connecteur d'équilibrage par rapport à P- (on doit retrouver environ 0V,4V,8V,12V)
 - brancher le connecteur d'équilibrage au BMS
 - scotcher les câbles et la sonde de températures
-- attacher les câbles bleu P- et rouges essembles à l'aide du collier de serrage
+- attacher les câbles bleu P- et rouges ensemble à l'aide du collier de serrage
+NB: utiliser le flux pour nettoyer la surface à braser (élimine les oxydes et les impuretés présents sur le métaux à l'air libre, qui empêcheraient l'étain d'adhérer et permet à l'étain fondu de bien s'étaler et de former une liaison propre, solide et conductrice)
 
 ## Chapitre 4 : Test et recharge de la batterie
 - Vérifier la tension de la batterie aux bornes du connecteur XT30
