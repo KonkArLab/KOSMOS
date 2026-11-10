@@ -27,13 +27,14 @@ Caracéristiques : 3S3P 12,6V 9,6Ah 120Wh
 - gants et lunettes de protection
 
 ## Consignes de sécurité
-ATTENTION, L'ESPACE DE TRAVAIL DOIT ETRE PROPRE ET SANS PARTIES METALIQUES AUX RISQUES DE PROVOQUER DES COURTS CIRCUITS
+ATTENTION, L'ESPACE DE TRAVAIL DOIT ETRE PROPRE ET SANS PARTIES METALLIQUES AU RISQUE DE PROVOQUER DES COURTS CIRCUITS
+NB: Au moment de la soudure, possibilité de protéger les parties métalliques que l'on n'est pas en train de souder, avec un isolant type scotch, électricien ou autre adhésif isolant 
 
 ## Chapitre 1 : Assemblage des cellules
-- vérifier avec le voltmètre que les cellules soient identiques et supérieurs à 3V
+- vérifier avec le voltmètre que les tensions des cellules soient identiques et supérieures à 3V
 - ébavurer les supports imprimés en 3D pour faciliter l'insertion des cellules
 - installer les 9 cellules dans le support selon la photo (le côté avec la pastille blanche est le pôle +)
-- emboiter le 2ème support par dessus, retourner la batterie et marquer le 1er support en noir pour identifier le côté avec la masse de la batterie
+- emboîter le 2ème support par dessus, retourner la batterie et marquer le 1er support en noir pour identifier le côté avec la masse de la batterie
 
 ## Chapitre 2 : Soudure des cellules
 - couper 7 bandes de nickel à l'aide de la pince coupante selon les longueurs suivantes :
