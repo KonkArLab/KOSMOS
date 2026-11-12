@@ -11,6 +11,7 @@ Caracéristiques : 3S3P 12,6V 9,6Ah 120Wh
 - fil rouge
 - gaine thermorétractable diamètre 4mm
 - rouleau de scotch électrique noir
+- rouleau de scotch à peinture
 - petit collier de serrage noir
 
 ![kit_batterie](../pictures/kit_batterie.jpg){width="800"}
@@ -19,7 +20,7 @@ Caracéristiques : 3S3P 12,6V 9,6Ah 120Wh
 - soudeuse par point
 - fer à souder
 - bobine d'étain
-- flux (ou décapant)(produit chimique qui permet une soudure à l'étain plus solide)
+- flux de brasage ou décapant (si besoin)
 - pistolet à air chaud ou briquet
 - voltmètre
 - pince à dénuder de précision
@@ -28,8 +29,13 @@ Caracéristiques : 3S3P 12,6V 9,6Ah 120Wh
 - gants et lunettes de protection
 
 ## Consignes de sécurité
-ATTENTION, L'ESPACE DE TRAVAIL DOIT ETRE PROPRE ET SANS PARTIES METALLIQUES AU RISQUE DE PROVOQUER DES COURTS CIRCUITS
-NB: Au moment de la soudure, possibilité de protéger les parties métalliques que l'on n'est pas en train de souder, avec un isolant type scotch, électricien ou autre adhésif isolant 
+ATTENTION, L'ESPACE DE TRAVAIL DOIT ETRE PROPRE ET SANS PARTIES METALLIQUES AU RISQUE DE PROVOQUER DES COURTS CIRCUITS.
+Au moment de la soudure des cellules, il est conseillé de protéger les bornes métaliques des cellules que l'on n'est pas en train de souder avec du scotch à peinture.
+
+## Conseils et techniques pour le brasage (ou soudure)
+Si besoin, utiliser du flux pour nettoyer les surfaces avant brasure.
+Ce produit sert à éliminer l'oxydation et les impuretés présents sur les métaux qui empêcheraient l'étain d'adhérer.
+Une fois la brasure faite, il permet d'avoir une liaison propre, solide et conductrice.
 
 ## Chapitre 1 : Assemblage des cellules
 - vérifier avec le voltmètre que les tensions des cellules soient identiques et supérieures à 3V
@@ -74,7 +80,6 @@ NB: Au moment de la soudure, possibilité de protéger les parties métalliques 
 - brancher le connecteur d'équilibrage au BMS
 - scotcher les câbles et la sonde de températures
 - attacher les câbles bleu P- et rouges ensemble à l'aide du collier de serrage
-NB: utiliser le flux pour nettoyer la surface à braser (élimine les oxydes et les impuretés présents sur le métaux à l'air libre, qui empêcheraient l'étain d'adhérer et permet à l'étain fondu de bien s'étaler et de former une liaison propre, solide et conductrice)
 
 ## Chapitre 4 : Test et recharge de la batterie
 - Vérifier la tension de la batterie aux bornes du connecteur XT30
